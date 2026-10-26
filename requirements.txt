@@ -1,6 +1,6 @@
 pandas>=2.0
 numpy>=1.26
-scikit-learn>=1.6.1
+scikit-learn==1.6.1
 matplotlib>=3.8
 seaborn>=0.13
 joblib>=1.3
