@@ -1,0 +1,2444 @@
+AccountID,TransactionDate,TransactionAmount,Channel,TransactionType,Location,LoginAttempts,segment,segment_name
+AC00001,2023-09-15 17:00:20,47.79,Branch,Debit,Denver,1.0,0,Segmen 0
+AC00001,2023-11-14 16:56:34,212.97,Online,Debit,Atlanta,1.0,0,Segmen 0
+AC00002,2023-01-10 16:00:32,476.99,Online,Debit,San Diego,1.0,1,Segmen 1
+AC00002,2023-02-28 16:36:58,59.32,Branch,Debit,Los Angeles,1.0,1,Segmen 1
+AC00002,2023-05-05 16:35:44,12.62,Branch,Debit,El Paso,1.0,1,Segmen 1
+AC00002,2023-05-16 16:07:30,263.99,Branch,Debit,Dallas,2.0,1,Segmen 1
+AC00002,2023-07-24 16:14:05,395.16,Online,Debit,Milwaukee,1.0,1,Segmen 1
+AC00002,2023-09-11 17:52:59,331.66,ATM,Debit,Las Vegas,1.0,1,Segmen 1
+AC00002,2023-12-21 17:00:50,516.47,ATM,Credit,Charlotte,1.0,1,Segmen 1
+AC00003,2023-01-02 16:45:05,20.17,ATM,Debit,San Antonio,1.0,2,Segmen 2
+AC00003,2023-01-09 17:26:46,237.97,ATM,Debit,Columbus,1.0,2,Segmen 2
+AC00003,2023-03-06 17:26:59,416.62,Online,Credit,Baltimore,1.0,2,Segmen 2
+AC00003,2023-05-15 16:35:43,384.11,ATM,Debit,Fort Worth,1.0,2,Segmen 2
+AC00003,2023-10-02 18:57:19,207.47,ATM,Debit,Miami,1.0,2,Segmen 2
+AC00004,2023-05-01 17:36:10,13.16,Branch,Debit,Mesa,1.0,1,Segmen 1
+AC00004,2023-05-10 18:49:20,642.54,Branch,Debit,Milwaukee,1.0,1,Segmen 1
+AC00004,2023-06-26 16:53:58,99.25,Online,Credit,Phoenix,1.0,1,Segmen 1
+AC00004,2023-07-10 17:15:27,547.87,ATM,Debit,Columbus,1.0,1,Segmen 1
+AC00004,2023-10-30 16:38:14,136.31,Online,Debit,Nashville,1.0,1,Segmen 1
+AC00004,2023-11-23 16:51:06,365.43,ATM,Debit,Portland,1.0,1,Segmen 1
+AC00004,2023-12-12 16:56:18,273.24,Branch,Debit,Fresno,1.0,1,Segmen 1
+AC00004,2024-01-01 16:08:49,40.66,Branch,Debit,Louisville,1.0,1,Segmen 1
+AC00005,2023-02-22 16:18:32,162.59,Branch,Debit,Indianapolis,1.0,1,Segmen 1
+AC00005,2023-02-22 17:29:36,377.92,Branch,Debit,Raleigh,1.0,1,Segmen 1
+AC00005,2023-02-27 16:38:41,680.76,Branch,Debit,Charlotte,1.0,1,Segmen 1
+AC00005,2023-05-17 17:28:25,420.28,Branch,Debit,Washington,1.0,1,Segmen 1
+AC00005,2023-06-26 16:21:14,417.8,Branch,Credit,Philadelphia,1.0,1,Segmen 1
+AC00005,2023-07-03 17:47:49,488.54,Branch,Debit,Jacksonville,1.0,1,Segmen 1
+AC00005,2023-11-20 16:31:15,116.89,Online,Debit,Columbus,1.0,1,Segmen 1
+AC00005,2023-11-30 18:08:39,359.51,Branch,Debit,Charlotte,1.0,1,Segmen 1
+AC00005,2023-12-04 18:01:53,107.48,Branch,Debit,Omaha,1.0,1,Segmen 1
+AC00006,2023-02-28 17:28:13,158.56,ATM,Debit,Sacramento,1.0,2,Segmen 2
+AC00006,2023-05-24 16:25:50,74.88,ATM,Debit,Atlanta,1.0,2,Segmen 2
+AC00006,2023-08-11 17:12:30,611.15,ATM,Debit,Detroit,1.0,2,Segmen 2
+AC00006,2023-10-05 16:46:31,173.13,Online,Credit,Atlanta,1.0,2,Segmen 2
+AC00007,2023-07-24 16:07:05,637.75,Branch,Debit,Dallas,1.0,2,Segmen 2
+AC00007,2023-09-04 16:57:31,466.64,ATM,Debit,Las Vegas,1.0,2,Segmen 2
+AC00007,2023-11-20 17:08:33,90.88,ATM,Debit,Colorado Springs,1.0,2,Segmen 2
+AC00007,2023-11-27 17:34:33,137.48,Branch,Debit,Seattle,1.0,2,Segmen 2
+AC00008,2023-11-21 16:45:29,76.16,ATM,Debit,San Francisco,1.0,2,Segmen 2
+AC00009,2023-02-14 16:21:23,243.08,Online,Credit,Jacksonville,1.0,0,Segmen 0
+AC00009,2023-02-20 16:16:39,425.18,Online,Credit,Fresno,1.0,0,Segmen 0
+AC00009,2023-03-03 18:23:29,87.38,Branch,Debit,Atlanta,1.0,0,Segmen 0
+AC00009,2023-05-04 17:43:59,153.59,Branch,Credit,Portland,1.0,0,Segmen 0
+AC00009,2023-12-25 17:19:08,74.85,ATM,Debit,Raleigh,1.0,0,Segmen 0
+AC00010,2023-01-12 17:10:03,281.91,Branch,Debit,Denver,1.0,1,Segmen 1
+AC00010,2023-02-06 16:38:45,7.56,ATM,Debit,Milwaukee,1.0,1,Segmen 1
+AC00010,2023-05-22 17:40:46,1086.6,Online,Debit,San Diego,1.0,1,Segmen 1
+AC00010,2023-06-26 16:08:25,838.57,ATM,Debit,Phoenix,1.0,1,Segmen 1
+AC00010,2023-06-26 16:16:50,508.68,Branch,Credit,Mesa,1.0,1,Segmen 1
+AC00010,2023-11-21 16:57:43,34.17,Online,Credit,Philadelphia,1.0,1,Segmen 1
+AC00010,2023-11-30 16:52:42,11.18,Online,Debit,Atlanta,1.0,1,Segmen 1
+AC00011,2023-03-15 18:42:16,733.29,ATM,Debit,Virginia Beach,5.0,1,Segmen 1
+AC00011,2023-05-19 16:35:07,117.55,ATM,Debit,Fresno,1.0,1,Segmen 1
+AC00011,2023-06-30 16:31:49,688.36,Branch,Credit,Memphis,1.0,1,Segmen 1
+AC00011,2023-07-17 17:08:24,25.36,ATM,Debit,Louisville,1.0,1,Segmen 1
+AC00011,2023-07-26 16:52:28,304.31,Branch,Debit,Louisville,1.0,1,Segmen 1
+AC00011,2023-09-19 16:44:21,537.86,Online,Debit,Kansas City,1.0,1,Segmen 1
+AC00011,2023-12-20 17:15:14,31.53,Online,Debit,Kansas City,1.0,1,Segmen 1
+AC00012,2023-03-21 16:36:30,94.82,Branch,Credit,Columbus,1.0,1,Segmen 1
+AC00012,2023-06-05 17:08:37,8.65,Online,Debit,Las Vegas,1.0,1,Segmen 1
+AC00012,2023-06-28 16:07:37,590.57,ATM,Debit,Milwaukee,1.0,1,Segmen 1
+AC00012,2023-07-26 16:54:08,137.49,ATM,Debit,Fort Worth,1.0,1,Segmen 1
+AC00012,2023-08-07 18:52:42,927.45,ATM,Debit,Austin,1.0,1,Segmen 1
+AC00012,2023-12-26 16:08:51,308.8,ATM,Debit,Baltimore,1.0,1,Segmen 1
+AC00013,2023-02-20 16:52:03,33.46,ATM,Debit,Seattle,1.0,1,Segmen 1
+AC00013,2023-03-28 16:02:03,427.69,ATM,Debit,Raleigh,1.0,1,Segmen 1
+AC00013,2023-07-27 17:04:46,75.04,ATM,Debit,El Paso,1.0,1,Segmen 1
+AC00013,2023-08-28 16:56:05,172.92,Online,Debit,Miami,1.0,1,Segmen 1
+AC00013,2023-11-01 16:52:01,114.98,Online,Debit,Seattle,1.0,1,Segmen 1
+AC00013,2023-11-20 16:07:20,422.81,Branch,Debit,Los Angeles,1.0,1,Segmen 1
+AC00013,2023-12-11 17:29:02,138.11,Online,Credit,Phoenix,1.0,1,Segmen 1
+AC00013,2023-12-27 16:48:30,246.27,Online,Debit,Fresno,1.0,1,Segmen 1
+AC00014,2023-03-30 17:50:23,719.76,Branch,Debit,San Francisco,1.0,1,Segmen 1
+AC00014,2023-05-03 17:04:32,643.22,ATM,Debit,Atlanta,1.0,1,Segmen 1
+AC00014,2023-06-13 16:10:27,605.42,ATM,Debit,Mesa,1.0,1,Segmen 1
+AC00014,2023-06-26 18:39:52,121.91,Branch,Debit,Chicago,1.0,1,Segmen 1
+AC00014,2023-07-17 18:54:31,174.25,Online,Debit,Seattle,1.0,1,Segmen 1
+AC00014,2023-07-31 17:04:29,427.0,Branch,Credit,Oklahoma City,1.0,1,Segmen 1
+AC00014,2023-08-11 18:31:31,85.77,Branch,Debit,Las Vegas,1.0,1,Segmen 1
+AC00014,2023-12-07 16:59:06,10.3,ATM,Debit,Fresno,1.0,1,Segmen 1
+AC00014,2024-01-01 16:17:13,346.65,Online,Debit,Washington,1.0,1,Segmen 1
+AC00015,2023-03-06 16:12:45,774.48,Branch,Debit,Louisville,1.0,0,Segmen 0
+AC00015,2023-03-13 16:33:49,73.35,Branch,Debit,San Francisco,1.0,0,Segmen 0
+AC00015,2023-04-24 16:14:34,50.9,Online,Credit,Jacksonville,1.0,0,Segmen 0
+AC00015,2023-11-06 16:28:15,250.01,ATM,Debit,Kansas City,1.0,0,Segmen 0
+AC00016,2023-02-24 18:05:12,50.0,ATM,Credit,Jacksonville,1.0,1,Segmen 1
+AC00016,2023-03-06 17:37:32,1105.88,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00016,2023-03-17 16:22:52,26.27,Online,Credit,Portland,1.0,1,Segmen 1
+AC00016,2023-03-20 17:21:43,314.52,ATM,Debit,Memphis,1.0,1,Segmen 1
+AC00016,2023-09-12 18:52:56,705.34,Online,Debit,Washington,1.0,1,Segmen 1
+AC00016,2023-10-16 17:43:00,69.96,Branch,Debit,Baltimore,1.0,1,Segmen 1
+AC00017,2023-01-30 16:04:17,103.48,ATM,Debit,Baltimore,1.0,2,Segmen 2
+AC00017,2023-03-01 17:43:22,492.84,ATM,Debit,Indianapolis,1.0,2,Segmen 2
+AC00017,2023-05-29 18:27:43,261.63,Branch,Debit,Chicago,1.0,2,Segmen 2
+AC00017,2023-06-21 16:23:53,215.39,ATM,Debit,Detroit,1.0,2,Segmen 2
+AC00017,2023-11-27 17:39:39,60.11,Branch,Credit,Albuquerque,1.0,2,Segmen 2
+AC00018,2023-02-20 16:36:36,1228.81,ATM,Debit,San Francisco,1.0,0,Segmen 0
+AC00018,2023-06-05 17:24:29,331.32,Branch,Debit,Sacramento,5.0,0,Segmen 0
+AC00018,2023-08-11 16:18:46,98.54,Online,Credit,El Paso,1.0,0,Segmen 0
+AC00019,2023-02-08 16:29:56,291.46,ATM,Debit,Miami,1.0,0,Segmen 0
+AC00019,2023-03-27 17:53:15,41.13,Branch,Credit,Philadelphia,1.0,0,Segmen 0
+AC00019,2023-04-03 16:34:10,489.31,Branch,Debit,Louisville,1.0,0,Segmen 0
+AC00019,2023-07-10 18:16:08,126.29,Online,Debit,Mesa,1.0,0,Segmen 0
+AC00020,2023-01-12 17:58:56,359.65,Online,Credit,Jacksonville,1.0,1,Segmen 1
+AC00020,2023-03-15 17:39:11,91.77,Branch,Debit,Omaha,1.0,1,Segmen 1
+AC00020,2023-04-10 17:57:59,353.82,ATM,Debit,Milwaukee,1.0,1,Segmen 1
+AC00020,2023-06-02 16:54:12,28.52,ATM,Debit,Detroit,1.0,1,Segmen 1
+AC00020,2023-08-24 16:47:21,288.04,ATM,Debit,Denver,1.0,1,Segmen 1
+AC00020,2023-08-24 17:34:13,603.23,Branch,Debit,Detroit,1.0,1,Segmen 1
+AC00020,2023-09-21 16:05:38,589.64,Online,Debit,Charlotte,1.0,1,Segmen 1
+AC00020,2023-10-16 16:49:07,592.24,ATM,Debit,Tucson,1.0,1,Segmen 1
+AC00020,2023-11-13 16:46:06,881.1,Branch,Debit,Phoenix,1.0,1,Segmen 1
+AC00021,2023-01-23 16:03:04,263.59,Branch,Debit,Dallas,1.0,1,Segmen 1
+AC00021,2023-05-02 17:24:54,762.74,ATM,Debit,Los Angeles,1.0,1,Segmen 1
+AC00021,2023-05-05 17:31:53,416.55,Online,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00021,2023-07-03 17:03:48,180.24,Branch,Debit,Phoenix,1.0,1,Segmen 1
+AC00021,2023-07-14 17:44:23,1142.83,Branch,Credit,Omaha,1.0,1,Segmen 1
+AC00021,2023-09-18 18:47:52,275.92,Branch,Credit,Nashville,1.0,1,Segmen 1
+AC00021,2023-11-28 16:17:29,486.61,ATM,Credit,Sacramento,1.0,1,Segmen 1
+AC00021,2023-12-08 16:36:30,734.86,Branch,Credit,Boston,1.0,1,Segmen 1
+AC00022,2023-03-13 16:32:12,91.53,Branch,Debit,Milwaukee,1.0,0,Segmen 0
+AC00022,2023-04-13 17:35:38,1.82,Online,Debit,San Francisco,1.0,0,Segmen 0
+AC00022,2023-06-02 16:27:08,514.33,Branch,Debit,Philadelphia,1.0,0,Segmen 0
+AC00022,2023-08-24 16:01:40,168.0,Branch,Credit,Tucson,1.0,0,Segmen 0
+AC00023,2023-02-27 16:15:53,422.9,ATM,Debit,Tucson,1.0,1,Segmen 1
+AC00023,2023-05-04 16:25:15,126.22,ATM,Debit,Atlanta,4.0,1,Segmen 1
+AC00023,2023-05-22 16:38:39,59.73,ATM,Debit,Fresno,1.0,1,Segmen 1
+AC00023,2023-06-27 16:37:04,191.89,Branch,Debit,San Antonio,1.0,1,Segmen 1
+AC00023,2023-08-25 16:52:28,196.08,Online,Debit,San Francisco,1.0,1,Segmen 1
+AC00023,2023-09-18 16:04:06,254.92,ATM,Credit,San Antonio,1.0,1,Segmen 1
+AC00024,2023-04-03 16:22:48,820.46,Online,Credit,Fort Worth,1.0,0,Segmen 0
+AC00024,2023-05-22 17:27:11,84.89,ATM,Debit,San Jose,1.0,0,Segmen 0
+AC00024,2023-08-07 16:08:04,28.78,Online,Credit,Tucson,1.0,0,Segmen 0
+AC00024,2023-08-10 17:08:52,423.53,Branch,Credit,Kansas City,1.0,0,Segmen 0
+AC00024,2023-10-30 16:36:24,69.28,Online,Debit,Los Angeles,1.0,0,Segmen 0
+AC00025,2023-12-08 17:05:35,65.26,Branch,Debit,Sacramento,1.0,2,Segmen 2
+AC00026,2023-01-09 16:54:30,329.69,Online,Credit,San Antonio,1.0,0,Segmen 0
+AC00026,2023-02-20 16:48:49,90.88,Branch,Debit,Albuquerque,1.0,0,Segmen 0
+AC00026,2023-04-10 16:47:55,278.27,Branch,Debit,Tucson,1.0,0,Segmen 0
+AC00026,2023-05-04 16:44:56,66.5,Online,Credit,Louisville,1.0,0,Segmen 0
+AC00026,2023-10-12 16:58:25,147.46,Online,Credit,Albuquerque,1.0,0,Segmen 0
+AC00026,2023-10-30 17:24:55,39.31,Online,Debit,Portland,1.0,0,Segmen 0
+AC00027,2023-09-11 16:09:15,262.06,Branch,Debit,Oklahoma City,1.0,2,Segmen 2
+AC00027,2023-11-13 16:16:48,277.02,ATM,Credit,Denver,1.0,2,Segmen 2
+AC00027,2023-11-20 16:29:14,18.46,Branch,Debit,Charlotte,1.0,2,Segmen 2
+AC00028,2023-02-07 17:38:18,107.48,Branch,Debit,Los Angeles,1.0,2,Segmen 2
+AC00028,2023-06-27 16:52:00,398.36,ATM,Debit,Columbus,1.0,2,Segmen 2
+AC00028,2023-09-25 17:11:19,1664.33,Branch,Debit,San Antonio,1.0,2,Segmen 2
+AC00029,2023-02-06 16:30:43,129.48,ATM,Debit,Seattle,1.0,1,Segmen 1
+AC00029,2023-02-27 16:39:28,11.18,ATM,Debit,Miami,1.0,1,Segmen 1
+AC00029,2023-07-12 16:52:54,116.97,ATM,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00029,2023-09-26 18:36:46,390.35,ATM,Credit,Omaha,1.0,1,Segmen 1
+AC00029,2023-11-29 18:38:41,101.19,Online,Credit,Denver,1.0,1,Segmen 1
+AC00029,2023-12-04 18:30:00,1192.95,Branch,Debit,Las Vegas,1.0,1,Segmen 1
+AC00030,2023-03-20 16:29:02,520.86,Online,Credit,Sacramento,1.0,1,Segmen 1
+AC00030,2023-04-17 16:53:29,384.41,ATM,Debit,Jacksonville,1.0,1,Segmen 1
+AC00030,2023-05-10 17:49:57,76.89,ATM,Debit,Chicago,1.0,1,Segmen 1
+AC00030,2023-05-10 17:56:31,348.17,ATM,Debit,El Paso,1.0,1,Segmen 1
+AC00030,2023-07-05 16:52:09,251.4,ATM,Debit,Tucson,1.0,1,Segmen 1
+AC00030,2023-09-14 16:58:48,211.1,Branch,Debit,Miami,1.0,1,Segmen 1
+AC00030,2023-09-26 16:18:33,456.93,Branch,Credit,Virginia Beach,1.0,1,Segmen 1
+AC00030,2023-10-19 17:41:40,363.84,Online,Debit,Columbus,3.0,1,Segmen 1
+AC00030,2023-10-25 16:13:39,356.1,Branch,Credit,Fort Worth,1.0,1,Segmen 1
+AC00032,2023-01-26 16:17:52,239.85,ATM,Debit,Tucson,1.0,1,Segmen 1
+AC00032,2023-03-06 16:45:24,341.67,Branch,Debit,Omaha,5.0,1,Segmen 1
+AC00032,2023-08-17 18:31:23,43.91,Online,Debit,Albuquerque,1.0,1,Segmen 1
+AC00032,2023-09-11 18:08:19,52.23,Branch,Credit,San Francisco,1.0,1,Segmen 1
+AC00032,2023-09-28 17:18:26,467.13,Branch,Credit,Kansas City,1.0,1,Segmen 1
+AC00032,2023-12-07 16:02:47,582.17,Branch,Debit,Tucson,1.0,1,Segmen 1
+AC00032,2023-12-19 16:39:57,388.21,Branch,Credit,Columbus,1.0,1,Segmen 1
+AC00033,2023-02-13 17:02:27,40.57,Branch,Debit,Columbus,1.0,2,Segmen 2
+AC00033,2023-05-22 18:23:18,63.54,ATM,Debit,Dallas,1.0,2,Segmen 2
+AC00033,2023-06-22 17:27:50,46.53,ATM,Debit,San Francisco,1.0,2,Segmen 2
+AC00033,2023-08-07 17:45:52,397.01,ATM,Debit,Los Angeles,1.0,2,Segmen 2
+AC00033,2023-12-06 16:42:18,305.92,ATM,Debit,El Paso,1.0,2,Segmen 2
+AC00033,2023-12-19 16:46:08,47.42,ATM,Debit,San Diego,1.0,2,Segmen 2
+AC00034,2023-03-30 16:09:26,202.11,ATM,Debit,Memphis,1.0,0,Segmen 0
+AC00034,2023-07-26 16:27:19,95.35,Online,Debit,Chicago,1.0,0,Segmen 0
+AC00034,2023-10-17 18:02:43,72.47,Online,Debit,Boston,1.0,0,Segmen 0
+AC00034,2023-10-23 17:17:18,637.97,Branch,Debit,New York,1.0,0,Segmen 0
+AC00035,2023-05-19 16:52:53,73.23,Branch,Debit,Portland,1.0,1,Segmen 1
+AC00035,2023-06-15 18:57:42,78.92,Online,Credit,Jacksonville,1.0,1,Segmen 1
+AC00035,2023-08-07 17:42:03,813.78,ATM,Credit,Atlanta,1.0,1,Segmen 1
+AC00035,2023-09-28 16:33:08,171.16,Online,Debit,New York,1.0,1,Segmen 1
+AC00035,2023-10-16 16:09:47,211.18,ATM,Debit,Washington,1.0,1,Segmen 1
+AC00035,2023-10-26 16:54:32,53.51,Online,Debit,New York,1.0,1,Segmen 1
+AC00035,2023-10-30 18:44:22,471.88,Online,Credit,San Jose,1.0,1,Segmen 1
+AC00035,2023-12-04 16:18:39,70.88,Branch,Credit,Omaha,1.0,1,Segmen 1
+AC00035,2023-12-07 16:11:01,206.63,Online,Credit,Oklahoma City,1.0,1,Segmen 1
+AC00036,2023-02-13 16:39:52,71.95,Online,Credit,Indianapolis,1.0,0,Segmen 0
+AC00036,2023-03-08 17:07:21,710.43,Online,Debit,San Diego,1.0,0,Segmen 0
+AC00036,2023-05-15 17:15:25,58.85,Online,Credit,Milwaukee,1.0,0,Segmen 0
+AC00036,2023-05-18 18:15:02,26.92,ATM,Debit,Indianapolis,1.0,0,Segmen 0
+AC00036,2023-07-19 17:03:58,740.25,Online,Debit,Philadelphia,1.0,0,Segmen 0
+AC00037,2023-12-22 17:17:34,79.8,ATM,Debit,Fort Worth,1.0,2,Segmen 2
+AC00037,2023-12-25 16:25:43,173.45,ATM,Debit,Philadelphia,1.0,2,Segmen 2
+AC00039,2023-01-03 16:28:03,737.46,Branch,Credit,Albuquerque,4.0,1,Segmen 1
+AC00039,2023-07-25 17:21:53,138.06,Branch,Debit,Charlotte,1.0,1,Segmen 1
+AC00039,2023-08-10 16:28:55,634.86,ATM,Debit,Chicago,1.0,1,Segmen 1
+AC00039,2023-09-18 16:13:38,50.29,Online,Credit,Raleigh,1.0,1,Segmen 1
+AC00039,2023-10-19 16:34:39,4.15,Branch,Credit,Omaha,1.0,1,Segmen 1
+AC00039,2023-11-17 17:59:11,139.57,ATM,Debit,Fort Worth,3.0,1,Segmen 1
+AC00040,2023-01-05 16:22:12,228.4,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00040,2023-02-02 16:19:31,294.15,Online,Debit,Fresno,1.0,1,Segmen 1
+AC00040,2023-07-24 16:18:50,199.8,ATM,Debit,Detroit,1.0,1,Segmen 1
+AC00040,2023-11-13 17:49:04,1237.56,Branch,Credit,Austin,1.0,1,Segmen 1
+AC00040,2023-12-18 17:22:16,965.66,ATM,Debit,Raleigh,1.0,1,Segmen 1
+AC00041,2023-02-02 16:20:28,50.28,Branch,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00041,2023-04-28 16:55:28,34.31,ATM,Debit,Philadelphia,1.0,1,Segmen 1
+AC00041,2023-05-05 17:32:18,124.59,Branch,Debit,Charlotte,1.0,1,Segmen 1
+AC00041,2023-05-19 18:44:23,212.88,Online,Debit,Fresno,1.0,1,Segmen 1
+AC00041,2023-10-20 17:53:13,7.49,Online,Credit,Houston,1.0,1,Segmen 1
+AC00041,2023-11-06 17:58:34,348.44,Online,Debit,Baltimore,1.0,1,Segmen 1
+AC00041,2023-12-22 16:27:49,371.69,Branch,Debit,San Francisco,1.0,1,Segmen 1
+AC00042,2023-01-18 16:48:32,135.94,Branch,Debit,Houston,1.0,2,Segmen 2
+AC00042,2023-02-21 16:47:54,114.15,ATM,Debit,Atlanta,1.0,2,Segmen 2
+AC00042,2023-04-24 17:18:18,336.05,Branch,Debit,San Antonio,1.0,2,Segmen 2
+AC00042,2023-05-26 17:10:40,246.41,ATM,Debit,Detroit,1.0,2,Segmen 2
+AC00042,2023-09-13 18:11:22,221.49,Branch,Credit,Oklahoma City,1.0,2,Segmen 2
+AC00043,2023-01-31 16:58:42,320.14,Online,Debit,Milwaukee,1.0,2,Segmen 2
+AC00043,2023-05-05 16:52:44,655.81,ATM,Debit,Omaha,2.0,2,Segmen 2
+AC00043,2023-10-18 16:51:31,309.42,Branch,Debit,Fresno,1.0,2,Segmen 2
+AC00043,2023-11-14 17:23:43,729.38,ATM,Debit,Los Angeles,1.0,2,Segmen 2
+AC00044,2023-10-19 18:11:23,487.32,Branch,Debit,Kansas City,1.0,2,Segmen 2
+AC00045,2023-01-05 16:43:14,1074.29,Branch,Debit,Portland,1.0,1,Segmen 1
+AC00045,2023-02-21 18:41:39,244.64,Branch,Debit,Tucson,1.0,1,Segmen 1
+AC00045,2023-06-16 16:19:35,248.95,Branch,Credit,San Francisco,1.0,1,Segmen 1
+AC00045,2023-07-21 17:56:49,72.68,Online,Debit,Seattle,1.0,1,Segmen 1
+AC00045,2023-09-11 17:51:17,204.56,Branch,Credit,San Diego,1.0,1,Segmen 1
+AC00046,2023-01-03 17:51:07,98.87,Online,Debit,Detroit,1.0,0,Segmen 0
+AC00046,2023-10-03 16:39:18,28.38,Branch,Debit,Tucson,1.0,0,Segmen 0
+AC00046,2023-11-06 16:24:45,942.7,Online,Debit,Boston,1.0,0,Segmen 0
+AC00047,2023-01-27 17:35:05,280.57,Online,Credit,Virginia Beach,1.0,0,Segmen 0
+AC00047,2023-06-26 18:25:21,457.3,Online,Debit,Virginia Beach,1.0,0,Segmen 0
+AC00047,2023-09-08 18:16:31,750.95,Branch,Debit,Chicago,1.0,0,Segmen 0
+AC00047,2024-01-01 17:21:56,123.38,Online,Debit,Sacramento,1.0,0,Segmen 0
+AC00048,2023-06-08 16:06:13,304.2,Online,Debit,Indianapolis,1.0,2,Segmen 2
+AC00048,2023-08-09 17:32:04,1283.97,ATM,Debit,Colorado Springs,1.0,2,Segmen 2
+AC00048,2023-12-25 17:13:46,14.1,Branch,Debit,Louisville,1.0,2,Segmen 2
+AC00049,2023-11-13 17:07:10,504.63,Online,Debit,Portland,1.0,2,Segmen 2
+AC00049,2023-11-23 16:09:39,609.14,ATM,Debit,Tucson,1.0,2,Segmen 2
+AC00050,2023-02-08 17:33:08,24.19,ATM,Debit,San Diego,1.0,0,Segmen 0
+AC00050,2023-04-28 18:52:30,38.81,Online,Credit,Virginia Beach,1.0,0,Segmen 0
+AC00050,2023-05-09 16:54:49,326.03,Online,Credit,New York,1.0,0,Segmen 0
+AC00050,2023-08-11 17:27:16,334.07,Branch,Debit,New York,1.0,0,Segmen 0
+AC00050,2023-11-09 16:11:59,296.46,Branch,Credit,Dallas,1.0,0,Segmen 0
+AC00051,2023-02-24 16:49:51,256.8,ATM,Debit,Charlotte,1.0,2,Segmen 2
+AC00051,2023-05-02 17:24:26,312.47,ATM,Debit,Milwaukee,4.0,2,Segmen 2
+AC00051,2023-06-21 16:49:10,186.55,Branch,Debit,Philadelphia,1.0,2,Segmen 2
+AC00051,2023-07-20 16:05:11,193.38,ATM,Debit,Memphis,1.0,2,Segmen 2
+AC00052,2023-03-20 16:08:11,409.59,Online,Credit,Albuquerque,1.0,0,Segmen 0
+AC00052,2023-09-25 16:14:35,3.42,Online,Credit,San Antonio,1.0,0,Segmen 0
+AC00052,2023-10-09 16:50:41,11.46,Online,Debit,Chicago,1.0,0,Segmen 0
+AC00053,2023-01-03 16:27:16,137.59,ATM,Debit,Nashville,1.0,0,Segmen 0
+AC00053,2023-01-13 17:00:16,143.21,Online,Debit,Dallas,1.0,0,Segmen 0
+AC00053,2023-01-25 17:39:15,29.19,Branch,Credit,Nashville,1.0,0,Segmen 0
+AC00053,2023-08-03 18:19:53,117.66,Branch,Credit,Memphis,1.0,0,Segmen 0
+AC00053,2023-09-07 16:07:40,38.15,Online,Debit,Mesa,1.0,0,Segmen 0
+AC00053,2023-11-01 16:55:58,24.77,Online,Credit,Nashville,1.0,0,Segmen 0
+AC00053,2023-12-14 18:53:34,212.74,Branch,Debit,Seattle,1.0,0,Segmen 0
+AC00054,2023-02-20 17:27:24,101.76,Online,Debit,Philadelphia,1.0,1,Segmen 1
+AC00054,2023-04-07 16:50:22,137.23,Branch,Debit,Fresno,1.0,1,Segmen 1
+AC00054,2023-04-13 18:15:52,67.33,Online,Debit,Detroit,1.0,1,Segmen 1
+AC00054,2023-05-17 16:03:51,22.46,Online,Debit,New York,1.0,1,Segmen 1
+AC00054,2023-09-06 18:56:24,52.44,Online,Debit,Raleigh,1.0,1,Segmen 1
+AC00054,2023-10-09 18:54:21,738.94,Branch,Debit,Philadelphia,1.0,1,Segmen 1
+AC00054,2023-11-14 16:37:42,329.14,Branch,Debit,Sacramento,1.0,1,Segmen 1
+AC00054,2023-11-15 16:00:38,179.62,Online,Debit,Tucson,1.0,1,Segmen 1
+AC00054,2023-11-29 17:38:53,122.85,Online,Credit,Seattle,3.0,1,Segmen 1
+AC00055,2023-01-19 17:27:01,299.03,Branch,Debit,Columbus,1.0,2,Segmen 2
+AC00055,2023-09-07 16:51:27,169.5,Branch,Debit,San Diego,1.0,2,Segmen 2
+AC00055,2023-10-31 16:48:01,386.68,Branch,Debit,New York,1.0,2,Segmen 2
+AC00055,2023-11-07 16:46:04,52.01,ATM,Debit,Mesa,1.0,2,Segmen 2
+AC00055,2023-11-10 16:10:34,33.89,Branch,Debit,Nashville,1.0,2,Segmen 2
+AC00056,2023-02-03 18:03:56,56.89,Branch,Credit,Houston,1.0,0,Segmen 0
+AC00056,2023-04-24 17:04:21,18.56,Branch,Credit,Memphis,1.0,0,Segmen 0
+AC00056,2023-05-15 17:37:32,74.67,ATM,Debit,Indianapolis,1.0,0,Segmen 0
+AC00056,2023-05-16 16:45:46,142.55,Online,Debit,Kansas City,1.0,0,Segmen 0
+AC00056,2023-06-27 18:14:30,168.34,ATM,Debit,Phoenix,1.0,0,Segmen 0
+AC00056,2023-09-25 17:29:01,37.65,Online,Credit,San Jose,1.0,0,Segmen 0
+AC00057,2023-01-10 16:51:44,598.66,Branch,Debit,Charlotte,1.0,1,Segmen 1
+AC00057,2023-01-30 17:05:46,267.48,ATM,Debit,Albuquerque,2.0,1,Segmen 1
+AC00057,2023-03-29 16:42:38,40.32,Branch,Debit,Milwaukee,1.0,1,Segmen 1
+AC00057,2023-05-15 16:19:14,198.62,Branch,Credit,Tucson,1.0,1,Segmen 1
+AC00057,2023-08-29 16:19:14,22.54,Online,Debit,El Paso,1.0,1,Segmen 1
+AC00058,2023-05-01 17:11:47,320.55,Online,Debit,Milwaukee,1.0,1,Segmen 1
+AC00058,2023-05-10 16:35:02,22.62,ATM,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00058,2023-06-12 17:30:53,270.39,ATM,Debit,Jacksonville,1.0,1,Segmen 1
+AC00058,2023-08-01 16:11:52,583.92,Online,Debit,Kansas City,1.0,1,Segmen 1
+AC00058,2023-08-02 17:32:29,199.14,Branch,Debit,Seattle,1.0,1,Segmen 1
+AC00058,2023-12-18 18:11:24,152.0,ATM,Debit,Albuquerque,1.0,1,Segmen 1
+AC00058,2023-12-28 16:46:46,170.96,Branch,Debit,Washington,1.0,1,Segmen 1
+AC00059,2023-03-20 17:30:52,344.97,Online,Debit,Austin,1.0,2,Segmen 2
+AC00059,2023-08-23 16:04:43,126.91,ATM,Debit,Austin,1.0,2,Segmen 2
+AC00059,2023-09-07 16:47:49,65.11,ATM,Debit,Nashville,1.0,2,Segmen 2
+AC00059,2023-09-25 16:41:04,55.98,Branch,Credit,Kansas City,1.0,2,Segmen 2
+AC00060,2023-07-13 17:17:07,74.27,Online,Credit,Memphis,1.0,1,Segmen 1
+AC00060,2023-09-13 18:38:27,440.94,Online,Debit,San Antonio,1.0,1,Segmen 1
+AC00060,2023-09-25 16:26:00,396.45,ATM,Debit,New York,3.0,1,Segmen 1
+AC00060,2023-12-11 16:09:08,641.06,ATM,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00061,2023-02-27 16:59:07,362.09,Branch,Debit,New York,1.0,2,Segmen 2
+AC00061,2023-03-24 17:04:32,155.53,ATM,Debit,Baltimore,1.0,2,Segmen 2
+AC00061,2023-04-28 17:12:06,391.08,Online,Debit,Fresno,1.0,2,Segmen 2
+AC00061,2023-06-14 16:34:54,27.21,ATM,Debit,San Jose,1.0,2,Segmen 2
+AC00061,2023-11-20 16:06:10,21.15,Branch,Debit,Columbus,1.0,2,Segmen 2
+AC00062,2023-07-07 17:58:29,138.33,Online,Debit,Dallas,1.0,2,Segmen 2
+AC00062,2023-07-25 17:17:49,476.63,ATM,Debit,Charlotte,1.0,2,Segmen 2
+AC00062,2023-08-14 17:43:17,74.86,Branch,Debit,Nashville,1.0,2,Segmen 2
+AC00063,2023-02-06 18:39:50,12.35,Branch,Debit,Fresno,1.0,1,Segmen 1
+AC00063,2023-03-15 17:27:37,558.86,ATM,Debit,Austin,1.0,1,Segmen 1
+AC00063,2023-03-23 16:38:40,873.65,Online,Credit,Oklahoma City,1.0,1,Segmen 1
+AC00063,2023-05-19 18:32:45,523.02,Online,Debit,Jacksonville,1.0,1,Segmen 1
+AC00063,2023-06-12 16:03:42,4.39,ATM,Debit,Philadelphia,1.0,1,Segmen 1
+AC00063,2023-09-14 17:25:49,592.82,Online,Debit,Memphis,1.0,1,Segmen 1
+AC00063,2023-10-04 17:10:02,116.88,ATM,Debit,Memphis,1.0,1,Segmen 1
+AC00063,2023-11-03 18:44:38,27.94,Branch,Debit,Atlanta,1.0,1,Segmen 1
+AC00063,2023-11-20 16:27:31,445.41,ATM,Debit,Fresno,3.0,1,Segmen 1
+AC00064,2023-03-22 16:59:56,182.42,Branch,Debit,Kansas City,1.0,0,Segmen 0
+AC00064,2023-06-22 17:05:42,606.27,Branch,Debit,Louisville,1.0,0,Segmen 0
+AC00064,2023-07-10 16:06:28,50.43,Branch,Debit,San Jose,1.0,0,Segmen 0
+AC00064,2023-09-20 17:44:37,571.93,Online,Debit,Washington,1.0,0,Segmen 0
+AC00065,2023-04-24 17:46:41,198.01,Branch,Credit,Austin,1.0,0,Segmen 0
+AC00065,2023-07-24 16:15:58,122.98,Online,Debit,Jacksonville,1.0,0,Segmen 0
+AC00065,2023-10-09 16:52:40,390.09,Online,Debit,El Paso,1.0,0,Segmen 0
+AC00065,2023-10-25 16:03:16,186.6,Branch,Debit,Tucson,1.0,0,Segmen 0
+AC00065,2023-12-28 16:30:32,202.49,ATM,Credit,Virginia Beach,1.0,0,Segmen 0
+AC00066,2023-01-30 18:49:52,347.25,ATM,Debit,Indianapolis,1.0,0,Segmen 0
+AC00066,2023-02-20 16:40:25,126.83,Branch,Debit,Austin,1.0,0,Segmen 0
+AC00066,2023-08-25 17:26:07,331.65,Online,Debit,Portland,1.0,0,Segmen 0
+AC00066,2023-10-23 16:03:49,57.34,Online,Debit,Atlanta,1.0,0,Segmen 0
+AC00067,2023-01-18 17:53:37,167.2,Branch,Debit,San Antonio,1.0,1,Segmen 1
+AC00067,2023-03-06 16:33:43,1309.79,ATM,Debit,San Francisco,1.0,1,Segmen 1
+AC00067,2023-03-17 17:03:03,456.05,Branch,Debit,Detroit,1.0,1,Segmen 1
+AC00067,2023-06-13 16:24:43,888.57,Online,Debit,San Antonio,1.0,1,Segmen 1
+AC00067,2023-09-07 17:19:21,209.99,ATM,Debit,Denver,1.0,1,Segmen 1
+AC00067,2023-11-14 16:23:09,172.5,Online,Debit,Columbus,1.0,1,Segmen 1
+AC00068,2023-06-22 16:08:43,259.9,Online,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00068,2023-07-04 16:30:15,958.9,Branch,Debit,Memphis,1.0,1,Segmen 1
+AC00068,2023-11-17 16:50:08,377.97,Online,Debit,Miami,1.0,1,Segmen 1
+AC00068,2023-11-22 16:13:39,1045.22,ATM,Debit,Columbus,1.0,1,Segmen 1
+AC00069,2023-04-21 16:22:38,603.54,Online,Debit,Albuquerque,1.0,1,Segmen 1
+AC00069,2023-05-08 17:47:59,171.42,Branch,Credit,Indianapolis,1.0,1,Segmen 1
+AC00069,2023-05-22 16:57:30,8.81,Online,Debit,Dallas,1.0,1,Segmen 1
+AC00069,2023-06-22 17:28:02,279.3,ATM,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00069,2023-11-15 16:54:44,157.37,Branch,Credit,Dallas,1.0,1,Segmen 1
+AC00069,2023-12-05 16:04:34,315.13,Branch,Debit,Omaha,1.0,1,Segmen 1
+AC00069,2023-12-25 17:27:57,82.01,Branch,Credit,Sacramento,1.0,1,Segmen 1
+AC00070,2023-03-30 16:52:05,99.98,Online,Credit,Washington,1.0,1,Segmen 1
+AC00070,2023-04-07 17:11:35,93.22,Online,Debit,Charlotte,1.0,1,Segmen 1
+AC00070,2023-04-25 16:23:59,31.19,ATM,Debit,Charlotte,1.0,1,Segmen 1
+AC00070,2023-05-05 16:32:11,184.5,Online,Debit,Raleigh,1.0,1,Segmen 1
+AC00070,2023-06-15 18:28:50,142.19,Branch,Debit,Houston,4.0,1,Segmen 1
+AC00070,2023-07-07 18:03:43,890.24,Online,Credit,Las Vegas,1.0,1,Segmen 1
+AC00070,2023-09-18 16:03:10,156.58,Branch,Debit,Portland,1.0,1,Segmen 1
+AC00070,2023-11-13 17:34:15,293.97,Branch,Debit,Phoenix,1.0,1,Segmen 1
+AC00071,2023-01-02 17:00:33,717.36,Online,Credit,Fort Worth,1.0,1,Segmen 1
+AC00071,2023-02-24 18:22:31,156.74,ATM,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00071,2023-03-01 17:07:06,78.91,Online,Debit,Sacramento,1.0,1,Segmen 1
+AC00071,2023-04-25 18:58:32,443.68,ATM,Debit,Tucson,1.0,1,Segmen 1
+AC00071,2023-07-24 16:01:27,435.08,Online,Debit,San Francisco,1.0,1,Segmen 1
+AC00071,2023-08-28 16:08:54,119.3,Branch,Debit,Mesa,5.0,1,Segmen 1
+AC00071,2023-12-04 16:57:39,451.31,ATM,Debit,Fort Worth,5.0,1,Segmen 1
+AC00071,2023-12-25 17:41:30,1647.74,ATM,Debit,Fort Worth,1.0,1,Segmen 1
+AC00072,2023-03-10 17:33:12,73.28,Branch,Debit,Boston,1.0,0,Segmen 0
+AC00072,2023-05-22 18:27:37,501.3,Online,Credit,San Antonio,1.0,0,Segmen 0
+AC00072,2023-07-24 18:08:43,69.4,Online,Debit,Virginia Beach,1.0,0,Segmen 0
+AC00073,2023-07-04 16:27:23,186.6,Online,Debit,Kansas City,1.0,0,Segmen 0
+AC00073,2023-07-10 17:00:03,257.18,Online,Debit,Los Angeles,1.0,0,Segmen 0
+AC00073,2023-10-12 17:39:08,953.17,Online,Debit,Raleigh,1.0,0,Segmen 0
+AC00073,2023-11-20 16:59:13,31.06,ATM,Debit,Kansas City,1.0,0,Segmen 0
+AC00073,2023-12-05 16:32:49,406.81,Online,Debit,New York,1.0,0,Segmen 0
+AC00074,2023-04-25 17:00:15,101.42,Online,Debit,Atlanta,1.0,0,Segmen 0
+AC00074,2023-05-04 17:49:33,278.23,Online,Debit,Fresno,1.0,0,Segmen 0
+AC00074,2023-09-13 16:41:19,17.45,ATM,Debit,Omaha,1.0,0,Segmen 0
+AC00075,2023-02-08 17:59:42,223.43,Branch,Debit,Dallas,1.0,1,Segmen 1
+AC00075,2023-06-23 16:41:27,73.23,Branch,Debit,San Francisco,1.0,1,Segmen 1
+AC00075,2023-08-10 17:12:55,64.12,Branch,Credit,Indianapolis,1.0,1,Segmen 1
+AC00075,2023-10-16 18:35:11,83.24,Branch,Debit,Fort Worth,1.0,1,Segmen 1
+AC00075,2023-12-04 16:31:42,647.85,Branch,Debit,Omaha,1.0,1,Segmen 1
+AC00076,2023-01-06 17:16:44,177.08,ATM,Debit,Las Vegas,1.0,1,Segmen 1
+AC00076,2023-01-30 16:38:59,366.43,Online,Credit,Portland,1.0,1,Segmen 1
+AC00076,2023-02-10 16:34:00,61.66,ATM,Debit,Sacramento,1.0,1,Segmen 1
+AC00076,2023-05-01 18:38:15,168.99,ATM,Debit,Baltimore,1.0,1,Segmen 1
+AC00076,2023-07-04 18:55:57,45.9,Branch,Debit,Columbus,1.0,1,Segmen 1
+AC00076,2023-07-05 16:49:05,324.04,ATM,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00076,2023-12-22 16:42:33,515.94,ATM,Debit,San Francisco,1.0,1,Segmen 1
+AC00077,2023-04-04 16:11:34,444.52,Online,Debit,Louisville,1.0,1,Segmen 1
+AC00077,2023-04-07 16:38:15,110.93,Branch,Credit,Virginia Beach,1.0,1,Segmen 1
+AC00077,2023-04-14 17:59:43,651.82,ATM,Debit,Indianapolis,1.0,1,Segmen 1
+AC00077,2023-06-21 17:10:18,20.62,ATM,Credit,Philadelphia,1.0,1,Segmen 1
+AC00077,2023-08-28 16:52:22,120.24,Branch,Debit,Milwaukee,2.0,1,Segmen 1
+AC00077,2023-12-15 16:48:08,408.19,Branch,Debit,Mesa,1.0,1,Segmen 1
+AC00078,2023-01-30 17:37:14,424.7,Online,Credit,Miami,1.0,1,Segmen 1
+AC00078,2023-04-11 17:06:47,157.56,Branch,Debit,Indianapolis,1.0,1,Segmen 1
+AC00078,2023-05-08 16:37:14,614.03,ATM,Debit,Dallas,1.0,1,Segmen 1
+AC00078,2023-06-20 16:27:07,567.92,Online,Debit,Columbus,1.0,1,Segmen 1
+AC00078,2023-09-21 16:11:47,1156.18,Online,Credit,Phoenix,1.0,1,Segmen 1
+AC00078,2023-11-30 17:48:36,16.73,Online,Debit,Columbus,1.0,1,Segmen 1
+AC00079,2023-01-13 17:19:33,76.39,Branch,Debit,Denver,1.0,0,Segmen 0
+AC00079,2023-02-13 16:14:00,21.4,Online,Credit,Denver,1.0,0,Segmen 0
+AC00079,2023-07-04 16:21:12,301.39,Online,Credit,Denver,1.0,0,Segmen 0
+AC00079,2023-07-13 16:35:37,58.77,Online,Debit,Memphis,1.0,0,Segmen 0
+AC00079,2023-08-25 16:30:02,57.07,Online,Credit,Boston,1.0,0,Segmen 0
+AC00080,2023-01-16 16:38:57,176.37,Branch,Debit,Boston,1.0,1,Segmen 1
+AC00080,2023-04-10 16:38:45,149.25,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00080,2023-06-27 17:44:24,63.76,ATM,Debit,San Antonio,1.0,1,Segmen 1
+AC00080,2023-07-10 16:37:18,691.92,Online,Debit,Boston,1.0,1,Segmen 1
+AC00080,2023-11-24 17:11:27,165.25,Online,Debit,Sacramento,1.0,1,Segmen 1
+AC00080,2023-12-04 16:16:19,991.82,Online,Debit,Milwaukee,1.0,1,Segmen 1
+AC00081,2023-05-22 16:57:31,287.51,Online,Debit,El Paso,1.0,0,Segmen 0
+AC00081,2023-05-26 16:52:33,315.39,Branch,Credit,New York,1.0,0,Segmen 0
+AC00081,2023-08-14 16:20:49,4.47,Branch,Debit,Baltimore,1.0,0,Segmen 0
+AC00082,2023-02-17 18:46:59,18.14,ATM,Credit,Milwaukee,1.0,2,Segmen 2
+AC00082,2023-08-24 16:56:36,267.17,ATM,Debit,Seattle,1.0,2,Segmen 2
+AC00082,2023-09-28 16:14:49,436.77,ATM,Debit,Jacksonville,1.0,2,Segmen 2
+AC00083,2023-02-15 17:33:23,377.08,Branch,Credit,Mesa,1.0,1,Segmen 1
+AC00083,2023-07-28 16:03:27,609.52,ATM,Debit,Washington,1.0,1,Segmen 1
+AC00083,2023-08-22 16:34:34,224.79,Online,Debit,Boston,1.0,1,Segmen 1
+AC00083,2023-10-23 18:00:29,1531.31,Online,Debit,San Diego,4.0,1,Segmen 1
+AC00083,2023-11-20 16:28:19,8.65,ATM,Debit,Mesa,1.0,1,Segmen 1
+AC00083,2024-01-01 16:07:05,2.03,ATM,Credit,Detroit,1.0,1,Segmen 1
+AC00084,2023-01-19 17:24:30,3.44,ATM,Debit,Fort Worth,1.0,2,Segmen 2
+AC00084,2023-10-23 18:41:35,498.59,Online,Debit,Philadelphia,1.0,2,Segmen 2
+AC00085,2023-02-13 16:53:57,166.99,Online,Debit,Louisville,1.0,1,Segmen 1
+AC00085,2023-04-03 17:59:23,328.77,Online,Credit,San Diego,1.0,1,Segmen 1
+AC00085,2023-06-07 17:06:21,702.87,ATM,Debit,Washington,1.0,1,Segmen 1
+AC00085,2023-07-07 16:11:38,407.65,Online,Debit,Boston,1.0,1,Segmen 1
+AC00085,2023-09-15 17:03:44,14.28,ATM,Debit,Phoenix,1.0,1,Segmen 1
+AC00085,2023-09-18 17:31:23,75.15,ATM,Debit,Boston,1.0,1,Segmen 1
+AC00086,2023-02-06 17:23:52,340.13,Branch,Debit,Mesa,3.0,1,Segmen 1
+AC00086,2023-02-14 16:55:26,1137.63,ATM,Debit,Baltimore,1.0,1,Segmen 1
+AC00086,2023-02-15 16:30:09,29.38,Branch,Credit,Baltimore,1.0,1,Segmen 1
+AC00086,2023-06-19 16:24:14,847.45,Branch,Debit,Jacksonville,1.0,1,Segmen 1
+AC00086,2023-07-14 18:11:41,201.5,Online,Credit,Dallas,1.0,1,Segmen 1
+AC00086,2023-12-11 16:57:41,622.41,ATM,Debit,Indianapolis,1.0,1,Segmen 1
+AC00086,2023-12-20 16:17:16,11.57,Branch,Credit,New York,1.0,1,Segmen 1
+AC00087,2023-01-02 16:01:26,154.21,Online,Debit,Miami,1.0,1,Segmen 1
+AC00087,2023-01-19 16:14:12,35.99,Branch,Debit,Miami,1.0,1,Segmen 1
+AC00087,2023-02-15 16:41:11,376.26,ATM,Debit,Tucson,1.0,1,Segmen 1
+AC00087,2023-02-22 16:42:17,540.4,Branch,Debit,Houston,1.0,1,Segmen 1
+AC00087,2023-03-13 16:25:34,43.85,ATM,Debit,Fresno,1.0,1,Segmen 1
+AC00087,2023-04-05 17:20:36,130.54,ATM,Debit,Atlanta,1.0,1,Segmen 1
+AC00087,2023-05-04 16:37:01,32.91,Online,Debit,Fort Worth,1.0,1,Segmen 1
+AC00087,2023-06-19 16:36:25,182.19,Branch,Debit,Mesa,1.0,1,Segmen 1
+AC00087,2023-12-29 17:55:30,346.12,Branch,Debit,San Francisco,1.0,1,Segmen 1
+AC00088,2023-02-20 17:26:39,295.93,Branch,Debit,Boston,1.0,0,Segmen 0
+AC00088,2023-02-28 17:34:08,217.61,Online,Debit,Omaha,1.0,0,Segmen 0
+AC00089,2023-04-03 16:31:32,130.4,Branch,Debit,Raleigh,1.0,1,Segmen 1
+AC00089,2023-05-30 16:55:04,557.78,Branch,Credit,Phoenix,1.0,1,Segmen 1
+AC00089,2023-07-03 18:03:48,67.17,Online,Debit,Seattle,1.0,1,Segmen 1
+AC00089,2023-09-21 16:08:00,204.7,Branch,Debit,Oklahoma City,5.0,1,Segmen 1
+AC00089,2023-09-25 16:37:04,241.21,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00090,2023-05-02 16:03:23,839.33,Branch,Credit,Louisville,1.0,1,Segmen 1
+AC00090,2023-06-26 17:38:22,109.48,Online,Debit,Baltimore,1.0,1,Segmen 1
+AC00090,2023-08-10 16:10:22,81.51,Branch,Debit,Washington,1.0,1,Segmen 1
+AC00090,2023-08-24 16:46:58,532.4,ATM,Debit,Jacksonville,1.0,1,Segmen 1
+AC00090,2023-11-09 17:51:35,50.26,Branch,Debit,Las Vegas,1.0,1,Segmen 1
+AC00091,2023-03-20 16:48:00,927.16,ATM,Debit,San Francisco,1.0,2,Segmen 2
+AC00091,2023-06-29 16:06:51,100.01,ATM,Debit,Philadelphia,1.0,2,Segmen 2
+AC00091,2023-10-13 16:05:10,49.84,ATM,Debit,Chicago,1.0,2,Segmen 2
+AC00092,2023-02-14 16:23:39,64.9,Branch,Credit,Detroit,1.0,1,Segmen 1
+AC00092,2023-05-10 16:38:07,793.13,Online,Debit,Memphis,1.0,1,Segmen 1
+AC00092,2023-05-22 17:09:52,115.83,Branch,Debit,Fresno,1.0,1,Segmen 1
+AC00092,2023-07-18 18:03:03,373.27,Online,Credit,Miami,1.0,1,Segmen 1
+AC00092,2023-09-08 17:48:22,173.74,Online,Debit,Houston,1.0,1,Segmen 1
+AC00092,2023-09-12 16:28:38,632.69,ATM,Debit,Denver,1.0,1,Segmen 1
+AC00092,2023-10-06 18:39:39,66.01,Online,Debit,Milwaukee,1.0,1,Segmen 1
+AC00092,2023-12-18 18:41:26,98.03,Branch,Debit,El Paso,1.0,1,Segmen 1
+AC00093,2023-01-17 17:25:13,827.14,Branch,Debit,El Paso,4.0,1,Segmen 1
+AC00093,2023-01-27 18:59:43,1021.38,Branch,Debit,Detroit,1.0,1,Segmen 1
+AC00093,2023-04-25 17:33:27,230.46,Online,Debit,Mesa,1.0,1,Segmen 1
+AC00093,2023-07-24 16:22:38,132.42,ATM,Debit,Denver,1.0,1,Segmen 1
+AC00093,2023-09-13 16:18:07,70.23,ATM,Debit,Memphis,1.0,1,Segmen 1
+AC00093,2023-09-18 16:51:04,211.91,Online,Debit,Indianapolis,1.0,1,Segmen 1
+AC00093,2023-09-25 18:48:58,327.35,Branch,Credit,Memphis,1.0,1,Segmen 1
+AC00093,2023-09-29 18:54:28,48.72,Branch,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00093,2023-12-14 16:15:28,295.82,Branch,Credit,Chicago,1.0,1,Segmen 1
+AC00094,2023-05-29 17:30:14,13.92,ATM,Debit,Los Angeles,1.0,2,Segmen 2
+AC00094,2023-06-01 16:56:33,31.7,ATM,Credit,Raleigh,1.0,2,Segmen 2
+AC00094,2023-07-26 17:25:23,58.23,Online,Debit,Phoenix,1.0,2,Segmen 2
+AC00094,2023-08-08 17:07:42,120.17,ATM,Debit,Portland,1.0,2,Segmen 2
+AC00095,2023-02-03 16:06:00,364.13,ATM,Debit,Fort Worth,1.0,1,Segmen 1
+AC00095,2023-02-27 16:24:11,395.77,Branch,Credit,El Paso,1.0,1,Segmen 1
+AC00095,2023-03-14 16:07:32,68.19,Online,Credit,Fresno,1.0,1,Segmen 1
+AC00095,2023-06-06 18:54:15,52.2,Online,Debit,Atlanta,1.0,1,Segmen 1
+AC00095,2023-07-21 16:43:59,830.01,Online,Credit,Chicago,1.0,1,Segmen 1
+AC00095,2023-08-21 17:08:50,28.63,Branch,Debit,San Diego,1.0,1,Segmen 1
+AC00095,2023-09-08 17:50:09,1432.02,Branch,Debit,Louisville,1.0,1,Segmen 1
+AC00095,2023-10-20 17:48:44,10.92,ATM,Debit,Jacksonville,1.0,1,Segmen 1
+AC00096,2023-05-12 18:38:11,535.4,Branch,Debit,San Diego,1.0,0,Segmen 0
+AC00096,2023-06-01 16:18:49,151.14,Online,Debit,Memphis,1.0,0,Segmen 0
+AC00097,2023-02-27 16:28:23,76.39,Online,Debit,Sacramento,1.0,0,Segmen 0
+AC00097,2023-11-23 16:14:48,0.26,Online,Debit,Oklahoma City,1.0,0,Segmen 0
+AC00097,2023-12-19 16:57:40,185.07,Branch,Debit,Colorado Springs,1.0,0,Segmen 0
+AC00098,2023-01-05 16:02:42,215.13,Online,Debit,Charlotte,1.0,0,Segmen 0
+AC00098,2023-09-25 16:44:52,1173.74,Online,Credit,Virginia Beach,1.0,0,Segmen 0
+AC00098,2023-09-29 17:22:10,1340.19,Online,Credit,Austin,1.0,0,Segmen 0
+AC00098,2023-10-09 17:32:57,345.94,ATM,Debit,Portland,1.0,0,Segmen 0
+AC00098,2023-12-11 17:26:22,137.57,Online,Debit,Louisville,1.0,0,Segmen 0
+AC00099,2023-08-21 18:51:11,1011.22,Branch,Debit,Tucson,1.0,0,Segmen 0
+AC00099,2023-08-28 17:22:16,231.51,Branch,Credit,Oklahoma City,1.0,0,Segmen 0
+AC00099,2023-09-06 16:44:02,1041.88,Online,Debit,Jacksonville,1.0,0,Segmen 0
+AC00099,2023-09-18 17:07:08,226.37,Branch,Debit,Louisville,1.0,0,Segmen 0
+AC00100,2023-01-23 18:45:00,224.22,Branch,Debit,Fresno,1.0,2,Segmen 2
+AC00100,2023-02-02 17:02:05,71.29,ATM,Debit,Chicago,2.0,2,Segmen 2
+AC00100,2023-07-17 16:32:45,151.82,ATM,Debit,Chicago,1.0,2,Segmen 2
+AC00101,2023-02-13 16:08:58,54.91,ATM,Credit,Columbus,1.0,0,Segmen 0
+AC00101,2023-07-13 17:51:44,166.55,Branch,Credit,Houston,1.0,0,Segmen 0
+AC00101,2023-11-21 17:25:30,78.44,Online,Credit,San Jose,1.0,0,Segmen 0
+AC00102,2023-02-06 17:48:39,237.86,ATM,Debit,Philadelphia,1.0,2,Segmen 2
+AC00102,2023-02-13 16:53:36,24.86,Branch,Debit,Jacksonville,1.0,2,Segmen 2
+AC00102,2023-06-01 16:15:49,54.8,Branch,Debit,Albuquerque,1.0,2,Segmen 2
+AC00102,2023-08-28 17:34:17,316.37,ATM,Debit,Colorado Springs,1.0,2,Segmen 2
+AC00102,2023-10-16 16:51:25,192.73,Branch,Debit,Milwaukee,1.0,2,Segmen 2
+AC00103,2023-08-21 17:20:05,477.54,ATM,Credit,San Francisco,1.0,1,Segmen 1
+AC00103,2023-08-23 17:22:49,36.97,Branch,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00103,2023-09-28 17:53:43,795.96,Online,Debit,Raleigh,1.0,1,Segmen 1
+AC00103,2023-10-03 17:14:49,385.35,Branch,Debit,Miami,1.0,1,Segmen 1
+AC00103,2023-12-25 17:01:44,449.18,Online,Debit,Denver,1.0,1,Segmen 1
+AC00104,2023-08-24 17:13:38,275.2,Online,Debit,New York,1.0,0,Segmen 0
+AC00105,2023-04-12 17:50:15,122.35,Branch,Debit,Atlanta,1.0,0,Segmen 0
+AC00105,2023-08-17 16:26:57,122.65,Online,Debit,Columbus,1.0,0,Segmen 0
+AC00105,2023-08-25 18:24:06,136.82,Branch,Debit,Chicago,1.0,0,Segmen 0
+AC00106,2023-03-22 16:10:14,169.47,Online,Debit,Chicago,1.0,1,Segmen 1
+AC00106,2023-04-18 17:43:50,301.85,Online,Debit,Columbus,1.0,1,Segmen 1
+AC00106,2023-05-30 18:29:15,241.18,ATM,Debit,Mesa,1.0,1,Segmen 1
+AC00106,2023-09-14 16:49:33,716.93,Online,Credit,Milwaukee,1.0,1,Segmen 1
+AC00106,2023-10-12 17:20:30,305.0,ATM,Debit,Phoenix,1.0,1,Segmen 1
+AC00106,2023-12-25 17:31:53,329.75,Online,Debit,Sacramento,1.0,1,Segmen 1
+AC00107,2023-01-24 16:05:40,345.54,Online,Debit,San Diego,1.0,1,Segmen 1
+AC00107,2023-03-01 16:31:58,1830.0,Online,Debit,San Antonio,1.0,1,Segmen 1
+AC00107,2023-07-24 17:02:18,20.36,Branch,Debit,Tucson,1.0,1,Segmen 1
+AC00107,2023-09-01 16:35:51,149.02,Branch,Credit,Fort Worth,1.0,1,Segmen 1
+AC00107,2023-09-19 16:55:00,635.4,ATM,Debit,Denver,1.0,1,Segmen 1
+AC00108,2023-04-07 16:04:01,238.54,ATM,Debit,Indianapolis,4.0,1,Segmen 1
+AC00108,2023-08-16 16:28:30,849.76,ATM,Debit,Seattle,1.0,1,Segmen 1
+AC00108,2023-08-21 16:03:18,134.7,ATM,Debit,Fort Worth,1.0,1,Segmen 1
+AC00108,2023-09-25 17:48:55,290.02,Branch,Debit,Milwaukee,1.0,1,Segmen 1
+AC00108,2023-10-24 16:41:00,233.74,Online,Credit,Oklahoma City,1.0,1,Segmen 1
+AC00108,2023-11-28 16:38:08,173.6,Online,Debit,Austin,1.0,1,Segmen 1
+AC00109,2023-02-27 18:33:48,29.22,ATM,Debit,Detroit,1.0,2,Segmen 2
+AC00109,2023-03-10 16:40:00,389.7,Branch,Credit,Austin,1.0,2,Segmen 2
+AC00110,2023-01-11 16:58:02,319.17,Online,Debit,Tucson,1.0,1,Segmen 1
+AC00110,2023-02-15 16:50:13,224.28,Online,Debit,Chicago,1.0,1,Segmen 1
+AC00110,2023-02-28 17:45:06,1250.94,ATM,Debit,Columbus,2.0,1,Segmen 1
+AC00110,2023-06-26 16:40:21,34.74,ATM,Debit,San Francisco,1.0,1,Segmen 1
+AC00110,2023-06-26 18:41:55,351.38,Branch,Debit,New York,1.0,1,Segmen 1
+AC00110,2023-10-20 16:54:28,233.92,Online,Credit,Jacksonville,1.0,1,Segmen 1
+AC00110,2023-11-03 16:39:45,73.95,ATM,Debit,Kansas City,1.0,1,Segmen 1
+AC00110,2023-11-17 16:39:20,19.39,ATM,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00111,2023-01-23 17:39:08,81.35,Online,Debit,Houston,1.0,1,Segmen 1
+AC00111,2023-04-03 18:22:02,270.54,ATM,Credit,Sacramento,1.0,1,Segmen 1
+AC00111,2023-04-17 16:08:34,803.37,Branch,Credit,Memphis,1.0,1,Segmen 1
+AC00111,2023-05-04 16:51:17,21.49,ATM,Debit,Denver,1.0,1,Segmen 1
+AC00111,2023-06-07 17:05:41,1493.0,ATM,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00111,2023-09-27 18:52:36,35.05,Branch,Debit,Boston,1.0,1,Segmen 1
+AC00111,2023-12-11 18:43:00,366.93,Online,Debit,Houston,1.0,1,Segmen 1
+AC00112,2023-04-18 17:17:37,554.15,ATM,Debit,Raleigh,1.0,2,Segmen 2
+AC00113,2023-01-04 16:02:09,215.9,ATM,Debit,Los Angeles,1.0,2,Segmen 2
+AC00113,2023-01-09 16:08:52,174.39,ATM,Debit,San Francisco,1.0,2,Segmen 2
+AC00113,2023-06-12 17:32:52,307.41,ATM,Debit,Los Angeles,1.0,2,Segmen 2
+AC00113,2023-10-02 17:47:19,643.02,ATM,Credit,Detroit,1.0,2,Segmen 2
+AC00114,2023-02-21 18:13:02,268.39,Online,Debit,San Antonio,1.0,1,Segmen 1
+AC00114,2023-03-06 17:39:01,27.07,Branch,Credit,Virginia Beach,1.0,1,Segmen 1
+AC00114,2023-04-28 16:03:41,34.74,Online,Credit,Portland,1.0,1,Segmen 1
+AC00114,2023-10-23 16:50:33,1049.92,ATM,Debit,Detroit,1.0,1,Segmen 1
+AC00114,2023-10-23 16:58:04,286.5,Branch,Credit,Boston,1.0,1,Segmen 1
+AC00114,2023-11-27 16:30:37,477.07,Online,Debit,Columbus,1.0,1,Segmen 1
+AC00114,2023-12-13 17:02:21,77.57,Online,Debit,Atlanta,1.0,1,Segmen 1
+AC00115,2023-01-09 16:54:58,581.65,ATM,Debit,Boston,1.0,2,Segmen 2
+AC00115,2023-01-23 18:35:43,85.01,ATM,Credit,Portland,1.0,2,Segmen 2
+AC00115,2023-06-07 16:45:34,85.43,Branch,Debit,Virginia Beach,1.0,2,Segmen 2
+AC00116,2023-03-08 18:51:57,5.29,Online,Debit,Indianapolis,1.0,0,Segmen 0
+AC00116,2023-05-16 16:21:42,133.73,Online,Credit,San Jose,1.0,0,Segmen 0
+AC00116,2023-05-22 17:41:48,408.62,Online,Credit,Fort Worth,1.0,0,Segmen 0
+AC00116,2023-10-09 17:23:21,356.56,Online,Debit,New York,1.0,0,Segmen 0
+AC00116,2023-10-17 17:51:19,14.34,Online,Credit,Memphis,1.0,0,Segmen 0
+AC00116,2023-11-27 17:29:25,261.69,ATM,Debit,Philadelphia,1.0,0,Segmen 0
+AC00117,2023-04-12 16:03:37,55.32,ATM,Debit,Tucson,1.0,2,Segmen 2
+AC00118,2023-02-24 16:24:46,185.97,Online,Debit,Denver,1.0,2,Segmen 2
+AC00118,2023-03-07 16:51:37,692.55,Branch,Debit,Charlotte,1.0,2,Segmen 2
+AC00118,2023-04-10 16:52:51,85.03,ATM,Debit,San Diego,1.0,2,Segmen 2
+AC00118,2023-04-14 16:00:51,287.05,ATM,Debit,Milwaukee,1.0,2,Segmen 2
+AC00119,2023-07-26 16:05:48,409.61,Branch,Debit,Kansas City,1.0,1,Segmen 1
+AC00119,2023-09-11 17:15:04,761.73,ATM,Debit,Columbus,1.0,1,Segmen 1
+AC00119,2023-09-22 16:42:46,113.54,Online,Debit,Columbus,1.0,1,Segmen 1
+AC00119,2023-10-18 16:28:19,88.42,ATM,Debit,El Paso,1.0,1,Segmen 1
+AC00119,2023-11-21 16:23:41,211.36,Branch,Credit,Fort Worth,1.0,1,Segmen 1
+AC00119,2023-12-04 16:10:04,54.61,ATM,Debit,Milwaukee,1.0,1,Segmen 1
+AC00120,2023-02-09 17:46:49,301.56,Branch,Debit,Seattle,1.0,1,Segmen 1
+AC00120,2023-03-01 16:09:58,85.73,ATM,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00120,2023-04-20 18:57:43,241.42,Online,Credit,Charlotte,1.0,1,Segmen 1
+AC00120,2023-07-25 18:04:46,730.1,Branch,Credit,Chicago,1.0,1,Segmen 1
+AC00120,2023-10-05 18:40:15,183.22,ATM,Debit,Milwaukee,1.0,1,Segmen 1
+AC00120,2023-11-14 18:49:52,202.55,ATM,Debit,Dallas,2.0,1,Segmen 1
+AC00121,2023-01-09 17:27:58,80.97,Online,Debit,Seattle,1.0,0,Segmen 0
+AC00121,2023-03-01 17:52:14,213.76,ATM,Credit,Dallas,1.0,0,Segmen 0
+AC00122,2023-02-03 17:46:54,248.66,Online,Debit,Chicago,1.0,1,Segmen 1
+AC00122,2023-02-22 17:33:56,613.7,Branch,Credit,Fort Worth,1.0,1,Segmen 1
+AC00122,2023-04-10 16:44:52,358.18,ATM,Debit,Boston,1.0,1,Segmen 1
+AC00122,2023-06-06 17:32:57,303.43,Branch,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00122,2023-07-31 17:49:23,11.02,Online,Debit,Austin,1.0,1,Segmen 1
+AC00122,2023-12-26 16:07:28,21.4,Branch,Debit,Fresno,1.0,1,Segmen 1
+AC00123,2023-02-01 17:12:47,77.54,Online,Debit,Phoenix,1.0,2,Segmen 2
+AC00123,2023-05-11 17:15:10,162.65,ATM,Debit,New York,1.0,2,Segmen 2
+AC00123,2023-10-16 17:46:51,578.49,Branch,Debit,Nashville,1.0,2,Segmen 2
+AC00123,2023-11-27 17:51:15,100.38,Branch,Debit,Seattle,1.0,2,Segmen 2
+AC00124,2023-01-23 17:18:16,55.86,Online,Debit,Seattle,1.0,2,Segmen 2
+AC00124,2023-02-08 18:27:49,23.4,ATM,Debit,El Paso,4.0,2,Segmen 2
+AC00124,2023-10-05 16:27:27,819.48,ATM,Debit,Virginia Beach,1.0,2,Segmen 2
+AC00124,2023-12-29 18:07:04,292.08,ATM,Debit,Columbus,1.0,2,Segmen 2
+AC00125,2023-03-15 16:37:04,178.91,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00125,2023-05-19 17:47:41,54.1,Branch,Credit,Boston,1.0,1,Segmen 1
+AC00125,2023-07-10 16:01:03,19.48,ATM,Debit,Dallas,1.0,1,Segmen 1
+AC00125,2023-09-01 16:12:35,476.03,Branch,Credit,Houston,1.0,1,Segmen 1
+AC00125,2023-09-18 18:35:23,220.23,ATM,Debit,Milwaukee,1.0,1,Segmen 1
+AC00125,2023-12-11 16:52:47,56.94,Online,Credit,Charlotte,1.0,1,Segmen 1
+AC00126,2023-01-02 17:05:16,175.05,Online,Debit,Atlanta,1.0,1,Segmen 1
+AC00126,2023-01-09 16:09:48,73.55,ATM,Debit,Atlanta,1.0,1,Segmen 1
+AC00126,2023-04-17 17:32:12,106.43,ATM,Credit,Phoenix,1.0,1,Segmen 1
+AC00126,2023-06-05 16:19:55,125.0,Online,Credit,Indianapolis,1.0,1,Segmen 1
+AC00126,2023-07-25 18:00:25,77.53,Branch,Debit,Louisville,1.0,1,Segmen 1
+AC00126,2023-08-01 16:23:37,643.03,Online,Credit,Jacksonville,1.0,1,Segmen 1
+AC00126,2023-08-07 16:54:58,319.27,ATM,Debit,San Antonio,1.0,1,Segmen 1
+AC00127,2023-02-21 16:14:16,539.81,Online,Debit,San Francisco,1.0,0,Segmen 0
+AC00127,2023-03-08 16:57:30,5.64,Online,Debit,Boston,1.0,0,Segmen 0
+AC00128,2023-01-03 17:33:54,505.14,ATM,Debit,Portland,1.0,1,Segmen 1
+AC00128,2023-03-08 16:20:43,710.14,ATM,Debit,El Paso,1.0,1,Segmen 1
+AC00128,2023-03-24 16:34:27,425.91,ATM,Debit,Jacksonville,1.0,1,Segmen 1
+AC00128,2023-03-29 18:12:17,137.35,ATM,Credit,Sacramento,1.0,1,Segmen 1
+AC00128,2023-04-11 16:29:14,14.09,ATM,Debit,San Diego,1.0,1,Segmen 1
+AC00128,2023-04-25 16:34:55,34.67,Online,Debit,Chicago,1.0,1,Segmen 1
+AC00128,2023-11-13 17:28:12,1397.59,ATM,Credit,Austin,1.0,1,Segmen 1
+AC00129,2023-06-05 16:27:31,218.37,ATM,Debit,Houston,1.0,2,Segmen 2
+AC00129,2023-06-14 16:16:25,83.95,Online,Debit,New York,1.0,2,Segmen 2
+AC00129,2023-08-15 16:57:27,586.85,ATM,Debit,Mesa,1.0,2,Segmen 2
+AC00129,2023-10-03 16:22:49,206.25,ATM,Debit,Baltimore,1.0,2,Segmen 2
+AC00130,2023-01-30 18:50:14,423.96,ATM,Debit,San Diego,1.0,1,Segmen 1
+AC00130,2023-02-02 16:13:13,168.54,ATM,Debit,Oklahoma City,2.0,1,Segmen 1
+AC00130,2023-02-14 17:58:31,720.13,ATM,Credit,Omaha,1.0,1,Segmen 1
+AC00130,2023-06-29 17:39:21,199.37,Online,Debit,Chicago,1.0,1,Segmen 1
+AC00130,2023-07-03 16:36:45,197.49,Online,Credit,Fresno,1.0,1,Segmen 1
+AC00130,2023-07-04 17:50:02,273.92,Branch,Debit,Portland,1.0,1,Segmen 1
+AC00130,2023-08-28 17:59:32,344.87,Branch,Debit,Houston,1.0,1,Segmen 1
+AC00130,2023-09-05 16:52:06,147.74,Branch,Debit,Raleigh,1.0,1,Segmen 1
+AC00131,2023-01-17 17:11:24,288.28,Online,Debit,Portland,1.0,1,Segmen 1
+AC00131,2023-01-20 16:46:06,88.29,Online,Credit,Houston,1.0,1,Segmen 1
+AC00131,2023-04-07 17:37:34,524.6,Branch,Debit,El Paso,1.0,1,Segmen 1
+AC00131,2023-07-10 16:51:12,208.07,Online,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00131,2023-08-23 16:32:59,222.39,Online,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00131,2023-09-26 17:02:25,235.4,Branch,Debit,Detroit,1.0,1,Segmen 1
+AC00131,2023-10-16 17:12:32,332.15,ATM,Debit,Dallas,1.0,1,Segmen 1
+AC00131,2023-10-31 16:45:07,50.99,Branch,Debit,Detroit,1.0,1,Segmen 1
+AC00131,2023-11-07 17:44:12,879.25,Online,Credit,Memphis,1.0,1,Segmen 1
+AC00132,2023-02-08 16:52:09,130.93,Branch,Credit,Houston,1.0,0,Segmen 0
+AC00132,2023-04-13 16:41:41,23.24,Branch,Debit,Indianapolis,1.0,0,Segmen 0
+AC00132,2023-10-23 17:24:07,10.94,ATM,Credit,Philadelphia,1.0,0,Segmen 0
+AC00132,2023-12-29 16:30:53,220.82,Branch,Debit,Louisville,1.0,0,Segmen 0
+AC00133,2023-01-02 18:35:07,245.67,Branch,Credit,Portland,1.0,1,Segmen 1
+AC00133,2023-01-11 17:27:56,447.95,Branch,Debit,Tucson,1.0,1,Segmen 1
+AC00133,2023-02-13 16:53:17,11.46,Online,Credit,San Francisco,1.0,1,Segmen 1
+AC00133,2023-02-27 17:25:09,240.03,Online,Debit,Atlanta,1.0,1,Segmen 1
+AC00133,2023-10-27 17:53:06,88.06,Online,Credit,Raleigh,1.0,1,Segmen 1
+AC00133,2023-11-20 17:15:13,110.08,Branch,Debit,Detroit,1.0,1,Segmen 1
+AC00133,2023-11-23 16:15:59,255.04,ATM,Debit,Seattle,1.0,1,Segmen 1
+AC00134,2023-08-25 16:45:20,49.59,Branch,Debit,Boston,1.0,2,Segmen 2
+AC00135,2023-03-21 16:59:46,106.23,Branch,Credit,Detroit,1.0,0,Segmen 0
+AC00135,2023-05-18 16:16:53,39.66,Branch,Debit,Virginia Beach,1.0,0,Segmen 0
+AC00136,2023-01-09 16:19:47,684.96,ATM,Debit,Mesa,1.0,1,Segmen 1
+AC00136,2023-02-17 16:57:11,642.68,Branch,Debit,Fresno,1.0,1,Segmen 1
+AC00136,2023-06-19 16:46:11,739.28,Branch,Credit,Tucson,1.0,1,Segmen 1
+AC00136,2023-07-31 16:46:29,78.62,Branch,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00136,2023-08-21 17:32:04,886.19,Branch,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00136,2023-11-10 16:32:24,132.33,ATM,Credit,Phoenix,1.0,1,Segmen 1
+AC00136,2023-11-20 16:31:36,654.49,Online,Credit,Austin,1.0,1,Segmen 1
+AC00137,2023-01-09 17:09:31,31.39,ATM,Debit,Tucson,1.0,2,Segmen 2
+AC00137,2023-07-06 18:09:06,333.67,Online,Debit,Fort Worth,1.0,2,Segmen 2
+AC00137,2023-12-12 16:17:27,12.11,ATM,Debit,Jacksonville,1.0,2,Segmen 2
+AC00138,2023-01-30 16:45:11,61.4,Branch,Debit,San Jose,2.0,0,Segmen 0
+AC00138,2023-08-29 16:50:17,355.0,Online,Credit,Fort Worth,1.0,0,Segmen 0
+AC00139,2023-02-23 16:51:34,10.15,ATM,Debit,Austin,5.0,1,Segmen 1
+AC00139,2023-03-14 16:21:01,119.61,ATM,Debit,San Diego,1.0,1,Segmen 1
+AC00139,2023-05-18 16:19:38,102.34,Online,Debit,San Antonio,1.0,1,Segmen 1
+AC00139,2023-06-07 16:35:27,510.7,Online,Credit,Nashville,1.0,1,Segmen 1
+AC00139,2023-07-26 17:56:54,263.92,Branch,Credit,San Diego,1.0,1,Segmen 1
+AC00139,2023-09-18 16:40:59,18.35,Branch,Debit,Nashville,1.0,1,Segmen 1
+AC00139,2023-11-20 16:41:44,345.86,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00139,2023-12-18 16:06:14,50.83,Online,Credit,Philadelphia,1.0,1,Segmen 1
+AC00140,2023-04-06 18:06:12,163.22,Online,Debit,Miami,1.0,1,Segmen 1
+AC00140,2023-04-17 16:04:21,2.51,Online,Debit,Baltimore,1.0,1,Segmen 1
+AC00140,2023-07-03 16:40:24,154.71,Online,Debit,San Diego,1.0,1,Segmen 1
+AC00140,2023-07-24 16:02:33,241.45,Online,Debit,Portland,1.0,1,Segmen 1
+AC00140,2023-10-23 16:45:37,152.42,ATM,Debit,San Jose,1.0,1,Segmen 1
+AC00140,2023-10-30 16:58:01,126.81,Branch,Debit,Philadelphia,1.0,1,Segmen 1
+AC00140,2023-11-13 16:58:19,211.7,Online,Credit,Chicago,1.0,1,Segmen 1
+AC00141,2023-05-08 17:33:08,148.26,ATM,Debit,Omaha,1.0,2,Segmen 2
+AC00141,2023-05-22 18:45:23,61.97,ATM,Debit,Phoenix,1.0,2,Segmen 2
+AC00141,2023-06-28 17:58:48,780.59,Online,Credit,Tucson,1.0,2,Segmen 2
+AC00141,2023-08-28 16:02:11,398.7,ATM,Debit,Albuquerque,1.0,2,Segmen 2
+AC00141,2023-10-17 16:58:59,66.65,ATM,Debit,Detroit,1.0,2,Segmen 2
+AC00142,2023-04-14 17:35:50,504.12,Branch,Credit,Baltimore,1.0,2,Segmen 2
+AC00142,2023-11-16 16:33:22,25.58,ATM,Debit,Omaha,1.0,2,Segmen 2
+AC00143,2023-03-13 16:13:13,189.08,Branch,Debit,Miami,1.0,2,Segmen 2
+AC00143,2023-05-08 17:42:36,73.88,Branch,Debit,Los Angeles,1.0,2,Segmen 2
+AC00143,2023-06-09 16:18:15,386.52,Branch,Debit,Indianapolis,1.0,2,Segmen 2
+AC00143,2023-08-18 17:02:15,281.47,ATM,Debit,Philadelphia,1.0,2,Segmen 2
+AC00144,2023-01-24 18:43:06,133.56,Online,Debit,Charlotte,1.0,1,Segmen 1
+AC00144,2023-03-02 16:06:18,335.48,Branch,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00144,2023-05-29 17:14:03,125.83,Branch,Debit,Los Angeles,1.0,1,Segmen 1
+AC00144,2023-05-29 17:55:23,97.73,Branch,Debit,Sacramento,1.0,1,Segmen 1
+AC00144,2023-07-31 16:26:33,29.91,Online,Credit,Philadelphia,3.0,1,Segmen 1
+AC00144,2023-08-09 18:38:49,132.48,Branch,Debit,Charlotte,1.0,1,Segmen 1
+AC00144,2023-10-23 18:37:47,518.85,Online,Debit,Kansas City,1.0,1,Segmen 1
+AC00145,2023-01-02 17:26:34,515.57,ATM,Debit,Columbus,1.0,1,Segmen 1
+AC00145,2023-03-16 17:36:31,217.61,ATM,Debit,Chicago,1.0,1,Segmen 1
+AC00145,2023-05-15 16:05:06,97.63,Online,Credit,Milwaukee,1.0,1,Segmen 1
+AC00145,2023-08-14 17:12:27,377.12,ATM,Debit,Houston,1.0,1,Segmen 1
+AC00145,2023-09-12 16:50:21,194.85,Online,Debit,Jacksonville,4.0,1,Segmen 1
+AC00146,2023-08-17 16:14:47,35.98,Branch,Credit,Nashville,1.0,2,Segmen 2
+AC00146,2023-09-06 16:03:15,1135.8,ATM,Debit,San Diego,1.0,2,Segmen 2
+AC00147,2023-07-03 18:01:00,270.72,Online,Credit,Washington,1.0,0,Segmen 0
+AC00147,2023-08-14 18:14:23,50.75,ATM,Debit,Boston,1.0,0,Segmen 0
+AC00147,2023-11-20 17:17:05,67.15,Online,Debit,Indianapolis,1.0,0,Segmen 0
+AC00148,2023-01-12 17:57:06,366.21,ATM,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00148,2023-01-16 17:00:11,1416.69,ATM,Debit,Nashville,1.0,1,Segmen 1
+AC00148,2023-05-05 16:31:53,757.41,ATM,Debit,Los Angeles,1.0,1,Segmen 1
+AC00148,2023-06-09 16:03:24,319.5,Branch,Credit,Virginia Beach,1.0,1,Segmen 1
+AC00148,2023-08-21 16:07:13,8.98,Online,Debit,Detroit,1.0,1,Segmen 1
+AC00149,2023-02-06 17:38:53,69.43,ATM,Debit,Las Vegas,1.0,1,Segmen 1
+AC00149,2023-03-27 18:16:04,230.66,Branch,Debit,Houston,1.0,1,Segmen 1
+AC00149,2023-04-19 16:36:03,453.54,ATM,Debit,Albuquerque,1.0,1,Segmen 1
+AC00149,2023-06-12 16:48:03,35.73,Branch,Debit,Miami,1.0,1,Segmen 1
+AC00149,2023-11-09 18:45:10,336.01,Online,Debit,Colorado Springs,4.0,1,Segmen 1
+AC00150,2023-01-30 17:36:54,199.02,ATM,Debit,Memphis,1.0,1,Segmen 1
+AC00150,2023-02-27 17:52:43,470.62,Branch,Debit,Tucson,1.0,1,Segmen 1
+AC00150,2023-02-27 18:23:11,992.17,ATM,Debit,San Antonio,1.0,1,Segmen 1
+AC00150,2023-02-28 17:37:48,195.8,Online,Debit,Raleigh,1.0,1,Segmen 1
+AC00150,2023-03-14 16:46:10,17.78,Online,Credit,Albuquerque,1.0,1,Segmen 1
+AC00150,2023-04-20 18:39:10,122.63,Branch,Debit,Milwaukee,1.0,1,Segmen 1
+AC00150,2023-07-04 16:25:35,32.54,Online,Debit,Oklahoma City,4.0,1,Segmen 1
+AC00151,2023-01-26 16:13:15,301.47,Branch,Debit,Colorado Springs,1.0,0,Segmen 0
+AC00151,2023-05-19 16:44:53,168.11,Online,Credit,New York,1.0,0,Segmen 0
+AC00151,2023-06-05 17:48:07,382.07,Branch,Credit,Omaha,1.0,0,Segmen 0
+AC00152,2023-03-15 17:45:31,613.21,ATM,Debit,Tucson,1.0,2,Segmen 2
+AC00152,2023-03-27 18:52:04,227.22,ATM,Debit,El Paso,1.0,2,Segmen 2
+AC00152,2023-04-10 17:49:04,99.52,ATM,Debit,San Diego,1.0,2,Segmen 2
+AC00152,2024-01-01 16:25:13,29.92,Online,Credit,Denver,1.0,2,Segmen 2
+AC00153,2023-01-27 16:40:28,381.62,Online,Debit,Las Vegas,1.0,1,Segmen 1
+AC00153,2023-03-23 17:09:53,95.78,Online,Debit,Atlanta,1.0,1,Segmen 1
+AC00153,2023-05-10 17:02:51,427.83,ATM,Debit,Phoenix,1.0,1,Segmen 1
+AC00153,2023-06-08 16:27:56,84.34,Online,Debit,Memphis,3.0,1,Segmen 1
+AC00153,2023-08-21 16:22:06,89.5,Branch,Credit,Louisville,1.0,1,Segmen 1
+AC00153,2023-08-21 16:42:02,256.34,Branch,Debit,Kansas City,1.0,1,Segmen 1
+AC00153,2023-09-18 17:44:50,1116.48,ATM,Debit,San Diego,1.0,1,Segmen 1
+AC00154,2023-01-09 17:56:30,7.82,ATM,Debit,Boston,1.0,2,Segmen 2
+AC00154,2023-02-20 17:28:57,371.86,ATM,Debit,Miami,1.0,2,Segmen 2
+AC00154,2023-07-31 16:37:46,143.03,ATM,Debit,San Antonio,1.0,2,Segmen 2
+AC00154,2023-08-28 17:08:41,12.94,Branch,Debit,Fresno,1.0,2,Segmen 2
+AC00154,2023-11-30 17:53:48,333.78,ATM,Debit,San Diego,1.0,2,Segmen 2
+AC00155,2023-01-23 16:47:11,607.28,ATM,Debit,Baltimore,1.0,1,Segmen 1
+AC00155,2023-03-27 16:26:42,91.5,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00155,2023-03-30 18:20:58,148.77,Branch,Debit,San Jose,1.0,1,Segmen 1
+AC00155,2023-06-22 16:05:35,320.93,Online,Debit,Atlanta,1.0,1,Segmen 1
+AC00155,2023-11-20 16:42:12,381.52,Online,Debit,Seattle,1.0,1,Segmen 1
+AC00155,2024-01-01 16:12:32,207.2,Online,Debit,Columbus,1.0,1,Segmen 1
+AC00156,2023-03-17 16:34:52,148.13,Branch,Debit,Phoenix,1.0,1,Segmen 1
+AC00156,2023-05-15 18:44:04,261.14,Branch,Debit,San Antonio,1.0,1,Segmen 1
+AC00156,2023-08-28 16:43:15,1271.9,ATM,Debit,Houston,1.0,1,Segmen 1
+AC00156,2023-10-26 16:59:55,236.81,Branch,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00156,2023-12-18 16:47:17,237.06,Online,Debit,Phoenix,1.0,1,Segmen 1
+AC00157,2023-04-17 17:43:23,150.6,ATM,Debit,Miami,1.0,2,Segmen 2
+AC00157,2023-09-12 17:21:48,481.53,Branch,Debit,Atlanta,1.0,2,Segmen 2
+AC00157,2023-11-10 18:28:09,214.73,ATM,Credit,Los Angeles,1.0,2,Segmen 2
+AC00157,2023-12-04 16:23:00,102.81,Branch,Debit,Seattle,1.0,2,Segmen 2
+AC00158,2023-05-16 16:57:35,393.92,Branch,Debit,Memphis,1.0,1,Segmen 1
+AC00158,2023-06-06 18:53:35,245.93,Branch,Debit,Fresno,1.0,1,Segmen 1
+AC00158,2023-06-26 18:51:31,446.83,Branch,Credit,Miami,1.0,1,Segmen 1
+AC00158,2023-07-28 17:19:48,191.62,Branch,Debit,Jacksonville,1.0,1,Segmen 1
+AC00158,2023-08-21 17:43:17,775.6,Branch,Credit,Mesa,1.0,1,Segmen 1
+AC00158,2023-10-17 16:41:39,104.23,Online,Credit,Louisville,1.0,1,Segmen 1
+AC00158,2023-12-22 17:31:59,196.49,Branch,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00159,2023-02-13 16:59:39,425.34,Online,Credit,Kansas City,1.0,0,Segmen 0
+AC00159,2023-02-17 18:01:18,230.51,Branch,Credit,Memphis,1.0,0,Segmen 0
+AC00159,2023-05-05 16:04:36,151.19,Branch,Credit,New York,1.0,0,Segmen 0
+AC00159,2023-07-06 18:16:05,29.22,ATM,Debit,San Antonio,1.0,0,Segmen 0
+AC00159,2023-08-10 16:39:44,187.88,ATM,Debit,Nashville,1.0,0,Segmen 0
+AC00160,2023-01-23 17:22:25,757.1,Branch,Debit,Atlanta,1.0,2,Segmen 2
+AC00160,2023-10-03 16:15:25,269.79,ATM,Debit,San Jose,1.0,2,Segmen 2
+AC00161,2023-06-29 16:57:52,68.62,Branch,Debit,Omaha,1.0,0,Segmen 0
+AC00161,2023-08-14 16:26:38,199.47,Online,Debit,Detroit,1.0,0,Segmen 0
+AC00161,2023-12-11 16:06:51,1182.86,Online,Debit,Tucson,1.0,0,Segmen 0
+AC00162,2023-01-16 17:39:25,33.76,Online,Debit,Seattle,1.0,2,Segmen 2
+AC00162,2023-11-13 16:16:24,55.99,ATM,Debit,El Paso,1.0,2,Segmen 2
+AC00163,2023-07-03 17:42:08,227.14,ATM,Debit,Charlotte,1.0,0,Segmen 0
+AC00163,2023-12-11 16:57:08,388.77,Online,Credit,Jacksonville,1.0,0,Segmen 0
+AC00164,2023-01-05 16:13:59,421.25,Online,Debit,Fort Worth,1.0,1,Segmen 1
+AC00164,2023-02-20 18:56:31,683.75,Branch,Debit,Las Vegas,1.0,1,Segmen 1
+AC00164,2023-02-21 16:02:33,388.65,ATM,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00164,2023-03-07 16:36:08,738.68,Online,Debit,Chicago,1.0,1,Segmen 1
+AC00164,2023-06-26 18:57:37,711.3,Branch,Debit,San Jose,1.0,1,Segmen 1
+AC00164,2023-07-12 16:54:53,95.75,Branch,Debit,Los Angeles,1.0,1,Segmen 1
+AC00165,2023-03-03 17:18:59,820.62,Branch,Credit,Fresno,1.0,1,Segmen 1
+AC00165,2023-08-10 16:16:41,135.27,ATM,Debit,Atlanta,1.0,1,Segmen 1
+AC00165,2023-08-10 16:58:10,33.03,Branch,Debit,Washington,1.0,1,Segmen 1
+AC00165,2023-10-10 16:42:09,626.9,ATM,Debit,Chicago,1.0,1,Segmen 1
+AC00165,2023-10-26 16:19:25,42.26,ATM,Debit,Raleigh,1.0,1,Segmen 1
+AC00165,2023-11-14 16:09:22,103.08,Online,Debit,San Francisco,1.0,1,Segmen 1
+AC00166,2023-02-17 16:28:12,81.15,ATM,Debit,Miami,1.0,1,Segmen 1
+AC00166,2023-09-13 16:55:14,0.99,ATM,Debit,Los Angeles,1.0,1,Segmen 1
+AC00166,2023-09-18 16:18:19,401.37,Branch,Debit,Los Angeles,1.0,1,Segmen 1
+AC00166,2023-10-10 17:16:59,294.77,Online,Debit,Philadelphia,1.0,1,Segmen 1
+AC00166,2023-10-25 16:21:15,182.79,Online,Credit,Louisville,1.0,1,Segmen 1
+AC00166,2023-12-12 17:41:53,446.39,ATM,Debit,Houston,1.0,1,Segmen 1
+AC00167,2023-05-01 16:11:56,448.33,ATM,Debit,Atlanta,1.0,2,Segmen 2
+AC00167,2023-08-08 17:41:41,405.6,Online,Debit,Tucson,1.0,2,Segmen 2
+AC00167,2023-09-13 16:22:48,133.07,Branch,Debit,Sacramento,1.0,2,Segmen 2
+AC00167,2023-09-27 16:39:38,103.81,ATM,Debit,Oklahoma City,1.0,2,Segmen 2
+AC00168,2023-12-27 16:40:01,77.83,Branch,Credit,Kansas City,1.0,0,Segmen 0
+AC00169,2023-05-10 16:15:31,39.21,ATM,Debit,Miami,4.0,2,Segmen 2
+AC00169,2023-08-14 16:46:26,136.48,Online,Debit,Charlotte,4.0,2,Segmen 2
+AC00170,2023-01-02 16:36:02,129.94,ATM,Debit,Las Vegas,1.0,1,Segmen 1
+AC00170,2023-01-04 16:09:43,80.43,Branch,Debit,Columbus,1.0,1,Segmen 1
+AC00170,2023-03-02 16:09:39,9.1,Online,Credit,Columbus,1.0,1,Segmen 1
+AC00170,2023-05-15 16:52:24,171.11,ATM,Debit,San Francisco,1.0,1,Segmen 1
+AC00170,2023-10-04 16:47:33,41.51,Online,Debit,Phoenix,1.0,1,Segmen 1
+AC00170,2023-11-24 17:00:27,106.99,Branch,Debit,Omaha,1.0,1,Segmen 1
+AC00170,2023-12-21 16:21:27,1192.2,ATM,Credit,Jacksonville,5.0,1,Segmen 1
+AC00171,2023-02-06 16:09:48,97.98,Branch,Debit,Denver,1.0,2,Segmen 2
+AC00171,2023-10-02 18:21:39,165.55,Branch,Debit,Dallas,1.0,2,Segmen 2
+AC00171,2023-11-10 16:26:28,577.73,ATM,Debit,San Jose,1.0,2,Segmen 2
+AC00171,2023-12-21 17:01:24,26.06,ATM,Debit,San Diego,1.0,2,Segmen 2
+AC00171,2023-12-21 17:56:04,22.61,Online,Debit,Seattle,1.0,2,Segmen 2
+AC00172,2023-05-01 16:18:16,431.31,Online,Credit,Atlanta,1.0,0,Segmen 0
+AC00172,2023-07-18 17:56:55,421.56,Online,Debit,San Jose,1.0,0,Segmen 0
+AC00172,2023-08-28 17:56:39,870.3,ATM,Debit,San Jose,1.0,0,Segmen 0
+AC00172,2023-10-06 16:37:16,38.15,Online,Credit,Oklahoma City,1.0,0,Segmen 0
+AC00173,2023-01-30 16:20:26,498.59,Online,Credit,Oklahoma City,1.0,2,Segmen 2
+AC00173,2023-06-26 16:10:57,345.81,Branch,Debit,Raleigh,1.0,2,Segmen 2
+AC00173,2023-09-21 16:42:38,224.19,ATM,Debit,Houston,1.0,2,Segmen 2
+AC00173,2023-11-03 16:31:22,726.61,ATM,Debit,Phoenix,1.0,2,Segmen 2
+AC00174,2023-03-30 16:00:25,213.55,ATM,Debit,Boston,1.0,0,Segmen 0
+AC00174,2023-08-11 17:57:52,353.59,Branch,Credit,New York,5.0,0,Segmen 0
+AC00174,2023-09-04 17:59:51,83.02,Online,Credit,Seattle,1.0,0,Segmen 0
+AC00174,2023-10-16 16:29:39,50.52,Online,Debit,Boston,1.0,0,Segmen 0
+AC00175,2023-02-06 18:39:23,567.71,Online,Debit,Memphis,1.0,1,Segmen 1
+AC00175,2023-04-14 16:52:23,557.41,Online,Credit,Washington,1.0,1,Segmen 1
+AC00175,2023-05-08 16:31:56,309.77,Online,Credit,San Antonio,1.0,1,Segmen 1
+AC00175,2023-09-19 17:16:46,54.03,ATM,Credit,Milwaukee,1.0,1,Segmen 1
+AC00175,2023-10-13 17:54:57,521.01,Branch,Credit,Seattle,1.0,1,Segmen 1
+AC00175,2023-10-20 18:34:41,1.87,ATM,Debit,Washington,1.0,1,Segmen 1
+AC00175,2023-11-27 16:33:20,124.74,ATM,Debit,Los Angeles,1.0,1,Segmen 1
+AC00176,2023-01-16 18:57:13,159.32,Branch,Debit,Seattle,1.0,1,Segmen 1
+AC00176,2023-06-14 16:24:08,13.02,Branch,Debit,Charlotte,1.0,1,Segmen 1
+AC00176,2023-07-18 18:06:23,458.94,Branch,Debit,Detroit,1.0,1,Segmen 1
+AC00176,2023-07-25 18:58:19,74.72,Online,Debit,Phoenix,1.0,1,Segmen 1
+AC00176,2023-08-09 17:34:26,841.28,Online,Debit,Tucson,1.0,1,Segmen 1
+AC00176,2023-08-10 18:39:04,595.91,ATM,Credit,San Antonio,1.0,1,Segmen 1
+AC00176,2023-08-21 17:19:06,1.21,Branch,Debit,Atlanta,1.0,1,Segmen 1
+AC00176,2023-12-25 18:29:05,213.28,Branch,Debit,Mesa,1.0,1,Segmen 1
+AC00177,2023-01-03 17:56:37,138.54,Branch,Credit,Austin,1.0,1,Segmen 1
+AC00177,2023-05-22 16:41:12,311.28,Branch,Debit,Atlanta,1.0,1,Segmen 1
+AC00177,2023-07-10 16:40:15,242.62,Online,Credit,San Francisco,1.0,1,Segmen 1
+AC00177,2023-08-08 17:44:21,623.9,ATM,Debit,San Jose,1.0,1,Segmen 1
+AC00177,2023-09-04 16:41:19,230.61,Branch,Debit,Raleigh,1.0,1,Segmen 1
+AC00177,2023-10-16 16:59:36,16.16,ATM,Debit,Milwaukee,1.0,1,Segmen 1
+AC00177,2023-11-27 16:05:27,736.73,Branch,Debit,Memphis,1.0,1,Segmen 1
+AC00177,2023-11-27 16:43:28,218.59,Branch,Credit,Denver,1.0,1,Segmen 1
+AC00177,2023-12-05 18:33:02,434.67,Online,Credit,Virginia Beach,1.0,1,Segmen 1
+AC00178,2023-04-17 16:50:45,66.9,Online,Credit,Charlotte,4.0,0,Segmen 0
+AC00178,2023-09-11 16:19:04,115.02,Branch,Debit,San Antonio,1.0,0,Segmen 0
+AC00178,2023-09-19 17:45:19,446.1,ATM,Debit,Seattle,1.0,0,Segmen 0
+AC00178,2023-10-16 16:12:20,138.82,Online,Debit,Fort Worth,1.0,0,Segmen 0
+AC00178,2023-10-19 17:34:53,112.27,Branch,Debit,Seattle,1.0,0,Segmen 0
+AC00179,2023-02-09 16:29:06,360.02,Online,Debit,Dallas,1.0,1,Segmen 1
+AC00179,2023-06-21 16:00:07,994.63,Online,Debit,Austin,1.0,1,Segmen 1
+AC00179,2023-06-21 17:48:16,204.63,Online,Debit,Las Vegas,1.0,1,Segmen 1
+AC00179,2023-08-14 16:40:38,213.4,Branch,Credit,Fort Worth,1.0,1,Segmen 1
+AC00179,2023-09-15 17:31:42,1831.02,Online,Credit,Columbus,1.0,1,Segmen 1
+AC00179,2023-10-27 18:28:05,216.03,ATM,Debit,Boston,1.0,1,Segmen 1
+AC00180,2023-10-10 18:12:07,108.96,ATM,Debit,Milwaukee,1.0,2,Segmen 2
+AC00181,2023-01-12 18:07:21,261.77,Online,Debit,Chicago,1.0,2,Segmen 2
+AC00181,2023-05-03 16:26:08,22.15,Branch,Debit,Denver,1.0,2,Segmen 2
+AC00181,2023-05-04 16:21:31,800.55,ATM,Debit,Oklahoma City,1.0,2,Segmen 2
+AC00181,2023-06-01 18:27:12,40.9,ATM,Debit,Charlotte,1.0,2,Segmen 2
+AC00181,2023-12-04 18:27:11,321.93,ATM,Debit,Nashville,1.0,2,Segmen 2
+AC00182,2023-01-30 16:34:16,617.66,ATM,Debit,Memphis,1.0,1,Segmen 1
+AC00182,2023-01-31 18:31:22,231.91,ATM,Debit,Memphis,1.0,1,Segmen 1
+AC00182,2023-04-03 16:07:53,271.22,ATM,Credit,Louisville,1.0,1,Segmen 1
+AC00182,2023-05-01 18:28:00,677.29,Online,Debit,Houston,1.0,1,Segmen 1
+AC00182,2023-06-08 17:20:53,375.17,ATM,Debit,Fort Worth,2.0,1,Segmen 1
+AC00182,2023-08-17 16:44:38,67.57,Branch,Debit,Charlotte,1.0,1,Segmen 1
+AC00182,2023-08-31 16:42:18,870.05,ATM,Debit,El Paso,1.0,1,Segmen 1
+AC00182,2023-10-16 17:47:41,442.74,Branch,Debit,San Diego,1.0,1,Segmen 1
+AC00183,2023-02-23 16:04:35,420.76,Branch,Debit,Miami,1.0,1,Segmen 1
+AC00183,2023-04-12 17:54:47,307.75,Branch,Debit,Detroit,1.0,1,Segmen 1
+AC00183,2023-04-24 16:07:53,155.56,Branch,Credit,Austin,1.0,1,Segmen 1
+AC00183,2023-06-13 17:52:56,59.44,Online,Debit,Chicago,1.0,1,Segmen 1
+AC00183,2023-09-01 16:19:43,637.34,ATM,Debit,Indianapolis,1.0,1,Segmen 1
+AC00183,2023-09-18 16:19:03,55.12,Online,Credit,Houston,1.0,1,Segmen 1
+AC00184,2023-05-29 16:40:15,484.24,Branch,Debit,Raleigh,1.0,0,Segmen 0
+AC00184,2023-08-22 16:49:26,353.69,Online,Debit,San Jose,1.0,0,Segmen 0
+AC00184,2023-10-18 16:20:15,73.19,Branch,Debit,Atlanta,1.0,0,Segmen 0
+AC00184,2023-10-31 17:06:47,110.49,Online,Debit,Raleigh,1.0,0,Segmen 0
+AC00185,2023-01-12 16:35:36,868.05,Online,Credit,San Diego,1.0,1,Segmen 1
+AC00185,2023-02-20 16:07:41,172.68,ATM,Debit,Baltimore,1.0,1,Segmen 1
+AC00185,2023-05-01 16:57:17,22.3,ATM,Debit,Philadelphia,1.0,1,Segmen 1
+AC00185,2023-09-08 17:09:54,163.46,Branch,Credit,Baltimore,1.0,1,Segmen 1
+AC00185,2023-12-04 16:27:03,21.41,Online,Debit,Louisville,1.0,1,Segmen 1
+AC00185,2023-12-18 17:09:29,206.51,ATM,Debit,Indianapolis,1.0,1,Segmen 1
+AC00186,2023-09-04 16:04:27,199.23,ATM,Debit,Tucson,1.0,0,Segmen 0
+AC00186,2023-12-18 16:30:46,257.6,Online,Credit,Fort Worth,1.0,0,Segmen 0
+AC00187,2023-02-13 16:44:51,343.86,Branch,Debit,Charlotte,1.0,2,Segmen 2
+AC00187,2023-03-22 16:18:37,333.97,Branch,Debit,Fresno,1.0,2,Segmen 2
+AC00187,2023-05-04 17:02:55,36.63,ATM,Debit,Miami,1.0,2,Segmen 2
+AC00187,2023-10-02 17:44:05,118.77,Branch,Debit,Atlanta,1.0,2,Segmen 2
+AC00188,2023-03-13 17:16:57,179.38,Online,Debit,Mesa,1.0,0,Segmen 0
+AC00188,2023-05-30 17:54:22,13.71,Online,Credit,Denver,1.0,0,Segmen 0
+AC00188,2023-08-11 16:43:41,48.78,Branch,Credit,Kansas City,1.0,0,Segmen 0
+AC00188,2023-09-04 16:42:49,220.41,Online,Credit,El Paso,1.0,0,Segmen 0
+AC00188,2023-09-25 16:22:10,92.5,Online,Credit,Seattle,1.0,0,Segmen 0
+AC00189,2023-01-23 17:35:42,555.71,Branch,Credit,Boston,1.0,1,Segmen 1
+AC00189,2023-06-06 16:36:30,13.3,ATM,Debit,San Antonio,1.0,1,Segmen 1
+AC00189,2023-08-02 16:37:39,350.72,ATM,Credit,Fresno,1.0,1,Segmen 1
+AC00189,2023-08-03 18:35:54,146.55,Online,Debit,Virginia Beach,5.0,1,Segmen 1
+AC00189,2023-10-09 18:28:04,443.79,ATM,Debit,Las Vegas,1.0,1,Segmen 1
+AC00190,2023-01-09 16:05:02,15.74,Branch,Debit,Denver,1.0,0,Segmen 0
+AC00190,2023-01-16 16:37:34,106.41,Branch,Debit,Los Angeles,1.0,0,Segmen 0
+AC00190,2023-03-20 17:25:15,602.8,Branch,Debit,Baltimore,1.0,0,Segmen 0
+AC00190,2023-07-13 17:50:13,332.59,Online,Debit,San Antonio,1.0,0,Segmen 0
+AC00190,2023-08-30 17:54:55,46.6,Online,Debit,Detroit,1.0,0,Segmen 0
+AC00191,2023-01-06 16:13:53,83.07,Branch,Debit,Miami,4.0,2,Segmen 2
+AC00191,2023-03-06 16:37:23,372.08,Branch,Debit,Houston,1.0,2,Segmen 2
+AC00191,2023-12-28 18:53:29,56.15,Branch,Debit,Nashville,1.0,2,Segmen 2
+AC00192,2023-02-20 16:08:48,361.92,ATM,Debit,Detroit,1.0,2,Segmen 2
+AC00192,2023-04-27 16:27:41,332.0,ATM,Debit,Charlotte,1.0,2,Segmen 2
+AC00192,2023-05-17 17:00:34,788.84,Online,Debit,Phoenix,1.0,2,Segmen 2
+AC00192,2023-09-07 16:28:19,767.41,ATM,Debit,Fort Worth,1.0,2,Segmen 2
+AC00193,2023-05-22 16:24:02,95.5,Online,Debit,Omaha,1.0,0,Segmen 0
+AC00194,2023-01-30 17:11:53,36.71,Branch,Debit,Jacksonville,1.0,0,Segmen 0
+AC00194,2023-02-08 18:18:07,47.38,Online,Credit,Seattle,1.0,0,Segmen 0
+AC00194,2023-03-02 17:02:57,361.38,Online,Credit,Milwaukee,3.0,0,Segmen 0
+AC00194,2023-09-08 16:28:54,146.92,ATM,Debit,Portland,1.0,0,Segmen 0
+AC00195,2023-06-12 16:25:22,584.98,Branch,Credit,Chicago,1.0,2,Segmen 2
+AC00195,2023-09-18 16:40:55,393.68,ATM,Debit,San Diego,1.0,2,Segmen 2
+AC00196,2023-03-03 16:21:27,874.72,Online,Debit,San Francisco,1.0,1,Segmen 1
+AC00196,2023-06-05 16:02:04,428.62,Branch,Debit,Raleigh,1.0,1,Segmen 1
+AC00196,2023-08-08 16:47:28,3.8,Branch,Debit,Denver,1.0,1,Segmen 1
+AC00196,2023-08-24 18:54:06,438.04,ATM,Debit,Philadelphia,1.0,1,Segmen 1
+AC00196,2023-10-26 16:11:13,21.57,ATM,Debit,San Francisco,1.0,1,Segmen 1
+AC00196,2023-12-20 18:58:27,260.63,Branch,Debit,Fort Worth,1.0,1,Segmen 1
+AC00197,2023-03-27 17:25:28,56.11,Branch,Debit,Boston,1.0,0,Segmen 0
+AC00197,2023-05-19 18:54:32,318.92,Branch,Credit,Washington,1.0,0,Segmen 0
+AC00197,2023-10-02 16:32:31,25.77,Online,Debit,Memphis,1.0,0,Segmen 0
+AC00197,2023-11-06 16:31:43,201.53,Online,Debit,Tucson,1.0,0,Segmen 0
+AC00198,2023-01-13 16:44:26,506.24,ATM,Debit,Chicago,1.0,2,Segmen 2
+AC00198,2023-06-23 17:38:26,561.58,Online,Debit,Sacramento,1.0,2,Segmen 2
+AC00199,2023-02-15 16:36:48,7.08,ATM,Credit,Seattle,1.0,2,Segmen 2
+AC00200,2023-01-23 16:19:25,136.05,Online,Debit,Atlanta,3.0,1,Segmen 1
+AC00200,2023-04-03 16:01:51,76.51,Online,Credit,Mesa,4.0,1,Segmen 1
+AC00200,2023-04-25 16:28:35,146.01,Online,Debit,San Francisco,1.0,1,Segmen 1
+AC00200,2023-05-11 16:30:04,697.32,Online,Debit,Atlanta,1.0,1,Segmen 1
+AC00200,2023-06-09 17:41:13,190.17,ATM,Debit,Baltimore,1.0,1,Segmen 1
+AC00200,2023-08-29 16:17:55,289.18,ATM,Debit,Baltimore,1.0,1,Segmen 1
+AC00200,2023-10-12 16:02:13,12.23,ATM,Debit,Houston,1.0,1,Segmen 1
+AC00201,2023-01-30 16:08:07,313.65,Branch,Credit,Chicago,1.0,0,Segmen 0
+AC00201,2023-06-08 16:42:30,231.46,Branch,Credit,Miami,1.0,0,Segmen 0
+AC00201,2023-10-16 16:50:31,91.85,Online,Debit,Seattle,1.0,0,Segmen 0
+AC00201,2023-11-27 17:04:28,14.26,Branch,Debit,Virginia Beach,1.0,0,Segmen 0
+AC00202,2023-03-02 17:53:32,649.28,ATM,Debit,San Jose,1.0,1,Segmen 1
+AC00202,2023-03-13 17:01:57,132.36,Branch,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00202,2023-03-16 16:52:04,377.04,ATM,Debit,Chicago,1.0,1,Segmen 1
+AC00202,2023-05-25 16:45:31,642.68,ATM,Debit,Jacksonville,1.0,1,Segmen 1
+AC00202,2023-07-18 18:11:40,200.19,Branch,Credit,San Antonio,1.0,1,Segmen 1
+AC00202,2023-08-28 17:32:47,461.25,Online,Credit,Sacramento,1.0,1,Segmen 1
+AC00202,2023-09-22 17:40:23,237.84,Branch,Debit,Nashville,1.0,1,Segmen 1
+AC00202,2023-10-23 17:16:20,173.5,ATM,Debit,Nashville,1.0,1,Segmen 1
+AC00202,2023-11-27 18:01:47,389.43,ATM,Credit,Austin,1.0,1,Segmen 1
+AC00202,2023-12-04 17:07:34,304.35,Branch,Debit,Houston,1.0,1,Segmen 1
+AC00202,2023-12-04 18:43:37,5.66,Branch,Debit,Fresno,1.0,1,Segmen 1
+AC00202,2023-12-22 16:25:16,148.54,Branch,Credit,Columbus,1.0,1,Segmen 1
+AC00203,2023-02-16 18:56:44,769.97,Branch,Debit,San Diego,1.0,1,Segmen 1
+AC00203,2023-03-09 16:21:09,429.15,Branch,Debit,Las Vegas,1.0,1,Segmen 1
+AC00203,2023-07-17 17:46:06,1001.83,Online,Debit,Philadelphia,1.0,1,Segmen 1
+AC00203,2023-09-27 17:54:16,56.31,Online,Credit,Houston,1.0,1,Segmen 1
+AC00203,2023-11-20 17:10:02,208.04,Online,Debit,Louisville,1.0,1,Segmen 1
+AC00203,2023-12-15 16:04:20,275.98,Online,Credit,Washington,1.0,1,Segmen 1
+AC00204,2023-05-29 18:55:01,752.69,ATM,Credit,Dallas,1.0,1,Segmen 1
+AC00204,2023-06-26 16:46:41,184.97,Branch,Debit,Denver,1.0,1,Segmen 1
+AC00204,2023-09-05 16:05:58,54.85,Branch,Credit,San Francisco,1.0,1,Segmen 1
+AC00204,2023-09-05 17:34:08,388.07,Online,Debit,Seattle,1.0,1,Segmen 1
+AC00204,2023-10-23 18:46:51,338.69,Branch,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00204,2023-12-07 16:10:40,720.46,Branch,Debit,Tucson,1.0,1,Segmen 1
+AC00204,2024-01-01 16:30:58,219.02,Online,Credit,San Diego,1.0,1,Segmen 1
+AC00205,2023-03-29 16:10:33,252.31,ATM,Credit,Seattle,1.0,0,Segmen 0
+AC00205,2023-04-19 16:54:46,84.59,Branch,Credit,Las Vegas,1.0,0,Segmen 0
+AC00205,2023-12-11 16:53:08,1294.81,Branch,Credit,Washington,1.0,0,Segmen 0
+AC00205,2023-12-12 16:57:29,26.3,ATM,Debit,Virginia Beach,1.0,0,Segmen 0
+AC00206,2023-07-03 16:15:11,436.8,Online,Debit,Seattle,1.0,0,Segmen 0
+AC00206,2023-09-08 16:09:45,74.11,Online,Credit,Virginia Beach,4.0,0,Segmen 0
+AC00207,2023-10-09 18:23:25,220.68,Online,Credit,Raleigh,1.0,0,Segmen 0
+AC00207,2023-12-28 16:51:20,38.14,Online,Debit,Albuquerque,1.0,0,Segmen 0
+AC00208,2023-07-25 17:42:45,195.12,ATM,Debit,Louisville,1.0,2,Segmen 2
+AC00208,2023-09-04 16:48:35,598.81,Branch,Debit,Philadelphia,1.0,2,Segmen 2
+AC00208,2023-11-21 16:26:41,1241.05,Branch,Debit,Miami,1.0,2,Segmen 2
+AC00208,2023-12-29 17:17:48,435.86,ATM,Debit,Jacksonville,1.0,2,Segmen 2
+AC00209,2023-02-13 16:14:17,276.16,ATM,Credit,Portland,1.0,2,Segmen 2
+AC00209,2023-09-25 16:32:45,189.65,ATM,Debit,Charlotte,1.0,2,Segmen 2
+AC00209,2023-09-29 18:23:17,315.94,ATM,Debit,Omaha,1.0,2,Segmen 2
+AC00209,2023-12-01 17:45:19,167.47,ATM,Debit,Sacramento,1.0,2,Segmen 2
+AC00210,2023-03-13 16:08:41,242.03,Online,Debit,Dallas,1.0,0,Segmen 0
+AC00210,2023-08-25 18:47:28,123.85,Online,Debit,Las Vegas,1.0,0,Segmen 0
+AC00210,2023-09-11 16:36:59,333.39,ATM,Debit,Philadelphia,1.0,0,Segmen 0
+AC00210,2023-12-11 16:37:20,343.88,Online,Debit,Nashville,1.0,0,Segmen 0
+AC00211,2023-01-10 17:40:16,411.52,ATM,Debit,Los Angeles,1.0,2,Segmen 2
+AC00211,2023-02-09 16:27:52,224.73,Branch,Debit,Miami,1.0,2,Segmen 2
+AC00211,2023-05-15 18:41:05,435.5,ATM,Debit,Oklahoma City,1.0,2,Segmen 2
+AC00211,2023-08-30 18:38:56,917.81,ATM,Debit,Kansas City,2.0,2,Segmen 2
+AC00212,2023-09-28 16:20:57,163.68,Branch,Debit,San Diego,1.0,2,Segmen 2
+AC00212,2023-11-03 18:37:18,608.79,Online,Debit,Fort Worth,1.0,2,Segmen 2
+AC00212,2023-12-25 16:11:46,164.52,ATM,Debit,Dallas,1.0,2,Segmen 2
+AC00213,2023-02-17 16:53:25,100.48,Branch,Credit,Milwaukee,1.0,1,Segmen 1
+AC00213,2023-04-03 16:35:30,117.25,Online,Credit,Atlanta,1.0,1,Segmen 1
+AC00213,2023-04-03 16:41:47,91.38,ATM,Debit,Jacksonville,1.0,1,Segmen 1
+AC00213,2023-06-12 18:56:58,777.92,Branch,Debit,Austin,1.0,1,Segmen 1
+AC00213,2023-07-25 18:41:02,423.11,ATM,Debit,Columbus,1.0,1,Segmen 1
+AC00213,2023-12-04 17:06:43,66.58,Branch,Debit,Raleigh,1.0,1,Segmen 1
+AC00214,2023-03-03 17:49:53,101.34,ATM,Debit,Boston,1.0,2,Segmen 2
+AC00214,2023-05-22 17:45:02,114.1,Branch,Debit,Boston,1.0,2,Segmen 2
+AC00215,2023-02-06 17:57:28,588.54,Branch,Debit,Portland,1.0,1,Segmen 1
+AC00215,2023-05-08 16:48:31,54.84,Online,Debit,Kansas City,1.0,1,Segmen 1
+AC00215,2023-06-14 17:17:34,135.57,Branch,Credit,Boston,1.0,1,Segmen 1
+AC00215,2023-07-24 16:41:18,180.94,Branch,Debit,Raleigh,1.0,1,Segmen 1
+AC00215,2023-12-25 17:41:33,1.98,ATM,Debit,Seattle,1.0,1,Segmen 1
+AC00216,2023-02-13 18:42:09,106.39,Online,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00216,2023-02-16 17:34:34,624.0,Branch,Debit,Houston,5.0,1,Segmen 1
+AC00216,2023-07-26 16:44:22,319.85,ATM,Debit,Denver,1.0,1,Segmen 1
+AC00216,2023-09-01 16:26:50,235.83,Online,Credit,Memphis,1.0,1,Segmen 1
+AC00216,2023-10-23 16:35:48,60.96,ATM,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00217,2023-02-06 16:26:29,79.76,Branch,Debit,Raleigh,1.0,1,Segmen 1
+AC00217,2023-06-02 16:49:03,1074.95,Branch,Debit,Jacksonville,1.0,1,Segmen 1
+AC00217,2023-07-18 16:12:00,133.55,ATM,Debit,Atlanta,1.0,1,Segmen 1
+AC00217,2023-08-16 16:40:51,40.83,ATM,Debit,Indianapolis,1.0,1,Segmen 1
+AC00217,2023-11-13 16:41:09,46.22,Branch,Debit,San Jose,1.0,1,Segmen 1
+AC00217,2023-12-04 16:27:40,20.27,Branch,Debit,Miami,1.0,1,Segmen 1
+AC00218,2023-01-05 16:56:49,170.45,Branch,Debit,San Francisco,1.0,1,Segmen 1
+AC00218,2023-02-23 16:41:55,152.01,ATM,Debit,Fort Worth,3.0,1,Segmen 1
+AC00218,2023-03-31 16:34:38,494.96,ATM,Debit,Sacramento,1.0,1,Segmen 1
+AC00218,2023-06-19 16:57:53,77.03,ATM,Debit,Fresno,1.0,1,Segmen 1
+AC00218,2023-06-26 16:10:25,118.83,Online,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00218,2023-09-26 16:50:05,463.11,Branch,Credit,Las Vegas,1.0,1,Segmen 1
+AC00218,2023-11-03 18:33:50,346.85,ATM,Debit,Kansas City,1.0,1,Segmen 1
+AC00219,2023-01-23 16:05:42,194.29,Branch,Credit,Seattle,1.0,1,Segmen 1
+AC00219,2023-02-14 17:01:44,88.6,Branch,Credit,Raleigh,1.0,1,Segmen 1
+AC00219,2023-03-01 16:17:46,408.46,Branch,Debit,Raleigh,1.0,1,Segmen 1
+AC00219,2023-06-19 17:58:54,291.27,Branch,Debit,Detroit,1.0,1,Segmen 1
+AC00219,2023-09-18 16:15:19,68.68,Branch,Debit,Sacramento,1.0,1,Segmen 1
+AC00219,2023-09-18 17:18:03,33.65,Online,Credit,New York,1.0,1,Segmen 1
+AC00219,2023-09-25 16:07:30,118.1,ATM,Debit,Fort Worth,1.0,1,Segmen 1
+AC00219,2023-12-11 18:32:40,13.87,Branch,Debit,Phoenix,1.0,1,Segmen 1
+AC00219,2023-12-27 17:18:17,111.41,Branch,Debit,Chicago,1.0,1,Segmen 1
+AC00220,2023-04-11 16:06:20,38.41,ATM,Debit,Denver,1.0,1,Segmen 1
+AC00220,2023-09-05 16:55:47,345.22,Branch,Debit,Fresno,1.0,1,Segmen 1
+AC00220,2023-09-11 17:43:14,63.58,ATM,Debit,Columbus,1.0,1,Segmen 1
+AC00220,2023-09-25 16:51:23,1360.01,Branch,Credit,Phoenix,1.0,1,Segmen 1
+AC00220,2023-10-16 18:57:30,483.92,ATM,Debit,New York,1.0,1,Segmen 1
+AC00220,2023-11-06 16:34:10,259.91,Online,Debit,Denver,1.0,1,Segmen 1
+AC00221,2023-06-05 16:24:12,170.24,Branch,Debit,San Francisco,1.0,2,Segmen 2
+AC00222,2023-05-01 16:43:40,918.95,Online,Debit,Louisville,1.0,2,Segmen 2
+AC00222,2023-09-04 17:36:40,64.3,ATM,Debit,Louisville,1.0,2,Segmen 2
+AC00222,2023-09-29 17:31:24,471.84,ATM,Debit,Raleigh,1.0,2,Segmen 2
+AC00222,2023-10-09 16:17:07,190.9,Online,Debit,Louisville,1.0,2,Segmen 2
+AC00223,2023-01-17 16:59:03,810.36,ATM,Debit,Columbus,1.0,2,Segmen 2
+AC00223,2023-11-15 16:08:52,12.04,Online,Debit,Fort Worth,1.0,2,Segmen 2
+AC00224,2023-09-26 16:08:25,177.94,Online,Debit,Milwaukee,1.0,2,Segmen 2
+AC00224,2023-11-16 17:14:01,302.76,ATM,Debit,Sacramento,3.0,2,Segmen 2
+AC00225,2023-02-06 16:40:27,615.16,Online,Debit,Boston,1.0,1,Segmen 1
+AC00225,2023-03-10 17:49:57,368.91,Branch,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00225,2023-04-24 16:49:48,185.99,Branch,Credit,Fresno,1.0,1,Segmen 1
+AC00225,2023-05-26 16:47:51,39.48,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00225,2023-08-14 17:29:30,56.84,ATM,Debit,Raleigh,1.0,1,Segmen 1
+AC00225,2023-08-28 18:27:59,275.87,ATM,Debit,Seattle,1.0,1,Segmen 1
+AC00225,2023-09-04 16:46:29,97.74,Online,Credit,Los Angeles,1.0,1,Segmen 1
+AC00225,2023-09-06 18:43:52,220.8,Online,Debit,Indianapolis,1.0,1,Segmen 1
+AC00225,2023-10-20 16:29:44,589.89,Branch,Debit,Jacksonville,3.0,1,Segmen 1
+AC00225,2023-11-09 17:02:41,175.15,ATM,Debit,Detroit,1.0,1,Segmen 1
+AC00225,2023-11-13 16:11:52,300.47,Branch,Debit,Jacksonville,1.0,1,Segmen 1
+AC00227,2023-01-09 16:12:01,307.57,Branch,Debit,Detroit,1.0,2,Segmen 2
+AC00227,2023-02-15 16:37:09,28.04,ATM,Debit,Los Angeles,1.0,2,Segmen 2
+AC00227,2023-12-08 17:05:33,115.22,Branch,Debit,San Francisco,1.0,2,Segmen 2
+AC00227,2023-12-22 18:24:01,997.37,ATM,Debit,Fort Worth,1.0,2,Segmen 2
+AC00228,2023-01-20 16:34:35,203.99,Online,Debit,Philadelphia,1.0,1,Segmen 1
+AC00228,2023-02-27 16:07:46,441.26,Branch,Credit,Tucson,5.0,1,Segmen 1
+AC00228,2023-05-05 16:42:25,1079.11,Online,Debit,Las Vegas,1.0,1,Segmen 1
+AC00228,2023-06-09 17:58:00,289.05,ATM,Debit,New York,1.0,1,Segmen 1
+AC00228,2023-08-28 16:41:21,289.01,Online,Debit,Miami,1.0,1,Segmen 1
+AC00228,2023-11-01 17:59:04,11.06,ATM,Debit,Colorado Springs,3.0,1,Segmen 1
+AC00228,2023-12-04 16:20:16,21.21,Online,Debit,Nashville,1.0,1,Segmen 1
+AC00228,2023-12-21 18:44:40,175.21,ATM,Credit,Mesa,1.0,1,Segmen 1
+AC00229,2023-01-17 18:42:28,115.92,ATM,Debit,Raleigh,1.0,1,Segmen 1
+AC00229,2023-05-02 17:13:45,348.7,Branch,Credit,Fresno,1.0,1,Segmen 1
+AC00229,2023-06-07 17:35:50,114.23,ATM,Debit,Dallas,1.0,1,Segmen 1
+AC00229,2023-10-30 17:21:38,507.25,Branch,Debit,Washington,1.0,1,Segmen 1
+AC00229,2023-12-25 17:18:58,17.21,Online,Debit,Omaha,1.0,1,Segmen 1
+AC00230,2023-07-18 16:05:40,74.11,Branch,Debit,San Jose,1.0,0,Segmen 0
+AC00230,2023-10-17 16:11:26,584.82,Online,Credit,Nashville,1.0,0,Segmen 0
+AC00230,2023-11-27 16:10:37,697.82,Online,Debit,New York,1.0,0,Segmen 0
+AC00231,2023-02-22 17:15:20,776.21,Online,Credit,Raleigh,1.0,0,Segmen 0
+AC00231,2023-02-27 16:08:40,189.77,Branch,Debit,Raleigh,1.0,0,Segmen 0
+AC00231,2023-08-11 16:38:16,26.31,Online,Credit,Austin,1.0,0,Segmen 0
+AC00231,2023-11-24 16:49:29,310.09,Branch,Debit,Detroit,1.0,0,Segmen 0
+AC00231,2023-12-18 17:53:03,284.89,Online,Debit,Atlanta,1.0,0,Segmen 0
+AC00232,2023-03-20 16:28:17,432.1,ATM,Debit,San Francisco,1.0,0,Segmen 0
+AC00232,2023-07-17 17:15:21,25.77,Online,Credit,San Diego,1.0,0,Segmen 0
+AC00232,2023-09-22 16:42:15,703.89,Online,Debit,San Antonio,1.0,0,Segmen 0
+AC00232,2023-11-22 16:59:09,54.5,Branch,Credit,Philadelphia,1.0,0,Segmen 0
+AC00232,2023-12-25 17:53:56,94.3,Branch,Debit,Phoenix,1.0,0,Segmen 0
+AC00233,2023-04-07 16:16:00,38.14,Branch,Debit,Portland,1.0,2,Segmen 2
+AC00233,2023-06-05 16:24:41,67.07,ATM,Credit,Los Angeles,1.0,2,Segmen 2
+AC00233,2023-06-16 16:41:23,241.11,Branch,Debit,Columbus,1.0,2,Segmen 2
+AC00233,2023-06-23 17:36:28,5.81,ATM,Debit,Houston,1.0,2,Segmen 2
+AC00233,2023-07-07 17:19:39,445.79,ATM,Debit,Las Vegas,1.0,2,Segmen 2
+AC00233,2023-11-27 17:01:48,16.8,ATM,Debit,San Diego,1.0,2,Segmen 2
+AC00235,2023-01-02 16:31:28,545.87,Branch,Debit,Miami,1.0,1,Segmen 1
+AC00235,2023-03-27 17:25:32,270.72,Branch,Debit,Los Angeles,1.0,1,Segmen 1
+AC00235,2023-04-12 17:39:29,107.47,Online,Debit,Austin,1.0,1,Segmen 1
+AC00235,2023-08-17 16:54:30,55.89,Online,Debit,Fresno,1.0,1,Segmen 1
+AC00235,2023-09-20 18:18:00,61.33,ATM,Debit,Raleigh,1.0,1,Segmen 1
+AC00235,2023-10-13 16:08:26,5.12,Branch,Debit,New York,1.0,1,Segmen 1
+AC00235,2023-11-30 16:31:03,306.9,Online,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00236,2023-01-11 17:04:19,325.03,Branch,Debit,Jacksonville,1.0,1,Segmen 1
+AC00236,2023-01-23 16:32:48,922.55,ATM,Debit,Detroit,1.0,1,Segmen 1
+AC00236,2023-03-08 17:43:41,263.34,ATM,Debit,Denver,1.0,1,Segmen 1
+AC00236,2023-08-04 17:44:36,0.32,ATM,Debit,Boston,1.0,1,Segmen 1
+AC00236,2023-08-07 16:15:16,185.71,Branch,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00236,2023-12-05 17:57:39,375.45,Branch,Debit,Fort Worth,1.0,1,Segmen 1
+AC00237,2023-02-06 16:42:16,590.01,Online,Debit,San Jose,3.0,1,Segmen 1
+AC00237,2023-05-01 16:30:03,72.75,ATM,Debit,Phoenix,1.0,1,Segmen 1
+AC00237,2023-06-26 17:54:14,167.92,ATM,Debit,Memphis,2.0,1,Segmen 1
+AC00237,2023-08-22 18:41:50,885.33,ATM,Credit,Raleigh,1.0,1,Segmen 1
+AC00237,2023-10-24 17:09:41,113.64,Online,Debit,Detroit,1.0,1,Segmen 1
+AC00238,2023-11-06 17:20:40,335.68,Online,Debit,Tucson,1.0,0,Segmen 0
+AC00239,2023-02-28 17:24:26,302.63,Branch,Credit,San Jose,1.0,1,Segmen 1
+AC00239,2023-02-28 17:55:00,99.16,Online,Debit,San Francisco,1.0,1,Segmen 1
+AC00239,2023-08-11 17:00:56,123.35,Online,Credit,Baltimore,1.0,1,Segmen 1
+AC00239,2023-09-29 16:53:14,278.88,Branch,Debit,Kansas City,2.0,1,Segmen 1
+AC00239,2023-12-28 17:31:03,232.12,ATM,Debit,Baltimore,1.0,1,Segmen 1
+AC00239,2023-12-28 17:31:03,232.12,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00240,2023-03-24 18:50:42,350.14,Online,Credit,Los Angeles,1.0,0,Segmen 0
+AC00240,2023-08-25 17:26:27,1151.18,ATM,Debit,Kansas City,1.0,0,Segmen 0
+AC00241,2023-01-16 17:28:48,233.1,Branch,Credit,Nashville,1.0,1,Segmen 1
+AC00241,2023-03-02 16:43:56,145.54,Online,Debit,Raleigh,1.0,1,Segmen 1
+AC00241,2023-03-07 17:49:13,25.32,ATM,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00241,2023-03-27 16:34:18,112.72,Branch,Debit,Washington,1.0,1,Segmen 1
+AC00241,2023-04-17 18:42:04,272.97,Online,Debit,Boston,1.0,1,Segmen 1
+AC00241,2023-09-14 17:08:40,211.36,Branch,Debit,San Francisco,1.0,1,Segmen 1
+AC00241,2023-09-18 16:28:56,112.66,Online,Debit,Philadelphia,3.0,1,Segmen 1
+AC00241,2023-09-21 17:41:34,440.43,Branch,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00241,2024-01-01 17:16:23,188.61,Online,Debit,Boston,1.0,1,Segmen 1
+AC00242,2023-02-21 16:56:50,18.68,Branch,Credit,Albuquerque,1.0,1,Segmen 1
+AC00242,2023-02-27 16:37:11,120.62,ATM,Debit,Raleigh,1.0,1,Segmen 1
+AC00242,2023-03-29 17:00:31,201.33,Branch,Credit,Nashville,1.0,1,Segmen 1
+AC00242,2023-04-17 18:22:37,37.58,ATM,Debit,Indianapolis,1.0,1,Segmen 1
+AC00242,2023-04-24 18:29:26,66.76,Branch,Credit,Austin,1.0,1,Segmen 1
+AC00242,2023-06-20 18:43:51,411.72,Branch,Debit,Washington,1.0,1,Segmen 1
+AC00242,2023-10-16 18:38:15,84.91,Online,Debit,Raleigh,1.0,1,Segmen 1
+AC00242,2023-10-25 17:50:23,35.16,Branch,Debit,Chicago,1.0,1,Segmen 1
+AC00242,2023-11-20 16:29:48,332.93,Branch,Credit,Albuquerque,1.0,1,Segmen 1
+AC00243,2023-03-14 17:06:18,176.52,Online,Credit,San Diego,5.0,2,Segmen 2
+AC00243,2023-05-02 16:30:52,149.4,ATM,Debit,Chicago,1.0,2,Segmen 2
+AC00243,2023-05-22 16:51:28,14.92,Branch,Debit,Las Vegas,1.0,2,Segmen 2
+AC00243,2023-08-21 17:10:10,388.98,ATM,Debit,Fresno,1.0,2,Segmen 2
+AC00244,2023-04-10 18:27:51,504.71,Online,Debit,Detroit,1.0,1,Segmen 1
+AC00244,2023-04-25 16:11:22,21.13,Branch,Debit,Dallas,1.0,1,Segmen 1
+AC00244,2023-07-19 16:11:01,737.1,ATM,Debit,Washington,1.0,1,Segmen 1
+AC00244,2023-09-25 17:01:56,410.97,Branch,Debit,Los Angeles,1.0,1,Segmen 1
+AC00244,2023-10-12 17:10:20,152.34,Branch,Debit,Omaha,1.0,1,Segmen 1
+AC00245,2023-02-06 16:32:53,42.58,Online,Debit,San Jose,1.0,1,Segmen 1
+AC00245,2023-03-27 18:08:06,169.28,Branch,Debit,Philadelphia,1.0,1,Segmen 1
+AC00245,2023-05-25 16:27:17,331.22,Branch,Credit,Oklahoma City,1.0,1,Segmen 1
+AC00245,2023-06-13 17:26:54,262.43,Online,Credit,San Diego,5.0,1,Segmen 1
+AC00245,2023-06-26 16:28:59,77.44,Branch,Debit,Washington,1.0,1,Segmen 1
+AC00245,2023-12-15 16:16:30,178.55,Branch,Debit,Houston,1.0,1,Segmen 1
+AC00246,2023-02-13 17:48:36,3.65,Online,Debit,Miami,1.0,1,Segmen 1
+AC00246,2023-05-15 16:13:54,91.23,ATM,Debit,Boston,1.0,1,Segmen 1
+AC00246,2023-06-05 17:45:07,290.86,Online,Debit,Louisville,1.0,1,Segmen 1
+AC00246,2023-12-04 17:54:09,180.65,Branch,Debit,Charlotte,5.0,1,Segmen 1
+AC00246,2023-12-22 17:49:57,77.25,Branch,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00247,2023-03-08 16:58:31,10.77,ATM,Debit,Indianapolis,1.0,1,Segmen 1
+AC00247,2023-05-08 17:54:56,273.92,Online,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00247,2023-05-15 17:25:28,177.19,Online,Debit,Chicago,1.0,1,Segmen 1
+AC00247,2023-07-03 16:38:45,67.25,Online,Debit,Miami,1.0,1,Segmen 1
+AC00247,2023-08-18 17:07:18,111.26,ATM,Debit,Boston,1.0,1,Segmen 1
+AC00247,2023-08-23 18:19:06,101.28,Online,Credit,Chicago,1.0,1,Segmen 1
+AC00247,2024-01-01 17:37:04,414.77,Online,Debit,San Francisco,1.0,1,Segmen 1
+AC00248,2023-04-11 17:18:50,138.12,Branch,Credit,Los Angeles,1.0,1,Segmen 1
+AC00248,2023-06-15 17:49:07,48.77,Online,Credit,Austin,1.0,1,Segmen 1
+AC00248,2023-09-04 16:13:40,585.58,Branch,Debit,Raleigh,1.0,1,Segmen 1
+AC00248,2023-09-25 16:56:21,590.68,Branch,Debit,Washington,1.0,1,Segmen 1
+AC00248,2023-10-16 16:23:58,44.54,ATM,Debit,San Antonio,1.0,1,Segmen 1
+AC00248,2023-11-27 16:29:16,746.78,Branch,Credit,Austin,1.0,1,Segmen 1
+AC00248,2023-12-01 17:45:05,26.1,Branch,Credit,Detroit,1.0,1,Segmen 1
+AC00249,2023-02-24 16:23:22,304.93,ATM,Debit,Portland,1.0,2,Segmen 2
+AC00249,2023-09-25 17:58:54,48.29,Online,Debit,San Diego,1.0,2,Segmen 2
+AC00249,2023-12-01 17:26:46,18.41,Branch,Debit,Atlanta,1.0,2,Segmen 2
+AC00249,2023-12-18 18:34:33,70.03,Branch,Debit,Nashville,1.0,2,Segmen 2
+AC00250,2023-03-20 16:35:53,840.16,Branch,Credit,Colorado Springs,1.0,2,Segmen 2
+AC00250,2023-04-03 18:37:57,153.07,ATM,Debit,Detroit,1.0,2,Segmen 2
+AC00251,2023-06-21 16:40:17,1026.46,Branch,Debit,Philadelphia,1.0,1,Segmen 1
+AC00251,2023-10-19 17:06:57,433.53,Branch,Debit,Philadelphia,1.0,1,Segmen 1
+AC00251,2023-11-03 16:08:00,883.92,Online,Credit,Tucson,1.0,1,Segmen 1
+AC00251,2023-12-25 17:05:00,426.93,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00252,2023-08-28 16:40:01,331.98,ATM,Debit,Denver,1.0,2,Segmen 2
+AC00252,2023-12-25 17:12:21,1169.59,Online,Debit,New York,1.0,2,Segmen 2
+AC00253,2023-02-20 17:23:03,430.35,Online,Debit,Charlotte,1.0,1,Segmen 1
+AC00253,2023-05-08 17:44:34,767.66,ATM,Debit,San Jose,1.0,1,Segmen 1
+AC00253,2023-07-03 18:46:29,758.12,ATM,Debit,San Francisco,1.0,1,Segmen 1
+AC00253,2023-08-14 16:52:32,275.65,Branch,Credit,Atlanta,1.0,1,Segmen 1
+AC00253,2023-09-12 16:43:27,842.01,Online,Credit,Virginia Beach,1.0,1,Segmen 1
+AC00253,2023-11-29 17:43:51,20.05,ATM,Debit,Chicago,1.0,1,Segmen 1
+AC00254,2023-03-10 18:59:46,32.46,Online,Debit,Charlotte,1.0,1,Segmen 1
+AC00254,2023-03-15 17:40:16,165.91,ATM,Debit,Jacksonville,1.0,1,Segmen 1
+AC00254,2023-03-28 18:19:10,508.16,ATM,Debit,Mesa,1.0,1,Segmen 1
+AC00254,2023-08-11 16:31:43,283.15,Online,Debit,Baltimore,1.0,1,Segmen 1
+AC00254,2023-11-14 18:33:32,39.24,ATM,Debit,Dallas,1.0,1,Segmen 1
+AC00254,2023-11-23 16:59:11,175.07,Online,Debit,Las Vegas,2.0,1,Segmen 1
+AC00255,2023-01-09 16:08:44,588.36,Online,Debit,Charlotte,1.0,0,Segmen 0
+AC00255,2023-08-28 16:16:57,137.86,Online,Credit,Sacramento,1.0,0,Segmen 0
+AC00255,2023-11-06 16:32:58,353.68,Online,Debit,Las Vegas,1.0,0,Segmen 0
+AC00256,2023-03-27 18:47:56,166.68,ATM,Debit,Mesa,1.0,2,Segmen 2
+AC00256,2023-04-24 17:27:12,506.83,ATM,Debit,Indianapolis,1.0,2,Segmen 2
+AC00257,2023-01-02 16:27:18,73.88,Online,Debit,Charlotte,1.0,1,Segmen 1
+AC00257,2023-02-16 16:20:06,389.63,Online,Debit,Mesa,1.0,1,Segmen 1
+AC00257,2023-03-22 17:31:23,18.23,ATM,Debit,Nashville,1.0,1,Segmen 1
+AC00257,2023-03-27 16:26:46,620.54,Branch,Credit,Omaha,1.0,1,Segmen 1
+AC00257,2023-04-11 16:37:54,512.76,ATM,Debit,Fresno,1.0,1,Segmen 1
+AC00257,2023-05-26 18:15:08,60.65,Branch,Credit,Tucson,1.0,1,Segmen 1
+AC00257,2023-05-30 16:28:48,83.43,Online,Debit,New York,1.0,1,Segmen 1
+AC00257,2023-06-22 17:18:09,83.62,ATM,Debit,Raleigh,1.0,1,Segmen 1
+AC00257,2023-07-11 16:45:22,963.77,ATM,Debit,Louisville,1.0,1,Segmen 1
+AC00257,2023-08-17 17:10:25,277.22,Branch,Debit,Kansas City,1.0,1,Segmen 1
+AC00257,2023-12-06 17:10:35,326.29,Online,Debit,Denver,1.0,1,Segmen 1
+AC00258,2023-03-02 16:11:53,630.36,ATM,Debit,Mesa,1.0,1,Segmen 1
+AC00258,2023-04-12 17:21:31,79.14,Online,Credit,Portland,1.0,1,Segmen 1
+AC00258,2023-04-13 17:45:33,92.24,Branch,Debit,Philadelphia,1.0,1,Segmen 1
+AC00258,2023-04-20 17:54:10,189.03,ATM,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00258,2023-05-08 16:45:11,237.99,Branch,Credit,Kansas City,1.0,1,Segmen 1
+AC00258,2023-11-01 16:03:17,66.69,Branch,Credit,San Antonio,1.0,1,Segmen 1
+AC00258,2023-11-28 16:09:34,304.15,Branch,Debit,Atlanta,1.0,1,Segmen 1
+AC00259,2023-01-10 16:32:06,202.34,Online,Debit,New York,1.0,0,Segmen 0
+AC00259,2023-05-08 16:22:52,35.94,Branch,Credit,Fresno,1.0,0,Segmen 0
+AC00259,2023-10-23 16:27:20,373.99,ATM,Debit,Sacramento,1.0,0,Segmen 0
+AC00260,2023-02-20 17:30:19,97.22,Branch,Credit,Atlanta,1.0,0,Segmen 0
+AC00260,2023-08-15 17:21:47,249.34,ATM,Debit,Charlotte,1.0,0,Segmen 0
+AC00260,2023-10-16 18:47:17,95.23,Online,Debit,Denver,3.0,0,Segmen 0
+AC00260,2023-11-24 17:52:34,79.21,Branch,Debit,Colorado Springs,1.0,0,Segmen 0
+AC00261,2023-02-13 17:58:45,16.27,ATM,Debit,Atlanta,1.0,1,Segmen 1
+AC00261,2023-02-17 16:21:21,26.1,ATM,Debit,Mesa,1.0,1,Segmen 1
+AC00261,2023-03-15 16:47:45,7.38,Online,Debit,Houston,1.0,1,Segmen 1
+AC00261,2023-04-18 18:55:32,451.68,Online,Debit,Houston,1.0,1,Segmen 1
+AC00261,2023-06-07 17:02:33,1.41,ATM,Debit,Sacramento,1.0,1,Segmen 1
+AC00261,2023-06-09 17:14:26,27.64,Online,Debit,New York,1.0,1,Segmen 1
+AC00261,2023-07-14 16:22:54,508.73,Branch,Debit,Chicago,1.0,1,Segmen 1
+AC00262,2023-01-26 18:07:00,459.29,Online,Credit,Kansas City,1.0,0,Segmen 0
+AC00262,2023-03-27 16:51:20,1096.7,Online,Debit,Colorado Springs,1.0,0,Segmen 0
+AC00262,2023-08-29 18:30:14,316.56,Online,Debit,Denver,1.0,0,Segmen 0
+AC00262,2023-10-30 16:49:25,71.53,Branch,Credit,Jacksonville,1.0,0,Segmen 0
+AC00263,2023-05-31 17:21:07,53.83,Branch,Debit,Baltimore,1.0,0,Segmen 0
+AC00263,2023-06-01 16:51:11,251.18,ATM,Debit,San Jose,1.0,0,Segmen 0
+AC00263,2023-06-06 18:31:06,471.75,Branch,Credit,San Jose,1.0,0,Segmen 0
+AC00263,2023-09-18 17:41:29,98.71,ATM,Debit,Fort Worth,1.0,0,Segmen 0
+AC00263,2023-12-29 16:45:06,675.37,Online,Credit,Jacksonville,1.0,0,Segmen 0
+AC00264,2023-07-17 16:48:23,144.77,Online,Debit,Albuquerque,1.0,1,Segmen 1
+AC00264,2023-08-09 16:22:25,101.52,ATM,Debit,Tucson,1.0,1,Segmen 1
+AC00264,2023-10-04 17:41:08,653.97,ATM,Debit,Miami,1.0,1,Segmen 1
+AC00264,2023-10-18 18:32:31,611.11,ATM,Debit,Detroit,4.0,1,Segmen 1
+AC00264,2023-11-06 17:23:08,354.4,ATM,Debit,Chicago,1.0,1,Segmen 1
+AC00264,2023-11-20 16:39:15,781.76,ATM,Debit,Memphis,1.0,1,Segmen 1
+AC00265,2023-01-17 16:48:10,1063.25,Online,Credit,Omaha,1.0,1,Segmen 1
+AC00265,2023-01-24 17:23:56,383.37,Branch,Debit,Fort Worth,1.0,1,Segmen 1
+AC00265,2023-02-27 16:48:02,103.08,Branch,Credit,Milwaukee,1.0,1,Segmen 1
+AC00265,2023-04-10 17:26:14,276.56,Branch,Debit,Austin,1.0,1,Segmen 1
+AC00265,2023-05-15 16:19:03,91.9,Online,Debit,Chicago,1.0,1,Segmen 1
+AC00265,2023-06-05 16:06:43,215.94,Online,Credit,Virginia Beach,1.0,1,Segmen 1
+AC00265,2023-09-11 16:27:39,444.89,Branch,Credit,Las Vegas,1.0,1,Segmen 1
+AC00265,2023-10-04 16:36:29,1212.51,Branch,Debit,Indianapolis,1.0,1,Segmen 1
+AC00265,2023-12-04 16:14:07,162.1,Branch,Debit,Baltimore,1.0,1,Segmen 1
+AC00266,2023-03-16 16:02:01,96.89,ATM,Debit,Las Vegas,1.0,2,Segmen 2
+AC00266,2023-04-21 17:19:56,53.14,ATM,Debit,Las Vegas,1.0,2,Segmen 2
+AC00266,2023-11-24 16:45:11,452.8,Branch,Debit,Los Angeles,1.0,2,Segmen 2
+AC00266,2023-12-01 16:33:43,11.3,Online,Credit,Louisville,1.0,2,Segmen 2
+AC00267,2023-01-13 16:23:56,10.31,Online,Debit,Louisville,1.0,1,Segmen 1
+AC00267,2023-02-03 18:15:15,119.72,Branch,Debit,Tucson,1.0,1,Segmen 1
+AC00267,2023-03-13 16:10:01,192.97,ATM,Debit,Sacramento,1.0,1,Segmen 1
+AC00267,2023-03-22 16:03:01,796.3,Branch,Debit,Austin,1.0,1,Segmen 1
+AC00267,2023-04-06 17:41:53,31.81,Online,Debit,Fort Worth,1.0,1,Segmen 1
+AC00267,2023-05-15 17:33:32,254.0,Branch,Debit,Nashville,1.0,1,Segmen 1
+AC00267,2023-09-11 16:25:04,220.2,Online,Debit,Boston,1.0,1,Segmen 1
+AC00267,2023-10-16 16:32:56,124.76,Branch,Debit,Seattle,1.0,1,Segmen 1
+AC00267,2023-11-24 17:55:11,90.94,ATM,Credit,Colorado Springs,1.0,1,Segmen 1
+AC00267,2023-12-06 17:34:01,162.1,Branch,Debit,Milwaukee,1.0,1,Segmen 1
+AC00268,2023-05-08 18:36:59,78.77,ATM,Credit,Las Vegas,1.0,2,Segmen 2
+AC00268,2023-06-12 16:34:59,195.49,ATM,Debit,Memphis,1.0,2,Segmen 2
+AC00268,2023-08-25 18:01:38,119.18,Branch,Debit,Los Angeles,1.0,2,Segmen 2
+AC00268,2023-09-22 16:13:06,1454.52,ATM,Debit,Miami,1.0,2,Segmen 2
+AC00269,2023-06-14 16:30:42,168.53,ATM,Debit,San Francisco,1.0,2,Segmen 2
+AC00269,2023-08-29 16:22:40,177.05,Branch,Debit,Philadelphia,1.0,2,Segmen 2
+AC00269,2023-11-24 16:30:21,114.03,ATM,Debit,Portland,1.0,2,Segmen 2
+AC00270,2023-09-13 18:47:47,206.84,Branch,Debit,Philadelphia,1.0,2,Segmen 2
+AC00270,2023-12-12 16:23:31,465.45,ATM,Debit,Denver,1.0,2,Segmen 2
+AC00271,2023-04-10 16:51:43,36.76,Online,Credit,Philadelphia,1.0,0,Segmen 0
+AC00271,2023-04-25 16:53:22,54.05,Branch,Debit,Louisville,1.0,0,Segmen 0
+AC00271,2023-07-27 17:30:14,213.42,ATM,Debit,Columbus,1.0,0,Segmen 0
+AC00271,2023-12-14 17:52:37,60.54,Branch,Credit,Columbus,1.0,0,Segmen 0
+AC00271,2023-12-29 16:32:37,346.76,Branch,Credit,San Jose,1.0,0,Segmen 0
+AC00272,2023-01-16 16:53:38,336.39,Branch,Debit,San Antonio,1.0,1,Segmen 1
+AC00272,2023-05-23 17:12:39,337.73,Online,Debit,San Antonio,4.0,1,Segmen 1
+AC00272,2023-06-12 16:58:04,351.99,ATM,Debit,Chicago,2.0,1,Segmen 1
+AC00272,2023-06-23 16:12:15,758.77,ATM,Debit,San Antonio,1.0,1,Segmen 1
+AC00272,2023-08-21 18:09:24,20.54,Branch,Debit,Fort Worth,1.0,1,Segmen 1
+AC00272,2023-08-28 16:00:00,71.34,Online,Debit,Miami,3.0,1,Segmen 1
+AC00272,2023-09-07 16:08:12,110.17,ATM,Debit,Raleigh,1.0,1,Segmen 1
+AC00272,2023-12-18 16:33:07,354.91,ATM,Debit,Boston,1.0,1,Segmen 1
+AC00273,2023-01-17 17:50:51,1431.33,ATM,Debit,Charlotte,1.0,1,Segmen 1
+AC00273,2023-05-22 16:22:36,792.57,ATM,Debit,Baltimore,1.0,1,Segmen 1
+AC00273,2023-10-11 18:50:24,136.32,Online,Debit,Miami,1.0,1,Segmen 1
+AC00273,2023-12-04 16:27:11,30.48,Branch,Credit,Seattle,1.0,1,Segmen 1
+AC00274,2023-06-14 16:34:43,341.88,ATM,Debit,Austin,1.0,2,Segmen 2
+AC00274,2023-07-24 16:44:34,37.81,Branch,Debit,Albuquerque,1.0,2,Segmen 2
+AC00274,2023-08-07 16:40:02,775.23,Online,Credit,Albuquerque,1.0,2,Segmen 2
+AC00274,2023-09-20 17:09:14,158.02,ATM,Debit,New York,1.0,2,Segmen 2
+AC00274,2023-11-08 17:24:54,17.42,ATM,Debit,Dallas,1.0,2,Segmen 2
+AC00275,2023-01-26 17:21:46,254.86,Branch,Debit,Boston,1.0,1,Segmen 1
+AC00275,2023-03-15 17:53:09,113.03,Online,Credit,Tucson,1.0,1,Segmen 1
+AC00275,2023-06-12 17:10:27,147.31,Online,Credit,Mesa,1.0,1,Segmen 1
+AC00275,2023-07-10 18:00:56,231.92,ATM,Debit,Indianapolis,1.0,1,Segmen 1
+AC00275,2023-09-19 17:38:18,35.76,Branch,Debit,Charlotte,1.0,1,Segmen 1
+AC00275,2023-10-24 17:04:59,547.98,ATM,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00275,2023-10-27 17:02:06,261.45,Online,Credit,Oklahoma City,1.0,1,Segmen 1
+AC00275,2023-10-27 17:26:53,340.05,ATM,Debit,Detroit,1.0,1,Segmen 1
+AC00275,2023-11-06 17:23:43,27.44,ATM,Debit,Boston,1.0,1,Segmen 1
+AC00276,2023-03-07 17:24:45,336.84,ATM,Debit,Austin,1.0,2,Segmen 2
+AC00276,2023-03-10 18:26:19,20.22,ATM,Debit,Jacksonville,1.0,2,Segmen 2
+AC00276,2023-03-31 16:18:37,53.52,Branch,Debit,San Diego,1.0,2,Segmen 2
+AC00276,2023-08-14 16:36:43,642.53,ATM,Debit,Mesa,1.0,2,Segmen 2
+AC00276,2023-09-04 17:46:40,418.03,ATM,Debit,Austin,1.0,2,Segmen 2
+AC00277,2023-02-13 18:36:21,118.69,Online,Debit,Omaha,1.0,0,Segmen 0
+AC00277,2023-04-12 17:06:06,736.32,Online,Debit,Indianapolis,1.0,0,Segmen 0
+AC00277,2023-09-12 18:46:45,470.3,ATM,Debit,Austin,1.0,0,Segmen 0
+AC00278,2023-08-07 18:07:57,291.68,ATM,Debit,Columbus,1.0,2,Segmen 2
+AC00278,2023-10-04 16:00:54,425.18,Online,Credit,Colorado Springs,1.0,2,Segmen 2
+AC00278,2023-12-25 17:31:16,121.17,ATM,Debit,Phoenix,1.0,2,Segmen 2
+AC00279,2023-01-20 16:09:37,628.36,Online,Debit,Austin,1.0,1,Segmen 1
+AC00279,2023-02-06 17:48:55,265.76,Online,Debit,Philadelphia,1.0,1,Segmen 1
+AC00279,2023-03-02 17:32:19,54.52,Branch,Debit,Indianapolis,1.0,1,Segmen 1
+AC00279,2023-03-02 18:36:55,15.81,Branch,Debit,Oklahoma City,4.0,1,Segmen 1
+AC00279,2023-03-17 16:10:35,856.9,Branch,Debit,New York,1.0,1,Segmen 1
+AC00279,2023-05-09 16:55:54,99.36,ATM,Debit,Seattle,1.0,1,Segmen 1
+AC00279,2023-05-16 16:32:00,144.93,Branch,Debit,Fresno,1.0,1,Segmen 1
+AC00279,2023-08-16 16:41:21,18.25,ATM,Debit,Kansas City,1.0,1,Segmen 1
+AC00279,2023-09-01 18:05:37,39.11,Online,Debit,Columbus,1.0,1,Segmen 1
+AC00280,2023-03-31 17:50:09,19.76,ATM,Debit,Nashville,1.0,0,Segmen 0
+AC00280,2023-08-10 16:39:33,672.74,Branch,Credit,Colorado Springs,1.0,0,Segmen 0
+AC00280,2023-08-21 18:06:59,388.1,Online,Credit,Los Angeles,1.0,0,Segmen 0
+AC00280,2023-11-08 18:32:44,406.65,ATM,Debit,Mesa,1.0,0,Segmen 0
+AC00280,2023-12-06 17:27:14,251.06,Online,Debit,Colorado Springs,1.0,0,Segmen 0
+AC00281,2023-01-02 16:06:29,453.49,Branch,Debit,Seattle,1.0,0,Segmen 0
+AC00281,2023-06-16 16:19:02,36.09,Branch,Debit,Columbus,1.0,0,Segmen 0
+AC00281,2023-08-21 18:07:14,501.15,Branch,Debit,Phoenix,1.0,0,Segmen 0
+AC00281,2023-11-09 16:06:17,161.38,Online,Credit,Colorado Springs,1.0,0,Segmen 0
+AC00282,2023-01-10 16:28:02,959.48,Branch,Debit,Miami,1.0,1,Segmen 1
+AC00282,2023-02-09 16:09:00,56.35,ATM,Debit,Charlotte,1.0,1,Segmen 1
+AC00282,2023-07-04 18:20:33,24.77,ATM,Debit,Boston,1.0,1,Segmen 1
+AC00282,2023-10-09 17:02:43,300.08,Online,Credit,Austin,1.0,1,Segmen 1
+AC00282,2023-11-27 16:37:11,280.61,ATM,Debit,Mesa,3.0,1,Segmen 1
+AC00282,2023-12-13 16:01:38,164.49,Branch,Debit,Baltimore,1.0,1,Segmen 1
+AC00283,2023-12-25 17:42:00,77.9,Branch,Debit,Washington,1.0,2,Segmen 2
+AC00284,2023-01-18 16:47:29,254.77,Branch,Debit,Denver,1.0,1,Segmen 1
+AC00284,2023-06-12 17:09:17,84.28,Branch,Debit,Memphis,1.0,1,Segmen 1
+AC00284,2023-06-12 18:30:51,575.62,Online,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00284,2023-06-20 17:21:50,486.08,Online,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00284,2023-07-21 18:54:14,1036.21,Online,Debit,Omaha,1.0,1,Segmen 1
+AC00284,2023-08-04 17:46:44,214.54,Online,Credit,Detroit,1.0,1,Segmen 1
+AC00284,2023-10-11 17:36:16,768.94,Branch,Debit,Indianapolis,1.0,1,Segmen 1
+AC00284,2023-11-15 18:04:22,112.91,Online,Credit,Tucson,1.0,1,Segmen 1
+AC00285,2023-01-30 17:28:00,100.52,ATM,Debit,Las Vegas,1.0,1,Segmen 1
+AC00285,2023-06-08 18:18:50,71.48,Online,Credit,Columbus,1.0,1,Segmen 1
+AC00285,2023-06-26 18:25:14,268.39,ATM,Debit,Miami,1.0,1,Segmen 1
+AC00285,2023-07-27 17:51:27,667.95,ATM,Credit,Oklahoma City,1.0,1,Segmen 1
+AC00285,2023-09-27 16:55:35,1221.65,Online,Debit,Denver,1.0,1,Segmen 1
+AC00285,2023-10-02 16:33:09,203.76,Branch,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00285,2023-11-03 16:50:20,302.82,ATM,Debit,Jacksonville,1.0,1,Segmen 1
+AC00286,2023-04-17 16:56:06,233.24,ATM,Debit,Louisville,1.0,1,Segmen 1
+AC00286,2023-05-15 16:51:28,13.52,ATM,Debit,Seattle,1.0,1,Segmen 1
+AC00286,2023-06-16 17:33:15,7.79,Branch,Debit,Los Angeles,1.0,1,Segmen 1
+AC00286,2023-08-03 18:18:56,47.23,Online,Credit,Memphis,1.0,1,Segmen 1
+AC00286,2023-08-17 16:55:10,42.72,ATM,Debit,Nashville,1.0,1,Segmen 1
+AC00286,2023-10-10 17:24:33,199.54,Online,Debit,Portland,1.0,1,Segmen 1
+AC00287,2023-10-09 16:48:50,568.76,ATM,Debit,Baltimore,1.0,0,Segmen 0
+AC00287,2023-10-18 18:26:25,73.01,Online,Credit,Milwaukee,1.0,0,Segmen 0
+AC00288,2023-08-31 17:29:03,881.32,Online,Debit,El Paso,1.0,2,Segmen 2
+AC00288,2023-10-26 17:51:32,23.7,ATM,Debit,San Francisco,1.0,2,Segmen 2
+AC00289,2023-03-10 17:34:34,651.55,Online,Debit,Phoenix,1.0,0,Segmen 0
+AC00289,2023-06-26 17:37:20,93.82,Online,Debit,Charlotte,1.0,0,Segmen 0
+AC00289,2023-08-10 16:23:08,293.85,Online,Debit,Charlotte,1.0,0,Segmen 0
+AC00290,2023-02-13 16:44:18,41.93,ATM,Debit,Fresno,1.0,2,Segmen 2
+AC00290,2023-08-14 17:41:24,93.52,Online,Debit,Philadelphia,1.0,2,Segmen 2
+AC00290,2023-11-06 18:59:24,1413.24,ATM,Debit,New York,1.0,2,Segmen 2
+AC00290,2023-12-14 16:09:42,342.17,Branch,Credit,New York,1.0,2,Segmen 2
+AC00291,2023-01-25 17:12:17,146.51,ATM,Debit,Albuquerque,1.0,1,Segmen 1
+AC00291,2023-02-06 16:24:24,59.12,ATM,Debit,Baltimore,1.0,1,Segmen 1
+AC00291,2023-06-27 18:26:08,306.37,ATM,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00291,2023-07-27 16:55:39,743.03,ATM,Debit,New York,1.0,1,Segmen 1
+AC00291,2023-08-07 16:49:34,36.57,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00291,2023-09-13 17:58:16,1152.58,Branch,Debit,Austin,1.0,1,Segmen 1
+AC00291,2023-09-20 17:57:15,383.95,Online,Credit,San Diego,1.0,1,Segmen 1
+AC00292,2023-02-10 16:50:10,237.0,Online,Debit,Tucson,1.0,1,Segmen 1
+AC00292,2023-05-19 16:00:10,410.4,ATM,Credit,Virginia Beach,1.0,1,Segmen 1
+AC00292,2023-06-09 18:33:04,23.01,Branch,Debit,Las Vegas,1.0,1,Segmen 1
+AC00292,2023-11-13 16:42:16,288.77,ATM,Debit,Los Angeles,1.0,1,Segmen 1
+AC00292,2023-12-25 16:32:44,161.63,Online,Debit,San Jose,1.0,1,Segmen 1
+AC00292,2023-12-25 18:16:39,120.67,ATM,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00293,2023-03-13 16:05:46,46.24,Branch,Debit,San Diego,1.0,0,Segmen 0
+AC00293,2023-05-15 16:37:12,131.46,Branch,Debit,Charlotte,1.0,0,Segmen 0
+AC00293,2023-05-29 17:45:26,46.23,Online,Debit,Fresno,1.0,0,Segmen 0
+AC00293,2023-12-13 17:25:54,87.85,Branch,Debit,Colorado Springs,1.0,0,Segmen 0
+AC00294,2023-01-30 17:47:41,335.7,ATM,Debit,El Paso,1.0,2,Segmen 2
+AC00294,2023-07-14 16:20:55,321.82,Branch,Credit,Raleigh,1.0,2,Segmen 2
+AC00294,2023-07-28 17:36:30,264.14,ATM,Debit,Baltimore,1.0,2,Segmen 2
+AC00294,2023-09-19 17:23:14,344.27,Branch,Debit,San Antonio,1.0,2,Segmen 2
+AC00295,2023-05-15 17:02:15,214.93,Online,Debit,Albuquerque,1.0,1,Segmen 1
+AC00295,2023-07-24 16:25:51,321.86,ATM,Debit,San Antonio,1.0,1,Segmen 1
+AC00295,2023-08-16 16:17:12,53.57,ATM,Debit,Houston,1.0,1,Segmen 1
+AC00295,2023-09-05 18:45:04,451.35,Branch,Credit,Baltimore,1.0,1,Segmen 1
+AC00295,2023-11-29 16:46:49,148.85,ATM,Debit,Mesa,1.0,1,Segmen 1
+AC00295,2023-11-29 18:03:46,308.85,ATM,Credit,Los Angeles,2.0,1,Segmen 1
+AC00296,2023-07-12 16:14:08,506.03,Branch,Debit,Detroit,1.0,1,Segmen 1
+AC00296,2023-08-29 18:30:36,374.61,Online,Credit,Mesa,1.0,1,Segmen 1
+AC00296,2023-11-27 16:45:57,626.9,Online,Debit,Denver,1.0,1,Segmen 1
+AC00296,2023-12-08 16:45:12,48.85,ATM,Debit,Dallas,1.0,1,Segmen 1
+AC00297,2023-01-12 17:12:22,261.19,ATM,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00297,2023-01-30 18:47:17,66.91,ATM,Debit,Seattle,1.0,1,Segmen 1
+AC00297,2023-03-02 16:05:52,127.8,Branch,Credit,Virginia Beach,1.0,1,Segmen 1
+AC00297,2023-04-03 16:27:24,414.64,Branch,Debit,Mesa,1.0,1,Segmen 1
+AC00297,2023-04-10 16:25:15,95.55,Branch,Debit,Louisville,1.0,1,Segmen 1
+AC00297,2023-04-26 17:09:36,856.21,Branch,Credit,Colorado Springs,1.0,1,Segmen 1
+AC00297,2023-07-31 17:54:28,587.23,Online,Debit,Omaha,1.0,1,Segmen 1
+AC00297,2023-08-21 17:25:00,33.61,Online,Debit,Milwaukee,1.0,1,Segmen 1
+AC00297,2023-08-21 18:36:41,111.21,Branch,Debit,Portland,1.0,1,Segmen 1
+AC00298,2023-02-17 16:37:06,116.33,Branch,Debit,Fresno,1.0,1,Segmen 1
+AC00298,2023-05-23 16:44:55,77.5,Online,Credit,Fort Worth,1.0,1,Segmen 1
+AC00298,2023-05-29 16:50:10,260.88,Branch,Debit,Denver,1.0,1,Segmen 1
+AC00298,2023-07-19 17:38:50,10.52,ATM,Debit,Kansas City,1.0,1,Segmen 1
+AC00298,2023-08-03 18:49:37,163.94,Branch,Credit,Virginia Beach,1.0,1,Segmen 1
+AC00298,2023-10-16 16:55:59,178.26,ATM,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00298,2023-11-24 17:35:47,112.94,Online,Credit,San Antonio,1.0,1,Segmen 1
+AC00299,2023-02-27 17:59:36,56.62,Branch,Debit,Austin,1.0,0,Segmen 0
+AC00299,2023-08-08 16:21:01,185.1,Branch,Debit,Albuquerque,1.0,0,Segmen 0
+AC00299,2023-09-18 16:04:52,23.71,Branch,Debit,Atlanta,1.0,0,Segmen 0
+AC00299,2023-10-23 18:54:48,217.5,Branch,Credit,Denver,1.0,0,Segmen 0
+AC00300,2023-04-27 17:30:16,415.88,Branch,Debit,San Diego,1.0,2,Segmen 2
+AC00300,2023-05-15 18:30:55,94.64,ATM,Credit,New York,1.0,2,Segmen 2
+AC00300,2023-08-11 18:20:48,179.43,ATM,Debit,Oklahoma City,1.0,2,Segmen 2
+AC00300,2023-08-30 17:56:47,103.15,Branch,Debit,San Diego,1.0,2,Segmen 2
+AC00300,2023-11-24 17:29:06,63.41,ATM,Debit,Fort Worth,1.0,2,Segmen 2
+AC00301,2023-01-09 16:21:35,845.14,Branch,Credit,Oklahoma City,1.0,1,Segmen 1
+AC00301,2023-02-14 17:56:46,505.6,Branch,Debit,Denver,1.0,1,Segmen 1
+AC00301,2023-04-20 16:34:59,23.23,Branch,Credit,Miami,1.0,1,Segmen 1
+AC00301,2023-10-24 16:43:03,193.54,Branch,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00301,2023-12-07 16:20:08,694.2,ATM,Debit,Milwaukee,1.0,1,Segmen 1
+AC00301,2023-12-19 17:11:31,119.89,ATM,Debit,Tucson,1.0,1,Segmen 1
+AC00302,2023-05-10 17:05:08,736.53,ATM,Debit,Philadelphia,1.0,0,Segmen 0
+AC00302,2023-05-24 16:21:09,50.63,Online,Debit,Columbus,1.0,0,Segmen 0
+AC00302,2023-09-14 17:04:03,254.34,Online,Debit,El Paso,1.0,0,Segmen 0
+AC00302,2023-12-07 17:13:16,865.17,Branch,Debit,Houston,1.0,0,Segmen 0
+AC00303,2023-08-08 17:15:50,1512.99,Online,Debit,Philadelphia,1.0,1,Segmen 1
+AC00303,2023-09-11 16:24:57,161.31,ATM,Debit,Nashville,1.0,1,Segmen 1
+AC00303,2023-10-09 16:52:47,267.9,Online,Debit,San Antonio,1.0,1,Segmen 1
+AC00303,2023-10-20 17:27:35,24.56,Branch,Debit,Mesa,1.0,1,Segmen 1
+AC00303,2023-11-17 16:40:09,40.79,ATM,Debit,Milwaukee,1.0,1,Segmen 1
+AC00303,2023-11-28 16:17:46,981.9,Online,Credit,Baltimore,1.0,1,Segmen 1
+AC00304,2023-01-02 16:07:17,204.06,Online,Debit,Washington,1.0,1,Segmen 1
+AC00304,2023-01-09 16:12:00,428.61,ATM,Debit,Fort Worth,1.0,1,Segmen 1
+AC00304,2023-01-23 16:31:30,86.79,Branch,Debit,Fort Worth,1.0,1,Segmen 1
+AC00304,2023-01-30 17:17:38,74.73,Branch,Credit,Jacksonville,1.0,1,Segmen 1
+AC00304,2023-03-10 16:35:33,313.69,Branch,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00304,2023-03-10 16:35:33,313.69,Branch,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00304,2023-04-25 17:15:27,314.55,Branch,Credit,Dallas,2.0,1,Segmen 1
+AC00304,2023-05-09 17:02:28,73.01,ATM,Debit,Houston,1.0,1,Segmen 1
+AC00304,2023-06-29 16:04:17,37.7,ATM,Debit,Miami,1.0,1,Segmen 1
+AC00304,2023-08-02 17:52:47,1154.79,ATM,Debit,Columbus,1.0,1,Segmen 1
+AC00304,2023-09-04 18:13:25,760.53,Online,Debit,Phoenix,1.0,1,Segmen 1
+AC00304,2023-12-20 17:13:50,203.34,ATM,Debit,Phoenix,1.0,1,Segmen 1
+AC00305,2023-02-06 18:18:26,14.08,Branch,Debit,Houston,1.0,1,Segmen 1
+AC00305,2023-05-01 16:58:41,99.11,Online,Debit,Philadelphia,1.0,1,Segmen 1
+AC00305,2023-09-11 17:05:50,16.55,Branch,Debit,Tucson,1.0,1,Segmen 1
+AC00305,2023-09-18 16:27:52,637.48,Online,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00305,2023-10-17 16:09:20,108.75,ATM,Debit,Houston,4.0,1,Segmen 1
+AC00305,2023-11-01 17:44:46,506.9,Branch,Credit,Houston,1.0,1,Segmen 1
+AC00306,2023-02-03 17:00:39,133.06,Online,Debit,Las Vegas,1.0,1,Segmen 1
+AC00306,2023-04-07 17:23:05,361.46,Online,Debit,Nashville,1.0,1,Segmen 1
+AC00306,2023-05-22 17:24:46,202.86,Branch,Credit,Memphis,1.0,1,Segmen 1
+AC00306,2023-06-08 16:20:29,468.32,Online,Debit,Fresno,1.0,1,Segmen 1
+AC00306,2023-07-06 18:10:59,9.18,Online,Debit,San Francisco,1.0,1,Segmen 1
+AC00306,2023-12-08 17:24:44,144.3,ATM,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00307,2023-05-26 18:12:50,312.88,Branch,Credit,Portland,1.0,0,Segmen 0
+AC00307,2023-11-07 16:36:34,81.27,Online,Credit,Seattle,1.0,0,Segmen 0
+AC00307,2023-11-10 16:06:27,219.63,ATM,Debit,Charlotte,1.0,0,Segmen 0
+AC00308,2023-03-06 17:25:20,330.91,ATM,Debit,Kansas City,1.0,2,Segmen 2
+AC00308,2023-11-08 17:53:52,153.55,Online,Debit,Denver,1.0,2,Segmen 2
+AC00309,2023-07-27 16:28:26,52.04,Branch,Credit,Colorado Springs,1.0,0,Segmen 0
+AC00310,2023-01-17 16:53:08,757.15,Online,Debit,Raleigh,1.0,1,Segmen 1
+AC00310,2023-02-22 17:12:15,258.7,ATM,Debit,Charlotte,1.0,1,Segmen 1
+AC00310,2023-05-19 18:47:11,64.92,Branch,Debit,Atlanta,1.0,1,Segmen 1
+AC00310,2023-07-12 16:55:44,832.3,Branch,Credit,Austin,1.0,1,Segmen 1
+AC00310,2023-10-02 16:36:10,223.85,ATM,Debit,Kansas City,4.0,1,Segmen 1
+AC00310,2023-10-30 17:17:51,350.94,ATM,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00311,2023-02-21 17:42:42,427.79,Branch,Debit,San Jose,1.0,2,Segmen 2
+AC00311,2023-04-14 16:33:13,18.1,ATM,Debit,Louisville,1.0,2,Segmen 2
+AC00311,2023-06-26 17:38:30,56.96,ATM,Debit,Albuquerque,1.0,2,Segmen 2
+AC00311,2023-07-17 16:22:23,629.82,ATM,Debit,Colorado Springs,1.0,2,Segmen 2
+AC00311,2023-10-12 18:11:27,297.15,Online,Debit,Phoenix,1.0,2,Segmen 2
+AC00312,2023-01-17 16:47:41,10.07,Online,Debit,Albuquerque,1.0,0,Segmen 0
+AC00312,2023-06-15 16:48:29,1510.71,Online,Debit,Oklahoma City,1.0,0,Segmen 0
+AC00312,2023-06-26 16:04:11,7.31,Branch,Debit,Las Vegas,1.0,0,Segmen 0
+AC00313,2023-09-20 16:55:42,56.17,Branch,Debit,Detroit,1.0,0,Segmen 0
+AC00313,2023-09-20 18:16:03,27.51,Online,Credit,Columbus,1.0,0,Segmen 0
+AC00313,2023-10-12 16:57:36,660.02,Branch,Debit,Nashville,1.0,0,Segmen 0
+AC00314,2023-01-05 18:29:09,73.83,Online,Debit,Las Vegas,1.0,0,Segmen 0
+AC00314,2023-02-24 18:25:34,317.53,Online,Debit,Miami,1.0,0,Segmen 0
+AC00314,2023-02-28 17:58:02,65.09,Online,Credit,Seattle,1.0,0,Segmen 0
+AC00314,2023-12-19 16:55:17,486.59,Branch,Debit,Indianapolis,1.0,0,Segmen 0
+AC00315,2023-02-06 17:32:11,79.92,ATM,Debit,Miami,2.0,1,Segmen 1
+AC00315,2023-05-23 16:44:33,459.25,Branch,Debit,Tucson,1.0,1,Segmen 1
+AC00315,2023-08-14 16:01:57,75.43,ATM,Debit,Fresno,1.0,1,Segmen 1
+AC00315,2023-09-11 16:52:21,207.65,Online,Debit,San Francisco,1.0,1,Segmen 1
+AC00315,2023-09-20 16:30:06,185.81,Online,Debit,Austin,1.0,1,Segmen 1
+AC00316,2023-01-02 16:01:14,487.16,Branch,Credit,Los Angeles,1.0,1,Segmen 1
+AC00316,2023-02-20 17:28:15,22.63,Online,Debit,Kansas City,1.0,1,Segmen 1
+AC00316,2023-09-29 16:34:03,314.54,Branch,Credit,Virginia Beach,1.0,1,Segmen 1
+AC00316,2023-11-07 17:38:05,668.67,Online,Debit,Detroit,4.0,1,Segmen 1
+AC00316,2023-11-20 16:51:14,1392.54,Branch,Debit,El Paso,1.0,1,Segmen 1
+AC00316,2023-11-30 16:51:46,552.02,ATM,Credit,Chicago,1.0,1,Segmen 1
+AC00317,2023-01-02 16:30:09,757.79,Online,Debit,Charlotte,1.0,1,Segmen 1
+AC00317,2023-02-28 16:46:55,260.31,Branch,Debit,Austin,1.0,1,Segmen 1
+AC00317,2023-04-03 16:19:59,400.69,Online,Debit,Las Vegas,1.0,1,Segmen 1
+AC00317,2023-07-12 16:11:30,179.76,Online,Debit,Philadelphia,1.0,1,Segmen 1
+AC00317,2023-08-25 16:35:39,864.72,Branch,Credit,Detroit,1.0,1,Segmen 1
+AC00317,2023-09-20 17:49:53,13.48,Online,Debit,Las Vegas,3.0,1,Segmen 1
+AC00317,2023-10-30 16:52:49,555.8,Branch,Credit,Austin,1.0,1,Segmen 1
+AC00318,2023-03-14 16:25:04,505.19,ATM,Debit,Kansas City,5.0,1,Segmen 1
+AC00318,2023-03-21 16:29:31,245.54,ATM,Debit,New York,1.0,1,Segmen 1
+AC00318,2023-08-02 16:52:15,109.3,Branch,Debit,Fort Worth,1.0,1,Segmen 1
+AC00318,2023-11-16 17:48:55,207.71,Online,Credit,Kansas City,1.0,1,Segmen 1
+AC00318,2023-12-11 17:19:07,946.94,Branch,Debit,Charlotte,1.0,1,Segmen 1
+AC00319,2023-04-25 16:11:24,298.42,Branch,Debit,Indianapolis,1.0,1,Segmen 1
+AC00319,2023-05-22 16:27:35,253.46,ATM,Debit,Memphis,1.0,1,Segmen 1
+AC00319,2023-07-19 16:57:01,512.81,Branch,Debit,Sacramento,1.0,1,Segmen 1
+AC00319,2023-08-01 17:14:17,60.99,Branch,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00319,2023-12-07 18:28:50,542.75,Branch,Credit,Nashville,1.0,1,Segmen 1
+AC00320,2023-01-12 16:44:29,100.68,Online,Debit,Memphis,1.0,1,Segmen 1
+AC00320,2023-03-02 16:41:57,337.99,ATM,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00320,2023-04-20 16:01:05,20.64,Branch,Debit,Charlotte,1.0,1,Segmen 1
+AC00320,2023-05-10 16:55:57,182.29,Online,Debit,San Diego,1.0,1,Segmen 1
+AC00320,2023-07-11 16:39:53,1036.66,Branch,Debit,San Antonio,1.0,1,Segmen 1
+AC00321,2023-01-30 16:15:49,399.21,ATM,Debit,Portland,1.0,0,Segmen 0
+AC00321,2023-04-04 16:12:25,59.51,Online,Credit,Dallas,1.0,0,Segmen 0
+AC00322,2023-03-10 17:38:58,433.9,Online,Debit,Chicago,1.0,1,Segmen 1
+AC00322,2023-03-22 17:36:48,251.54,Branch,Debit,Tucson,1.0,1,Segmen 1
+AC00322,2023-04-03 16:43:29,43.73,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00322,2023-07-21 16:54:10,141.37,Online,Debit,Denver,1.0,1,Segmen 1
+AC00322,2023-08-21 16:28:17,132.84,ATM,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00322,2023-08-28 18:32:00,802.89,ATM,Debit,Chicago,1.0,1,Segmen 1
+AC00322,2023-11-29 16:11:50,440.03,Online,Debit,San Jose,1.0,1,Segmen 1
+AC00322,2023-12-15 16:38:43,745.95,ATM,Debit,Memphis,1.0,1,Segmen 1
+AC00323,2023-06-05 16:11:07,265.94,Online,Debit,Boston,1.0,2,Segmen 2
+AC00323,2023-07-10 16:17:21,150.03,ATM,Debit,Columbus,1.0,2,Segmen 2
+AC00323,2023-12-18 16:33:01,820.15,Branch,Debit,Kansas City,1.0,2,Segmen 2
+AC00324,2023-02-09 16:28:58,158.41,Branch,Debit,Sacramento,1.0,1,Segmen 1
+AC00324,2023-03-03 17:08:36,209.02,ATM,Debit,El Paso,1.0,1,Segmen 1
+AC00324,2023-07-25 16:47:16,410.49,Branch,Credit,Atlanta,1.0,1,Segmen 1
+AC00324,2023-07-26 17:29:24,0.45,Branch,Debit,Kansas City,1.0,1,Segmen 1
+AC00324,2023-09-13 16:14:04,255.32,ATM,Debit,Baltimore,1.0,1,Segmen 1
+AC00325,2023-02-13 16:48:50,438.76,Branch,Debit,San Antonio,1.0,1,Segmen 1
+AC00325,2023-05-30 17:43:25,601.4,Branch,Credit,Philadelphia,1.0,1,Segmen 1
+AC00325,2023-06-08 16:56:16,403.63,Branch,Debit,Las Vegas,3.0,1,Segmen 1
+AC00325,2023-06-21 16:00:51,157.97,Branch,Debit,Philadelphia,1.0,1,Segmen 1
+AC00325,2023-12-04 16:08:59,56.52,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00326,2023-05-19 16:31:11,432.18,Branch,Debit,Las Vegas,1.0,0,Segmen 0
+AC00326,2023-06-09 17:12:09,348.64,Online,Debit,San Jose,1.0,0,Segmen 0
+AC00326,2023-09-27 17:47:10,80.96,Online,Credit,Jacksonville,1.0,0,Segmen 0
+AC00326,2023-11-27 16:21:20,322.96,Branch,Credit,Philadelphia,1.0,0,Segmen 0
+AC00326,2023-12-14 18:52:54,6.3,Branch,Debit,Columbus,5.0,0,Segmen 0
+AC00327,2023-02-27 16:07:38,11.81,ATM,Debit,Phoenix,1.0,1,Segmen 1
+AC00327,2023-03-09 16:31:54,283.81,Branch,Debit,San Diego,1.0,1,Segmen 1
+AC00327,2023-04-10 17:04:28,21.9,ATM,Debit,Phoenix,1.0,1,Segmen 1
+AC00327,2023-06-14 17:21:32,493.42,Branch,Debit,Baltimore,1.0,1,Segmen 1
+AC00327,2023-11-27 16:02:08,1225.5,Online,Credit,Las Vegas,1.0,1,Segmen 1
+AC00327,2023-12-18 17:10:48,720.89,ATM,Debit,Indianapolis,1.0,1,Segmen 1
+AC00328,2023-01-06 17:23:59,378.68,ATM,Debit,Fort Worth,1.0,2,Segmen 2
+AC00328,2023-01-16 17:53:00,139.72,Branch,Debit,Memphis,1.0,2,Segmen 2
+AC00328,2023-04-06 16:41:31,193.16,ATM,Debit,Charlotte,1.0,2,Segmen 2
+AC00328,2023-08-01 16:13:25,3.8,Online,Debit,Charlotte,1.0,2,Segmen 2
+AC00328,2023-09-01 16:07:38,38.37,ATM,Debit,San Antonio,1.0,2,Segmen 2
+AC00329,2023-02-13 17:49:27,0.86,ATM,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00329,2023-05-18 16:03:58,215.8,Branch,Credit,Jacksonville,1.0,1,Segmen 1
+AC00329,2023-05-19 17:19:00,30.52,Branch,Debit,Jacksonville,1.0,1,Segmen 1
+AC00329,2023-05-22 17:34:50,539.35,ATM,Debit,Milwaukee,1.0,1,Segmen 1
+AC00329,2023-05-29 18:40:32,247.58,ATM,Debit,San Antonio,1.0,1,Segmen 1
+AC00329,2023-06-09 16:31:56,259.49,Online,Debit,Austin,1.0,1,Segmen 1
+AC00329,2023-09-04 18:37:57,542.72,Branch,Credit,Indianapolis,1.0,1,Segmen 1
+AC00329,2023-11-27 18:28:57,36.25,Branch,Debit,Tucson,1.0,1,Segmen 1
+AC00330,2023-01-31 16:51:55,386.97,Branch,Debit,Raleigh,1.0,0,Segmen 0
+AC00330,2023-05-09 17:54:39,295.18,Branch,Credit,Dallas,1.0,0,Segmen 0
+AC00330,2023-06-01 17:19:57,42.42,Online,Debit,Sacramento,1.0,0,Segmen 0
+AC00330,2023-06-08 17:08:06,142.1,Online,Credit,San Francisco,1.0,0,Segmen 0
+AC00331,2023-02-10 16:28:47,568.88,Branch,Debit,Nashville,1.0,1,Segmen 1
+AC00331,2023-05-16 17:26:37,281.85,ATM,Debit,Detroit,1.0,1,Segmen 1
+AC00331,2023-07-31 16:21:15,58.32,Branch,Credit,Louisville,4.0,1,Segmen 1
+AC00331,2023-09-06 17:01:50,166.13,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00331,2023-10-30 16:45:47,1045.45,Online,Debit,Baltimore,1.0,1,Segmen 1
+AC00331,2023-10-30 18:14:15,64.01,Branch,Credit,Philadelphia,1.0,1,Segmen 1
+AC00331,2023-10-31 16:05:00,146.67,Online,Debit,Albuquerque,1.0,1,Segmen 1
+AC00332,2023-01-16 16:31:48,98.53,Branch,Debit,Denver,1.0,1,Segmen 1
+AC00332,2023-02-27 16:05:35,424.47,Online,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00332,2023-04-21 16:25:49,431.22,Branch,Credit,Austin,1.0,1,Segmen 1
+AC00332,2023-05-02 17:03:29,506.28,Online,Credit,Chicago,2.0,1,Segmen 1
+AC00332,2023-08-21 18:11:41,93.63,ATM,Debit,New York,1.0,1,Segmen 1
+AC00332,2023-10-03 17:06:56,233.71,Branch,Debit,Louisville,1.0,1,Segmen 1
+AC00332,2023-12-08 16:39:15,124.35,ATM,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00332,2023-12-18 16:32:56,447.42,Online,Debit,Charlotte,1.0,1,Segmen 1
+AC00333,2023-06-30 16:31:46,119.11,ATM,Debit,Detroit,1.0,2,Segmen 2
+AC00333,2023-07-28 16:29:23,415.5,ATM,Debit,Memphis,1.0,2,Segmen 2
+AC00333,2023-10-19 18:06:08,1.93,Branch,Debit,Chicago,5.0,2,Segmen 2
+AC00334,2023-01-09 17:12:40,378.2,Branch,Debit,Mesa,1.0,2,Segmen 2
+AC00334,2023-05-15 16:49:14,292.38,ATM,Debit,Baltimore,1.0,2,Segmen 2
+AC00334,2023-12-26 18:13:56,178.43,Branch,Debit,Baltimore,1.0,2,Segmen 2
+AC00335,2023-02-27 17:06:57,315.94,Branch,Credit,Raleigh,1.0,0,Segmen 0
+AC00335,2023-03-20 16:02:51,27.25,Branch,Credit,Kansas City,1.0,0,Segmen 0
+AC00336,2023-02-10 16:52:48,327.86,Online,Debit,Fresno,1.0,0,Segmen 0
+AC00336,2023-03-06 17:05:25,460.09,Online,Credit,Fresno,3.0,0,Segmen 0
+AC00336,2023-06-12 16:25:21,1168.26,Online,Credit,Philadelphia,1.0,0,Segmen 0
+AC00336,2023-09-25 16:58:25,170.26,ATM,Debit,Chicago,1.0,0,Segmen 0
+AC00337,2023-04-06 16:59:33,878.63,ATM,Debit,Columbus,1.0,1,Segmen 1
+AC00337,2023-06-05 16:24:22,453.09,Branch,Debit,San Jose,1.0,1,Segmen 1
+AC00337,2023-06-05 17:29:48,309.56,Online,Debit,Charlotte,1.0,1,Segmen 1
+AC00337,2023-06-20 17:04:02,742.26,Online,Debit,San Diego,1.0,1,Segmen 1
+AC00337,2023-06-28 17:47:15,541.52,Branch,Credit,Indianapolis,1.0,1,Segmen 1
+AC00337,2023-07-27 16:01:41,96.25,Online,Debit,Houston,1.0,1,Segmen 1
+AC00337,2023-10-19 16:14:15,492.06,Online,Debit,Fresno,1.0,1,Segmen 1
+AC00337,2023-10-30 18:58:42,880.04,ATM,Debit,Sacramento,1.0,1,Segmen 1
+AC00338,2023-02-13 17:13:49,726.26,Online,Debit,Omaha,1.0,1,Segmen 1
+AC00338,2023-03-31 17:25:22,52.87,Branch,Debit,Indianapolis,1.0,1,Segmen 1
+AC00338,2023-04-05 18:37:10,12.82,ATM,Debit,Fort Worth,1.0,1,Segmen 1
+AC00338,2023-07-17 17:08:03,256.66,Online,Credit,Raleigh,1.0,1,Segmen 1
+AC00338,2023-07-24 17:46:13,1612.37,ATM,Debit,Los Angeles,1.0,1,Segmen 1
+AC00338,2023-11-10 16:43:45,91.32,Branch,Debit,Milwaukee,1.0,1,Segmen 1
+AC00338,2023-11-27 16:57:08,153.08,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00339,2023-01-17 16:57:06,499.48,ATM,Debit,Charlotte,1.0,1,Segmen 1
+AC00339,2023-03-15 16:16:53,675.49,ATM,Debit,Charlotte,1.0,1,Segmen 1
+AC00339,2023-03-31 18:57:11,42.55,Branch,Debit,Seattle,1.0,1,Segmen 1
+AC00339,2023-06-05 17:22:19,17.95,Branch,Credit,Sacramento,1.0,1,Segmen 1
+AC00339,2023-08-07 17:30:33,321.79,ATM,Credit,Raleigh,1.0,1,Segmen 1
+AC00339,2023-08-14 17:28:37,212.14,Branch,Debit,Austin,1.0,1,Segmen 1
+AC00339,2023-08-17 18:32:19,64.5,ATM,Debit,Denver,1.0,1,Segmen 1
+AC00339,2023-10-31 17:06:08,383.69,Online,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00339,2023-11-20 18:53:47,291.09,Branch,Debit,El Paso,1.0,1,Segmen 1
+AC00340,2023-06-21 16:38:54,332.06,ATM,Debit,Seattle,1.0,2,Segmen 2
+AC00340,2023-06-30 17:10:38,432.63,ATM,Debit,Colorado Springs,1.0,2,Segmen 2
+AC00340,2023-11-27 16:38:34,5.04,ATM,Debit,Washington,1.0,2,Segmen 2
+AC00341,2023-01-30 17:22:39,172.29,ATM,Debit,El Paso,1.0,2,Segmen 2
+AC00341,2023-02-23 16:21:38,17.43,ATM,Debit,Albuquerque,1.0,2,Segmen 2
+AC00341,2023-03-13 17:26:17,96.54,Branch,Debit,New York,1.0,2,Segmen 2
+AC00341,2023-11-03 16:50:08,33.63,Online,Debit,Columbus,1.0,2,Segmen 2
+AC00341,2023-11-30 16:07:36,184.56,Online,Debit,Virginia Beach,1.0,2,Segmen 2
+AC00342,2023-03-27 16:48:34,92.36,ATM,Debit,Dallas,1.0,2,Segmen 2
+AC00342,2023-05-30 17:13:38,331.38,ATM,Debit,Miami,1.0,2,Segmen 2
+AC00342,2023-07-13 16:44:25,205.65,Branch,Debit,Houston,1.0,2,Segmen 2
+AC00344,2023-03-27 17:07:20,46.11,Online,Debit,San Francisco,1.0,0,Segmen 0
+AC00344,2023-04-10 16:04:28,716.62,ATM,Debit,Atlanta,1.0,0,Segmen 0
+AC00344,2023-04-10 16:23:53,175.02,Online,Debit,Phoenix,1.0,0,Segmen 0
+AC00344,2023-11-15 17:32:11,1353.93,Branch,Debit,El Paso,1.0,0,Segmen 0
+AC00345,2023-01-23 16:50:31,91.48,ATM,Debit,Fort Worth,1.0,1,Segmen 1
+AC00345,2023-02-22 17:39:54,16.73,Online,Debit,Houston,1.0,1,Segmen 1
+AC00345,2023-05-08 16:37:53,288.43,Branch,Debit,Phoenix,1.0,1,Segmen 1
+AC00345,2023-06-12 16:26:36,429.25,Online,Debit,Seattle,1.0,1,Segmen 1
+AC00345,2023-08-07 16:06:32,104.79,ATM,Debit,Denver,1.0,1,Segmen 1
+AC00345,2023-08-29 17:55:07,889.01,Online,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00345,2023-10-30 16:02:32,390.77,Online,Debit,Portland,1.0,1,Segmen 1
+AC00345,2023-12-05 17:51:28,534.62,Online,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00345,2023-12-18 18:25:05,82.17,Branch,Debit,Fort Worth,1.0,1,Segmen 1
+AC00346,2023-03-13 16:26:30,180.46,ATM,Debit,Fresno,1.0,2,Segmen 2
+AC00347,2023-10-16 16:44:52,235.21,Branch,Debit,Boston,1.0,2,Segmen 2
+AC00347,2023-11-13 16:03:01,137.84,ATM,Debit,Omaha,1.0,2,Segmen 2
+AC00347,2023-12-25 16:25:42,411.47,ATM,Debit,Fort Worth,1.0,2,Segmen 2
+AC00348,2023-04-18 17:27:23,858.63,Branch,Credit,San Francisco,1.0,2,Segmen 2
+AC00348,2023-06-30 16:44:37,46.96,Online,Debit,Las Vegas,1.0,2,Segmen 2
+AC00348,2023-08-10 18:30:37,474.05,ATM,Debit,San Jose,1.0,2,Segmen 2
+AC00348,2023-11-02 16:15:50,65.32,ATM,Debit,Mesa,1.0,2,Segmen 2
+AC00349,2023-02-01 18:47:20,131.43,Online,Debit,Charlotte,1.0,1,Segmen 1
+AC00349,2023-05-12 16:14:22,232.35,Branch,Credit,Atlanta,1.0,1,Segmen 1
+AC00349,2023-08-21 16:46:05,381.33,ATM,Debit,Albuquerque,1.0,1,Segmen 1
+AC00349,2023-10-03 16:16:01,268.7,ATM,Debit,Milwaukee,1.0,1,Segmen 1
+AC00349,2023-10-23 16:15:08,1.14,Branch,Debit,Indianapolis,1.0,1,Segmen 1
+AC00349,2023-11-15 17:23:40,23.14,Online,Credit,Mesa,1.0,1,Segmen 1
+AC00350,2023-02-27 16:18:28,1496.57,Online,Debit,Memphis,1.0,0,Segmen 0
+AC00350,2023-07-20 16:58:05,319.27,Online,Credit,Omaha,1.0,0,Segmen 0
+AC00351,2023-01-18 16:59:48,203.12,ATM,Debit,San Jose,1.0,2,Segmen 2
+AC00351,2023-02-15 16:17:59,92.29,Branch,Debit,Albuquerque,1.0,2,Segmen 2
+AC00352,2023-01-09 16:53:25,349.34,ATM,Credit,Indianapolis,1.0,2,Segmen 2
+AC00352,2023-02-23 18:23:29,74.04,Online,Debit,Memphis,1.0,2,Segmen 2
+AC00352,2023-07-20 16:58:39,325.98,ATM,Debit,Washington,1.0,2,Segmen 2
+AC00352,2023-10-13 16:22:08,29.94,ATM,Debit,San Francisco,1.0,2,Segmen 2
+AC00353,2023-04-03 16:55:21,151.37,ATM,Debit,Baltimore,1.0,2,Segmen 2
+AC00353,2023-05-22 17:09:30,34.03,Branch,Debit,Los Angeles,1.0,2,Segmen 2
+AC00353,2023-09-15 17:09:41,127.0,Branch,Credit,Nashville,5.0,2,Segmen 2
+AC00353,2023-09-21 18:13:38,7.61,ATM,Debit,Atlanta,1.0,2,Segmen 2
+AC00354,2023-01-09 17:15:18,491.91,Online,Debit,Milwaukee,1.0,0,Segmen 0
+AC00354,2023-01-23 16:48:16,148.0,Branch,Debit,Tucson,1.0,0,Segmen 0
+AC00354,2023-06-09 16:20:12,109.28,Online,Debit,San Diego,4.0,0,Segmen 0
+AC00354,2023-08-10 16:48:55,176.11,Branch,Debit,San Jose,1.0,0,Segmen 0
+AC00354,2023-08-23 16:35:42,1162.42,Online,Credit,Detroit,1.0,0,Segmen 0
+AC00355,2023-01-25 17:46:40,317.94,ATM,Debit,Los Angeles,1.0,2,Segmen 2
+AC00355,2023-03-13 16:10:41,322.48,ATM,Debit,Jacksonville,1.0,2,Segmen 2
+AC00355,2023-10-10 16:49:03,275.59,Branch,Credit,Philadelphia,1.0,2,Segmen 2
+AC00356,2023-01-17 16:41:18,265.44,ATM,Debit,San Antonio,1.0,1,Segmen 1
+AC00356,2023-01-19 16:11:12,77.43,Online,Debit,Raleigh,1.0,1,Segmen 1
+AC00356,2023-01-20 18:31:25,42.09,Branch,Debit,Denver,1.0,1,Segmen 1
+AC00356,2023-05-25 16:16:02,862.34,Branch,Debit,Kansas City,1.0,1,Segmen 1
+AC00356,2023-06-15 16:10:51,8.75,ATM,Debit,Louisville,1.0,1,Segmen 1
+AC00356,2023-07-11 16:08:55,289.1,ATM,Debit,Baltimore,1.0,1,Segmen 1
+AC00356,2023-08-02 16:01:17,499.99,Branch,Debit,San Jose,1.0,1,Segmen 1
+AC00356,2023-09-07 17:44:26,538.13,ATM,Debit,Baltimore,1.0,1,Segmen 1
+AC00357,2023-01-24 16:00:14,386.38,Online,Debit,Phoenix,1.0,1,Segmen 1
+AC00357,2023-03-07 17:48:05,806.97,Online,Debit,Seattle,1.0,1,Segmen 1
+AC00357,2023-05-15 16:25:29,296.0,Branch,Debit,Las Vegas,1.0,1,Segmen 1
+AC00357,2023-05-29 16:20:29,100.99,ATM,Debit,New York,1.0,1,Segmen 1
+AC00357,2023-07-17 16:05:23,195.54,Online,Debit,Omaha,1.0,1,Segmen 1
+AC00357,2023-11-13 17:47:07,54.47,Branch,Credit,Philadelphia,1.0,1,Segmen 1
+AC00358,2023-01-05 16:40:09,434.17,ATM,Debit,Atlanta,5.0,1,Segmen 1
+AC00358,2023-02-22 17:01:35,17.79,Branch,Debit,Jacksonville,5.0,1,Segmen 1
+AC00358,2023-07-03 17:56:59,266.57,Online,Credit,Boston,1.0,1,Segmen 1
+AC00358,2023-07-31 16:25:26,493.11,Branch,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00358,2023-10-06 16:05:34,1762.28,ATM,Debit,Memphis,1.0,1,Segmen 1
+AC00358,2023-10-06 18:26:45,474.77,Online,Debit,Boston,1.0,1,Segmen 1
+AC00358,2023-11-10 18:02:07,88.4,Online,Debit,Fort Worth,1.0,1,Segmen 1
+AC00358,2023-11-17 16:02:02,63.34,Online,Credit,Detroit,1.0,1,Segmen 1
+AC00359,2023-03-13 17:23:24,877.81,Online,Debit,Los Angeles,1.0,1,Segmen 1
+AC00359,2023-04-03 16:14:34,251.8,ATM,Debit,Mesa,1.0,1,Segmen 1
+AC00359,2023-04-19 16:41:27,20.06,ATM,Debit,Memphis,1.0,1,Segmen 1
+AC00359,2023-08-30 18:00:09,139.03,Online,Credit,Los Angeles,1.0,1,Segmen 1
+AC00359,2023-10-03 16:48:49,297.6,Online,Debit,Milwaukee,1.0,1,Segmen 1
+AC00359,2023-12-14 18:32:14,492.93,Online,Debit,Columbus,1.0,1,Segmen 1
+AC00360,2023-03-13 16:41:12,463.92,Online,Debit,Mesa,1.0,2,Segmen 2
+AC00360,2023-04-17 17:58:55,361.22,ATM,Debit,Raleigh,1.0,2,Segmen 2
+AC00360,2023-06-15 17:22:42,139.69,Online,Debit,Indianapolis,1.0,2,Segmen 2
+AC00360,2023-07-31 17:37:31,46.75,Branch,Debit,Colorado Springs,1.0,2,Segmen 2
+AC00360,2023-08-21 18:51:06,155.51,ATM,Debit,Raleigh,1.0,2,Segmen 2
+AC00361,2023-05-26 16:00:45,126.6,Branch,Debit,San Antonio,1.0,0,Segmen 0
+AC00361,2023-11-27 16:16:19,114.35,Branch,Credit,El Paso,1.0,0,Segmen 0
+AC00362,2023-01-16 16:55:13,116.76,ATM,Debit,Philadelphia,1.0,1,Segmen 1
+AC00362,2023-02-09 17:50:23,45.77,Online,Debit,Philadelphia,1.0,1,Segmen 1
+AC00362,2023-05-08 17:29:00,644.08,Online,Debit,Atlanta,1.0,1,Segmen 1
+AC00362,2023-06-07 18:18:32,111.66,Online,Credit,Philadelphia,1.0,1,Segmen 1
+AC00362,2023-06-29 16:11:08,51.22,Branch,Debit,Fresno,1.0,1,Segmen 1
+AC00362,2023-08-07 18:02:59,52.95,Online,Credit,Charlotte,1.0,1,Segmen 1
+AC00362,2023-08-14 16:32:28,268.92,Branch,Debit,Chicago,1.0,1,Segmen 1
+AC00362,2023-08-14 17:25:14,376.78,Online,Credit,Nashville,1.0,1,Segmen 1
+AC00362,2023-08-16 17:49:13,205.58,Online,Debit,Portland,1.0,1,Segmen 1
+AC00362,2023-09-27 16:25:38,305.27,Online,Debit,Las Vegas,1.0,1,Segmen 1
+AC00362,2023-12-01 17:04:00,94.59,Online,Debit,Washington,1.0,1,Segmen 1
+AC00362,2023-12-08 16:51:28,717.74,Online,Credit,Sacramento,1.0,1,Segmen 1
+AC00363,2023-01-31 17:14:32,11.46,Branch,Credit,Austin,1.0,1,Segmen 1
+AC00363,2023-02-10 18:07:07,1362.55,ATM,Debit,El Paso,1.0,1,Segmen 1
+AC00363,2023-03-20 18:12:30,214.83,ATM,Credit,Tucson,1.0,1,Segmen 1
+AC00363,2023-03-27 16:42:16,3.3,Branch,Credit,Los Angeles,1.0,1,Segmen 1
+AC00363,2023-05-24 16:02:39,284.17,ATM,Debit,Memphis,1.0,1,Segmen 1
+AC00363,2023-07-07 17:24:42,144.1,Branch,Debit,Chicago,1.0,1,Segmen 1
+AC00363,2023-08-25 17:47:07,584.51,ATM,Debit,Denver,1.0,1,Segmen 1
+AC00363,2023-09-06 16:28:38,434.58,ATM,Debit,Memphis,1.0,1,Segmen 1
+AC00363,2023-11-06 17:19:21,643.38,Online,Credit,Detroit,1.0,1,Segmen 1
+AC00363,2023-11-16 16:30:01,436.8,Branch,Debit,Houston,1.0,1,Segmen 1
+AC00363,2023-12-07 16:19:07,49.62,ATM,Debit,Portland,1.0,1,Segmen 1
+AC00363,2023-12-20 16:17:11,533.61,Online,Debit,Mesa,1.0,1,Segmen 1
+AC00364,2023-10-16 16:06:05,143.54,ATM,Debit,Philadelphia,1.0,2,Segmen 2
+AC00365,2023-02-20 18:03:01,280.99,Branch,Debit,Houston,1.0,0,Segmen 0
+AC00365,2023-02-23 18:42:51,47.6,Online,Debit,Austin,1.0,0,Segmen 0
+AC00365,2023-07-10 16:43:05,139.45,Online,Debit,Boston,1.0,0,Segmen 0
+AC00365,2023-09-26 17:07:06,266.57,ATM,Debit,El Paso,1.0,0,Segmen 0
+AC00365,2023-10-27 16:42:49,255.26,Branch,Credit,San Francisco,1.0,0,Segmen 0
+AC00366,2023-05-05 17:34:22,115.11,Online,Debit,Albuquerque,1.0,1,Segmen 1
+AC00366,2023-05-15 17:46:13,111.08,Online,Debit,Chicago,1.0,1,Segmen 1
+AC00366,2023-05-19 16:54:16,199.09,Online,Debit,Detroit,1.0,1,Segmen 1
+AC00366,2023-06-19 18:12:16,372.41,ATM,Debit,San Diego,1.0,1,Segmen 1
+AC00366,2023-07-31 16:01:00,488.15,Branch,Debit,Louisville,1.0,1,Segmen 1
+AC00366,2023-08-07 16:39:52,566.33,ATM,Credit,Charlotte,1.0,1,Segmen 1
+AC00366,2023-08-16 16:11:56,83.16,ATM,Debit,Los Angeles,1.0,1,Segmen 1
+AC00366,2023-08-31 16:16:15,1108.46,Branch,Debit,Los Angeles,1.0,1,Segmen 1
+AC00367,2023-03-06 16:29:57,365.04,Branch,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00367,2023-05-22 17:59:02,365.48,Online,Credit,Seattle,1.0,1,Segmen 1
+AC00367,2023-06-01 18:04:35,490.82,ATM,Debit,Kansas City,1.0,1,Segmen 1
+AC00367,2023-07-17 17:49:22,28.31,Online,Credit,Miami,1.0,1,Segmen 1
+AC00367,2023-08-31 17:43:38,28.44,ATM,Debit,Fresno,1.0,1,Segmen 1
+AC00367,2023-09-20 16:57:04,141.49,Online,Credit,Baltimore,1.0,1,Segmen 1
+AC00367,2023-10-11 18:04:39,215.72,Branch,Credit,Columbus,1.0,1,Segmen 1
+AC00368,2023-01-06 17:35:08,389.05,ATM,Debit,Dallas,1.0,2,Segmen 2
+AC00368,2023-04-03 16:09:09,368.53,Branch,Debit,Raleigh,1.0,2,Segmen 2
+AC00368,2023-06-08 16:26:48,350.96,ATM,Debit,Tucson,1.0,2,Segmen 2
+AC00368,2023-07-18 16:38:11,35.46,ATM,Debit,Indianapolis,1.0,2,Segmen 2
+AC00369,2023-02-22 16:17:29,793.88,ATM,Credit,Los Angeles,1.0,1,Segmen 1
+AC00369,2023-03-09 18:04:32,638.24,Branch,Debit,Phoenix,1.0,1,Segmen 1
+AC00369,2023-08-11 16:43:45,541.79,ATM,Debit,Mesa,1.0,1,Segmen 1
+AC00369,2023-08-28 17:19:18,125.14,Branch,Debit,Baltimore,1.0,1,Segmen 1
+AC00369,2023-11-13 16:32:53,11.02,Branch,Debit,Tucson,1.0,1,Segmen 1
+AC00369,2023-12-07 17:33:16,169.97,ATM,Credit,San Diego,1.0,1,Segmen 1
+AC00370,2023-02-06 17:46:59,485.54,ATM,Debit,Houston,1.0,1,Segmen 1
+AC00370,2023-02-17 16:41:31,78.93,ATM,Debit,Mesa,1.0,1,Segmen 1
+AC00370,2023-02-27 17:01:24,417.26,Online,Credit,New York,1.0,1,Segmen 1
+AC00370,2023-08-22 18:11:16,821.54,Branch,Credit,Atlanta,1.0,1,Segmen 1
+AC00370,2023-10-16 16:22:32,131.69,Branch,Credit,Denver,1.0,1,Segmen 1
+AC00370,2023-12-01 17:01:30,194.99,Branch,Debit,Jacksonville,1.0,1,Segmen 1
+AC00370,2024-01-01 18:21:50,280.92,Online,Debit,Phoenix,1.0,1,Segmen 1
+AC00371,2023-02-10 17:06:40,321.15,Branch,Debit,Los Angeles,1.0,0,Segmen 0
+AC00371,2023-02-17 16:08:54,7.5,Online,Debit,Dallas,1.0,0,Segmen 0
+AC00372,2023-02-27 16:02:00,836.45,Online,Debit,Virginia Beach,1.0,0,Segmen 0
+AC00372,2023-03-31 16:52:35,986.81,Online,Credit,Houston,1.0,0,Segmen 0
+AC00372,2023-10-16 16:30:38,218.57,Branch,Credit,Memphis,1.0,0,Segmen 0
+AC00373,2023-01-02 16:47:11,93.14,Online,Debit,Memphis,1.0,1,Segmen 1
+AC00373,2023-01-09 16:49:07,14.16,Branch,Credit,Oklahoma City,1.0,1,Segmen 1
+AC00373,2023-05-19 17:57:36,124.22,ATM,Debit,Charlotte,1.0,1,Segmen 1
+AC00373,2023-06-12 17:36:25,52.94,Branch,Debit,Tucson,1.0,1,Segmen 1
+AC00373,2023-08-28 17:03:53,568.07,ATM,Debit,Washington,1.0,1,Segmen 1
+AC00373,2023-09-18 17:13:32,502.9,Online,Credit,Fresno,1.0,1,Segmen 1
+AC00373,2023-11-16 18:09:35,57.49,Online,Credit,Detroit,1.0,1,Segmen 1
+AC00373,2023-12-21 16:37:03,442.12,Online,Debit,Los Angeles,1.0,1,Segmen 1
+AC00374,2023-03-13 18:45:47,51.2,Online,Debit,Tucson,1.0,1,Segmen 1
+AC00374,2023-06-08 18:54:04,68.28,Online,Debit,Boston,1.0,1,Segmen 1
+AC00374,2023-06-14 16:06:24,138.68,Branch,Credit,Colorado Springs,1.0,1,Segmen 1
+AC00374,2023-08-04 17:53:40,316.95,Branch,Debit,Mesa,1.0,1,Segmen 1
+AC00374,2023-10-09 18:43:04,516.72,ATM,Debit,Mesa,1.0,1,Segmen 1
+AC00374,2023-12-15 17:01:58,245.62,Branch,Debit,San Antonio,1.0,1,Segmen 1
+AC00375,2023-06-09 16:10:51,147.4,Branch,Debit,San Jose,1.0,2,Segmen 2
+AC00375,2023-09-26 16:15:36,325.6,ATM,Debit,Dallas,1.0,2,Segmen 2
+AC00375,2023-12-18 18:26:07,506.26,ATM,Credit,Baltimore,1.0,2,Segmen 2
+AC00376,2023-02-23 17:30:07,213.25,Branch,Debit,San Francisco,1.0,0,Segmen 0
+AC00376,2023-03-29 16:20:33,103.76,Online,Debit,Kansas City,1.0,0,Segmen 0
+AC00376,2023-05-02 16:14:22,308.42,Branch,Debit,Nashville,1.0,0,Segmen 0
+AC00377,2023-01-27 17:38:07,577.12,ATM,Debit,Virginia Beach,1.0,2,Segmen 2
+AC00377,2023-02-24 16:33:33,301.51,ATM,Debit,Charlotte,1.0,2,Segmen 2
+AC00377,2023-06-21 16:52:25,32.34,Branch,Debit,Kansas City,1.0,2,Segmen 2
+AC00377,2023-06-22 16:38:46,277.7,Branch,Debit,Nashville,1.0,2,Segmen 2
+AC00378,2023-08-07 16:16:26,227.61,Online,Debit,Houston,1.0,1,Segmen 1
+AC00378,2023-09-25 16:23:57,981.76,Online,Debit,Milwaukee,1.0,1,Segmen 1
+AC00378,2023-10-19 16:13:30,4.58,Online,Credit,Atlanta,1.0,1,Segmen 1
+AC00378,2023-10-25 16:50:02,124.05,Branch,Credit,Albuquerque,1.0,1,Segmen 1
+AC00378,2023-10-31 16:49:13,118.1,Online,Debit,Memphis,1.0,1,Segmen 1
+AC00378,2023-11-16 17:26:37,521.81,ATM,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00379,2023-05-22 16:54:00,732.53,ATM,Credit,San Jose,1.0,0,Segmen 0
+AC00379,2023-10-04 16:01:18,8.95,Online,Debit,Oklahoma City,1.0,0,Segmen 0
+AC00380,2023-01-30 16:00:38,51.0,Branch,Debit,Seattle,1.0,0,Segmen 0
+AC00380,2023-03-20 18:28:48,116.86,ATM,Debit,Louisville,1.0,0,Segmen 0
+AC00380,2023-08-14 18:01:36,560.15,Online,Credit,Memphis,1.0,0,Segmen 0
+AC00380,2023-09-04 16:20:20,292.03,ATM,Credit,Memphis,1.0,0,Segmen 0
+AC00380,2023-10-09 17:20:09,139.53,Online,Credit,Louisville,1.0,0,Segmen 0
+AC00380,2023-12-25 16:56:06,17.1,ATM,Debit,Albuquerque,1.0,0,Segmen 0
+AC00381,2023-06-19 16:21:58,391.96,ATM,Debit,Memphis,1.0,2,Segmen 2
+AC00381,2023-09-25 18:46:41,23.38,Branch,Debit,Memphis,1.0,2,Segmen 2
+AC00381,2023-10-02 16:03:09,475.36,ATM,Debit,Phoenix,1.0,2,Segmen 2
+AC00382,2023-01-24 17:26:34,1427.71,Branch,Debit,New York,1.0,1,Segmen 1
+AC00382,2023-04-21 17:03:13,270.92,Branch,Credit,Louisville,1.0,1,Segmen 1
+AC00382,2023-05-29 16:09:59,181.81,Online,Credit,Austin,1.0,1,Segmen 1
+AC00382,2023-07-03 17:14:07,124.72,Branch,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00382,2023-07-17 16:20:27,223.22,ATM,Debit,Fort Worth,1.0,1,Segmen 1
+AC00382,2023-09-04 16:48:13,98.81,Branch,Debit,San Francisco,1.0,1,Segmen 1
+AC00383,2023-04-05 16:21:59,256.3,Online,Debit,New York,1.0,0,Segmen 0
+AC00383,2023-10-18 16:44:17,38.95,Online,Debit,Los Angeles,1.0,0,Segmen 0
+AC00383,2023-11-15 18:56:02,141.8,ATM,Debit,Chicago,1.0,0,Segmen 0
+AC00384,2023-02-13 17:04:50,276.26,Branch,Debit,Louisville,1.0,1,Segmen 1
+AC00384,2023-04-05 17:52:24,517.68,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00384,2023-07-24 17:07:27,16.53,ATM,Debit,Houston,1.0,1,Segmen 1
+AC00384,2023-09-06 16:01:35,179.0,ATM,Debit,Houston,1.0,1,Segmen 1
+AC00384,2023-09-11 16:16:06,876.57,ATM,Credit,Portland,1.0,1,Segmen 1
+AC00384,2023-09-25 17:13:36,302.45,Branch,Credit,San Antonio,1.0,1,Segmen 1
+AC00384,2023-12-04 18:11:56,393.74,Online,Debit,Charlotte,1.0,1,Segmen 1
+AC00385,2023-03-31 16:06:57,815.96,ATM,Debit,Nashville,1.0,1,Segmen 1
+AC00385,2023-06-07 16:07:22,220.52,ATM,Debit,Seattle,1.0,1,Segmen 1
+AC00385,2023-08-30 17:23:20,973.39,Branch,Debit,Sacramento,1.0,1,Segmen 1
+AC00385,2023-09-01 16:09:08,234.57,Online,Debit,Chicago,1.0,1,Segmen 1
+AC00385,2023-10-12 16:17:47,328.34,Online,Credit,San Diego,1.0,1,Segmen 1
+AC00385,2023-12-11 16:23:59,1431.54,Online,Debit,Portland,1.0,1,Segmen 1
+AC00386,2023-02-09 17:53:59,49.99,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00386,2023-04-24 17:16:27,39.69,Online,Debit,Austin,1.0,1,Segmen 1
+AC00386,2023-05-22 16:48:08,254.21,ATM,Debit,Phoenix,1.0,1,Segmen 1
+AC00386,2023-05-23 16:29:31,218.19,ATM,Debit,Austin,1.0,1,Segmen 1
+AC00386,2023-09-08 17:08:30,297.03,Online,Debit,Austin,1.0,1,Segmen 1
+AC00386,2023-10-06 16:14:51,135.43,ATM,Debit,San Jose,1.0,1,Segmen 1
+AC00386,2023-11-23 17:17:59,85.58,ATM,Debit,Fort Worth,1.0,1,Segmen 1
+AC00386,2023-12-12 17:20:46,663.45,ATM,Debit,Albuquerque,1.0,1,Segmen 1
+AC00387,2023-03-03 16:00:01,58.7,Branch,Debit,New York,1.0,0,Segmen 0
+AC00387,2023-07-10 16:37:11,362.04,Branch,Credit,Philadelphia,2.0,0,Segmen 0
+AC00387,2023-09-28 18:53:02,294.61,Branch,Debit,Omaha,1.0,0,Segmen 0
+AC00388,2023-05-24 16:12:18,248.76,ATM,Debit,Denver,1.0,2,Segmen 2
+AC00388,2023-09-04 17:22:24,1030.85,ATM,Debit,San Diego,1.0,2,Segmen 2
+AC00389,2023-05-22 17:58:55,247.17,Branch,Credit,Chicago,1.0,0,Segmen 0
+AC00389,2023-09-11 17:31:10,131.93,Branch,Credit,Fort Worth,1.0,0,Segmen 0
+AC00389,2023-10-04 17:06:57,557.26,ATM,Debit,San Jose,1.0,0,Segmen 0
+AC00390,2023-01-24 16:18:32,127.45,Online,Debit,Las Vegas,1.0,0,Segmen 0
+AC00390,2023-02-16 17:14:41,98.48,Branch,Debit,Miami,1.0,0,Segmen 0
+AC00390,2023-06-19 16:20:51,142.58,ATM,Debit,San Antonio,1.0,0,Segmen 0
+AC00390,2023-07-25 17:24:07,115.32,Branch,Debit,Denver,1.0,0,Segmen 0
+AC00390,2023-10-30 16:23:34,43.65,Branch,Credit,Charlotte,1.0,0,Segmen 0
+AC00390,2023-11-06 16:42:34,16.79,Online,Credit,Detroit,1.0,0,Segmen 0
+AC00391,2023-10-19 16:42:37,131.56,Branch,Debit,Charlotte,1.0,2,Segmen 2
+AC00391,2023-11-09 16:47:01,328.39,ATM,Debit,New York,1.0,2,Segmen 2
+AC00392,2023-06-07 17:21:28,494.52,Branch,Credit,Mesa,1.0,0,Segmen 0
+AC00392,2023-07-20 18:23:13,334.89,Online,Debit,Fort Worth,1.0,0,Segmen 0
+AC00392,2023-10-16 16:11:52,34.93,Branch,Debit,Columbus,1.0,0,Segmen 0
+AC00393,2023-02-03 16:08:47,339.35,ATM,Credit,Boston,1.0,1,Segmen 1
+AC00393,2023-04-03 17:15:01,92.15,ATM,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00393,2023-04-10 17:28:48,161.1,ATM,Credit,Miami,1.0,1,Segmen 1
+AC00393,2023-05-18 16:24:16,28.38,Branch,Debit,Sacramento,1.0,1,Segmen 1
+AC00393,2023-06-19 16:32:01,392.05,ATM,Debit,Denver,1.0,1,Segmen 1
+AC00393,2023-08-07 16:57:22,152.18,Online,Credit,Los Angeles,4.0,1,Segmen 1
+AC00393,2023-09-25 16:23:23,373.52,ATM,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00393,2023-10-31 16:46:18,134.92,Online,Debit,Los Angeles,1.0,1,Segmen 1
+AC00394,2023-01-17 16:03:41,33.06,Online,Credit,Fort Worth,1.0,1,Segmen 1
+AC00394,2023-02-06 17:21:37,36.74,Branch,Debit,Tucson,1.0,1,Segmen 1
+AC00394,2023-02-27 16:47:50,451.15,ATM,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00394,2023-03-03 16:57:11,270.36,ATM,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00394,2023-05-15 18:15:33,230.32,Branch,Debit,Las Vegas,1.0,1,Segmen 1
+AC00394,2023-09-22 18:02:42,139.52,Branch,Debit,Portland,1.0,1,Segmen 1
+AC00394,2023-11-23 17:42:11,519.62,Online,Credit,Washington,1.0,1,Segmen 1
+AC00395,2023-05-30 16:15:10,371.47,Branch,Credit,Milwaukee,1.0,0,Segmen 0
+AC00395,2023-07-10 17:29:39,391.66,Branch,Debit,Indianapolis,1.0,0,Segmen 0
+AC00395,2023-11-13 16:42:28,189.12,Branch,Credit,Indianapolis,1.0,0,Segmen 0
+AC00396,2023-01-10 16:41:42,76.21,Branch,Debit,Los Angeles,1.0,1,Segmen 1
+AC00396,2023-04-05 16:08:13,145.77,ATM,Debit,Memphis,1.0,1,Segmen 1
+AC00396,2023-04-20 18:26:50,254.37,Online,Credit,Dallas,1.0,1,Segmen 1
+AC00396,2023-07-05 17:21:56,91.84,Branch,Credit,Mesa,1.0,1,Segmen 1
+AC00396,2023-07-10 16:04:39,789.8,ATM,Debit,Jacksonville,1.0,1,Segmen 1
+AC00396,2023-07-10 17:49:18,1422.55,Branch,Debit,Washington,1.0,1,Segmen 1
+AC00396,2023-10-23 16:47:56,198.92,Online,Debit,Dallas,1.0,1,Segmen 1
+AC00396,2023-11-02 16:05:49,307.24,ATM,Debit,San Jose,2.0,1,Segmen 1
+AC00397,2023-01-20 16:23:48,233.44,Online,Debit,Chicago,1.0,1,Segmen 1
+AC00397,2023-02-13 16:21:46,18.3,Online,Debit,Mesa,1.0,1,Segmen 1
+AC00397,2023-02-20 16:28:39,71.9,Branch,Debit,Los Angeles,1.0,1,Segmen 1
+AC00397,2023-03-06 16:47:02,756.59,Branch,Debit,Sacramento,1.0,1,Segmen 1
+AC00397,2023-04-20 17:52:46,193.82,Branch,Debit,Kansas City,1.0,1,Segmen 1
+AC00397,2023-07-17 16:57:14,466.85,Branch,Debit,Austin,1.0,1,Segmen 1
+AC00398,2023-05-09 16:40:52,142.78,Branch,Debit,San Diego,1.0,1,Segmen 1
+AC00398,2023-06-06 17:56:44,418.02,ATM,Debit,Los Angeles,1.0,1,Segmen 1
+AC00398,2023-08-07 16:02:07,473.2,Online,Debit,Houston,1.0,1,Segmen 1
+AC00398,2023-09-04 17:46:20,175.07,Branch,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00398,2023-10-12 16:29:49,1159.39,Online,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00398,2023-11-01 16:09:05,285.26,ATM,Debit,Atlanta,1.0,1,Segmen 1
+AC00398,2023-11-27 18:26:02,206.46,ATM,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00399,2023-01-04 17:00:58,16.52,Online,Credit,Boston,1.0,0,Segmen 0
+AC00399,2023-05-01 17:21:46,300.61,Online,Debit,El Paso,1.0,0,Segmen 0
+AC00399,2023-06-13 16:06:05,267.55,Online,Debit,Charlotte,1.0,0,Segmen 0
+AC00399,2023-07-10 16:41:50,556.04,ATM,Debit,Denver,1.0,0,Segmen 0
+AC00399,2023-10-24 17:28:18,65.01,Online,Credit,Austin,1.0,0,Segmen 0
+AC00400,2023-02-24 17:00:26,135.03,ATM,Debit,San Francisco,1.0,0,Segmen 0
+AC00400,2023-06-08 16:43:06,188.99,Branch,Debit,Oklahoma City,1.0,0,Segmen 0
+AC00400,2023-07-31 16:13:12,78.33,Online,Credit,Memphis,1.0,0,Segmen 0
+AC00400,2023-12-04 18:06:30,64.58,Branch,Debit,El Paso,1.0,0,Segmen 0
+AC00400,2023-12-13 16:41:13,347.63,Online,Credit,Chicago,1.0,0,Segmen 0
+AC00401,2023-05-10 17:41:59,102.67,Branch,Debit,Albuquerque,1.0,1,Segmen 1
+AC00401,2023-08-11 16:02:33,223.76,Branch,Credit,Boston,1.0,1,Segmen 1
+AC00401,2023-10-04 17:49:29,435.27,Branch,Debit,Chicago,1.0,1,Segmen 1
+AC00401,2023-10-10 17:07:27,364.42,ATM,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00401,2023-11-02 16:36:37,523.74,ATM,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00401,2023-11-13 16:30:21,11.67,Branch,Debit,Fort Worth,1.0,1,Segmen 1
+AC00402,2023-07-05 17:49:26,770.65,Online,Debit,Jacksonville,1.0,0,Segmen 0
+AC00402,2023-07-06 16:04:39,330.61,Branch,Credit,Nashville,1.0,0,Segmen 0
+AC00402,2023-08-07 17:48:31,75.77,Branch,Debit,Charlotte,1.0,0,Segmen 0
+AC00402,2023-10-26 16:52:14,137.81,Branch,Debit,Detroit,1.0,0,Segmen 0
+AC00403,2023-03-20 17:17:27,128.4,ATM,Debit,Tucson,1.0,1,Segmen 1
+AC00403,2023-04-24 18:33:29,167.14,Online,Debit,Denver,1.0,1,Segmen 1
+AC00403,2023-05-29 17:53:03,22.81,Online,Debit,New York,1.0,1,Segmen 1
+AC00403,2023-07-24 17:30:24,79.43,ATM,Debit,Dallas,1.0,1,Segmen 1
+AC00403,2023-08-07 16:38:52,395.27,Online,Credit,Miami,1.0,1,Segmen 1
+AC00403,2023-10-23 18:38:15,6.0,Online,Debit,Chicago,1.0,1,Segmen 1
+AC00403,2023-11-06 16:19:31,154.24,ATM,Debit,Mesa,1.0,1,Segmen 1
+AC00403,2023-12-25 16:30:45,27.28,ATM,Debit,Atlanta,1.0,1,Segmen 1
+AC00404,2023-04-03 16:25:35,79.76,Online,Debit,Kansas City,1.0,0,Segmen 0
+AC00404,2023-04-25 16:41:32,127.78,ATM,Debit,Miami,1.0,0,Segmen 0
+AC00404,2023-10-30 16:01:43,63.98,Online,Debit,Baltimore,1.0,0,Segmen 0
+AC00404,2023-11-21 16:58:44,78.13,Branch,Debit,Milwaukee,1.0,0,Segmen 0
+AC00405,2023-01-11 18:07:25,109.43,Branch,Debit,Denver,1.0,1,Segmen 1
+AC00405,2023-01-16 18:02:19,362.68,ATM,Credit,Miami,1.0,1,Segmen 1
+AC00405,2023-01-24 17:17:20,335.63,Online,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00405,2023-08-14 18:08:27,247.93,Branch,Debit,Indianapolis,1.0,1,Segmen 1
+AC00405,2023-10-16 17:08:36,512.95,Branch,Debit,Columbus,1.0,1,Segmen 1
+AC00405,2023-11-22 16:07:19,997.43,Online,Debit,Seattle,1.0,1,Segmen 1
+AC00406,2023-06-19 18:22:10,183.71,ATM,Debit,Denver,1.0,2,Segmen 2
+AC00407,2023-01-02 16:51:47,584.41,ATM,Debit,Las Vegas,1.0,1,Segmen 1
+AC00407,2023-01-06 17:30:07,689.29,ATM,Debit,El Paso,1.0,1,Segmen 1
+AC00407,2023-01-16 16:50:13,122.45,Branch,Debit,New York,1.0,1,Segmen 1
+AC00407,2023-04-24 16:47:17,872.72,Online,Debit,Washington,1.0,1,Segmen 1
+AC00407,2023-07-20 18:13:07,219.44,Online,Debit,Washington,1.0,1,Segmen 1
+AC00407,2023-10-04 18:25:44,43.1,Branch,Debit,Denver,1.0,1,Segmen 1
+AC00407,2023-12-29 16:38:21,186.69,Branch,Debit,New York,1.0,1,Segmen 1
+AC00408,2023-04-17 16:12:22,308.23,ATM,Debit,Las Vegas,1.0,2,Segmen 2
+AC00408,2023-06-15 16:41:00,248.15,ATM,Debit,Milwaukee,1.0,2,Segmen 2
+AC00409,2023-04-25 18:47:16,568.68,ATM,Debit,Houston,1.0,0,Segmen 0
+AC00409,2023-07-12 16:58:17,76.02,Online,Credit,Albuquerque,1.0,0,Segmen 0
+AC00409,2023-10-24 16:12:19,122.81,Branch,Debit,San Jose,1.0,0,Segmen 0
+AC00409,2023-11-29 16:27:38,354.96,Online,Debit,Fort Worth,1.0,0,Segmen 0
+AC00409,2023-12-28 16:34:52,192.23,Online,Debit,Albuquerque,3.0,0,Segmen 0
+AC00410,2023-02-21 16:52:16,124.98,ATM,Debit,Washington,1.0,1,Segmen 1
+AC00410,2023-03-08 17:42:36,282.65,ATM,Debit,Fort Worth,1.0,1,Segmen 1
+AC00410,2023-07-07 17:40:58,170.19,Branch,Credit,Los Angeles,5.0,1,Segmen 1
+AC00410,2023-07-18 17:22:49,704.69,Online,Debit,Las Vegas,1.0,1,Segmen 1
+AC00410,2023-11-23 18:00:00,295.5,ATM,Debit,Mesa,1.0,1,Segmen 1
+AC00411,2023-05-29 16:17:37,359.42,Branch,Debit,Baltimore,1.0,1,Segmen 1
+AC00411,2023-05-31 16:25:19,826.23,ATM,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00411,2023-09-05 16:43:36,11.86,Branch,Debit,Sacramento,1.0,1,Segmen 1
+AC00411,2023-10-16 17:51:24,13.45,Online,Credit,Atlanta,1.0,1,Segmen 1
+AC00411,2023-12-28 16:27:12,111.55,ATM,Debit,Denver,1.0,1,Segmen 1
+AC00412,2023-03-13 16:59:33,227.5,Online,Debit,Sacramento,1.0,0,Segmen 0
+AC00412,2023-05-02 16:01:04,69.8,Branch,Credit,New York,1.0,0,Segmen 0
+AC00412,2023-08-07 17:17:34,407.65,ATM,Debit,Denver,1.0,0,Segmen 0
+AC00412,2023-10-30 17:48:09,438.59,Online,Debit,San Jose,1.0,0,Segmen 0
+AC00413,2023-01-27 16:35:40,365.7,Branch,Debit,Houston,2.0,1,Segmen 1
+AC00413,2023-09-08 18:24:14,121.82,Online,Debit,Dallas,1.0,1,Segmen 1
+AC00413,2023-11-07 18:57:13,854.64,Branch,Debit,Fort Worth,1.0,1,Segmen 1
+AC00413,2023-12-29 17:37:37,98.95,Branch,Debit,Mesa,1.0,1,Segmen 1
+AC00414,2023-04-17 16:10:19,420.6,Branch,Debit,Louisville,1.0,0,Segmen 0
+AC00414,2023-11-28 16:49:27,485.51,Online,Credit,Milwaukee,1.0,0,Segmen 0
+AC00414,2023-11-29 17:55:07,36.12,Online,Debit,Houston,1.0,0,Segmen 0
+AC00415,2023-01-11 16:09:36,69.38,Branch,Debit,Detroit,2.0,2,Segmen 2
+AC00415,2023-04-17 16:03:52,4.72,Branch,Debit,Fort Worth,1.0,2,Segmen 2
+AC00415,2023-11-06 17:22:58,34.07,Branch,Debit,Philadelphia,1.0,2,Segmen 2
+AC00416,2023-01-02 16:22:54,655.15,ATM,Debit,Seattle,1.0,2,Segmen 2
+AC00416,2023-03-08 16:39:14,285.18,Branch,Credit,Sacramento,1.0,2,Segmen 2
+AC00416,2023-04-19 16:38:41,1360.67,Branch,Debit,Raleigh,1.0,2,Segmen 2
+AC00416,2023-10-30 17:07:54,214.15,Branch,Debit,Raleigh,1.0,2,Segmen 2
+AC00417,2023-01-06 17:01:53,361.27,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00417,2023-01-23 18:06:58,51.07,Branch,Debit,Dallas,1.0,1,Segmen 1
+AC00417,2023-03-01 17:26:49,51.15,Branch,Credit,Los Angeles,1.0,1,Segmen 1
+AC00417,2023-08-09 18:42:25,6.03,Branch,Debit,Chicago,1.0,1,Segmen 1
+AC00417,2023-10-18 17:47:52,302.16,Online,Debit,Kansas City,5.0,1,Segmen 1
+AC00418,2023-06-19 17:31:08,178.88,Branch,Credit,Dallas,4.0,1,Segmen 1
+AC00418,2023-06-29 17:51:45,101.81,ATM,Debit,Fort Worth,1.0,1,Segmen 1
+AC00418,2023-08-21 17:36:05,75.53,Online,Credit,Fresno,1.0,1,Segmen 1
+AC00418,2023-09-08 16:48:51,288.17,Online,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00418,2023-10-16 16:32:31,1047.69,Online,Debit,Austin,1.0,1,Segmen 1
+AC00418,2023-10-16 18:53:31,25.94,Online,Credit,San Jose,5.0,1,Segmen 1
+AC00419,2023-03-01 16:56:01,451.7,Online,Debit,Chicago,1.0,0,Segmen 0
+AC00419,2023-03-29 17:47:16,104.63,ATM,Debit,Omaha,1.0,0,Segmen 0
+AC00419,2023-08-11 18:42:10,285.49,Branch,Credit,Charlotte,1.0,0,Segmen 0
+AC00420,2023-09-20 17:36:06,232.79,Branch,Credit,Indianapolis,1.0,0,Segmen 0
+AC00420,2023-10-16 17:32:16,1021.16,ATM,Debit,Albuquerque,1.0,0,Segmen 0
+AC00420,2023-12-25 16:28:20,474.77,Online,Credit,Indianapolis,1.0,0,Segmen 0
+AC00421,2023-07-27 16:22:52,93.26,Online,Credit,New York,1.0,0,Segmen 0
+AC00421,2023-07-31 18:39:50,328.47,ATM,Debit,San Antonio,1.0,0,Segmen 0
+AC00421,2023-11-20 16:29:28,242.39,ATM,Credit,San Antonio,1.0,0,Segmen 0
+AC00422,2023-02-20 16:20:28,122.14,Online,Debit,Omaha,1.0,0,Segmen 0
+AC00422,2023-03-20 17:13:09,135.15,Online,Debit,Colorado Springs,1.0,0,Segmen 0
+AC00422,2023-05-19 17:28:42,80.24,Branch,Credit,New York,1.0,0,Segmen 0
+AC00422,2023-07-10 18:34:22,235.42,Branch,Debit,Phoenix,1.0,0,Segmen 0
+AC00423,2023-02-06 16:05:08,252.93,ATM,Debit,Portland,1.0,1,Segmen 1
+AC00423,2023-03-28 18:30:25,44.52,Online,Debit,El Paso,1.0,1,Segmen 1
+AC00423,2023-06-07 16:26:52,256.05,ATM,Debit,Nashville,1.0,1,Segmen 1
+AC00423,2023-06-27 17:48:25,1919.11,ATM,Debit,Portland,1.0,1,Segmen 1
+AC00423,2023-09-28 17:06:32,61.77,Branch,Debit,Charlotte,1.0,1,Segmen 1
+AC00423,2023-11-27 18:32:49,503.76,Online,Debit,Los Angeles,1.0,1,Segmen 1
+AC00424,2023-02-24 16:57:24,230.3,Online,Debit,Colorado Springs,1.0,0,Segmen 0
+AC00424,2023-02-27 17:17:05,127.57,ATM,Debit,Nashville,1.0,0,Segmen 0
+AC00424,2023-06-19 17:50:29,56.02,Online,Debit,Memphis,1.0,0,Segmen 0
+AC00424,2023-07-07 16:38:12,535.91,Online,Debit,Las Vegas,1.0,0,Segmen 0
+AC00424,2023-07-13 17:48:24,262.22,ATM,Credit,Baltimore,1.0,0,Segmen 0
+AC00425,2023-03-02 16:05:09,644.17,ATM,Debit,San Antonio,1.0,1,Segmen 1
+AC00425,2023-05-31 16:28:06,279.6,ATM,Debit,Fort Worth,1.0,1,Segmen 1
+AC00425,2023-06-05 16:16:13,175.94,ATM,Debit,Indianapolis,1.0,1,Segmen 1
+AC00425,2023-09-20 16:37:48,580.71,ATM,Debit,Philadelphia,1.0,1,Segmen 1
+AC00425,2023-10-09 18:41:21,299.92,ATM,Debit,Denver,1.0,1,Segmen 1
+AC00425,2023-11-07 16:48:23,349.64,Online,Debit,Las Vegas,1.0,1,Segmen 1
+AC00426,2023-02-02 16:55:25,303.97,Online,Debit,Fort Worth,5.0,1,Segmen 1
+AC00426,2023-03-06 18:27:13,107.03,Branch,Debit,Miami,1.0,1,Segmen 1
+AC00426,2023-06-12 17:09:42,98.41,Online,Debit,Sacramento,1.0,1,Segmen 1
+AC00426,2023-08-21 16:16:22,199.39,Branch,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00426,2023-08-31 16:38:18,116.58,Branch,Debit,Raleigh,1.0,1,Segmen 1
+AC00426,2023-10-23 17:25:04,668.78,ATM,Debit,Mesa,1.0,1,Segmen 1
+AC00427,2023-01-09 17:22:18,48.51,Branch,Debit,Austin,1.0,1,Segmen 1
+AC00427,2023-05-24 17:07:57,118.06,Branch,Credit,Las Vegas,1.0,1,Segmen 1
+AC00427,2023-07-21 17:02:42,43.46,ATM,Debit,Boston,1.0,1,Segmen 1
+AC00427,2023-10-02 16:35:22,112.07,Branch,Debit,Kansas City,1.0,1,Segmen 1
+AC00427,2023-11-06 16:56:41,270.25,ATM,Debit,Tucson,1.0,1,Segmen 1
+AC00427,2023-11-20 18:40:45,86.07,Branch,Debit,Dallas,1.0,1,Segmen 1
+AC00427,2023-11-22 16:10:32,162.36,Online,Debit,Tucson,1.0,1,Segmen 1
+AC00427,2023-11-29 18:10:30,630.24,ATM,Debit,Boston,1.0,1,Segmen 1
+AC00428,2023-01-19 17:08:04,141.91,Branch,Debit,Miami,1.0,2,Segmen 2
+AC00428,2023-02-23 16:54:09,1116.57,ATM,Debit,Tucson,1.0,2,Segmen 2
+AC00428,2023-11-08 18:24:56,469.46,ATM,Debit,New York,1.0,2,Segmen 2
+AC00429,2023-04-03 18:41:57,199.7,ATM,Debit,Indianapolis,1.0,2,Segmen 2
+AC00429,2023-07-31 16:51:50,54.25,Online,Debit,Virginia Beach,1.0,2,Segmen 2
+AC00429,2023-10-23 16:03:09,25.38,Branch,Debit,Louisville,1.0,2,Segmen 2
+AC00430,2023-02-13 17:18:15,341.15,Online,Debit,San Jose,1.0,1,Segmen 1
+AC00430,2023-02-20 18:41:43,705.6,Branch,Debit,Phoenix,3.0,1,Segmen 1
+AC00430,2023-03-23 16:17:51,101.51,Online,Credit,Tucson,1.0,1,Segmen 1
+AC00430,2023-08-28 17:13:52,5.76,Branch,Debit,Houston,1.0,1,Segmen 1
+AC00430,2023-09-04 17:17:40,86.35,Branch,Credit,Indianapolis,1.0,1,Segmen 1
+AC00430,2023-11-13 18:26:24,5.25,ATM,Debit,San Jose,1.0,1,Segmen 1
+AC00430,2023-12-25 16:58:19,227.39,Online,Debit,Atlanta,1.0,1,Segmen 1
+AC00431,2023-01-09 16:36:16,64.21,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00431,2023-02-06 17:32:04,297.86,ATM,Credit,Milwaukee,1.0,1,Segmen 1
+AC00431,2023-03-13 17:30:20,233.71,Online,Debit,Jacksonville,1.0,1,Segmen 1
+AC00431,2023-05-01 17:31:34,317.47,Online,Credit,Sacramento,1.0,1,Segmen 1
+AC00431,2023-05-24 16:14:34,1235.69,Branch,Credit,San Jose,1.0,1,Segmen 1
+AC00431,2023-06-16 17:21:15,378.85,Branch,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00431,2023-06-28 16:05:19,222.66,Online,Debit,Detroit,1.0,1,Segmen 1
+AC00432,2023-01-18 17:21:27,307.68,Online,Credit,Detroit,1.0,1,Segmen 1
+AC00432,2023-03-16 17:00:29,26.07,Branch,Debit,Baltimore,3.0,1,Segmen 1
+AC00432,2023-04-04 16:07:04,537.71,Online,Credit,Mesa,1.0,1,Segmen 1
+AC00432,2023-05-04 17:46:15,165.8,Online,Debit,Nashville,1.0,1,Segmen 1
+AC00432,2023-07-24 17:09:05,275.46,ATM,Debit,Fort Worth,1.0,1,Segmen 1
+AC00432,2023-10-31 16:54:40,11.09,Branch,Debit,Charlotte,1.0,1,Segmen 1
+AC00432,2023-11-27 16:18:25,350.15,ATM,Credit,Fresno,1.0,1,Segmen 1
+AC00433,2023-01-16 17:26:12,293.54,Online,Debit,Sacramento,1.0,0,Segmen 0
+AC00433,2023-05-15 16:52:40,1282.86,Branch,Debit,Austin,1.0,0,Segmen 0
+AC00433,2023-07-12 16:17:27,120.9,Branch,Debit,Tucson,1.0,0,Segmen 0
+AC00434,2023-02-10 16:01:04,188.7,Branch,Debit,New York,1.0,1,Segmen 1
+AC00434,2023-02-16 17:57:10,45.85,ATM,Debit,Los Angeles,1.0,1,Segmen 1
+AC00434,2023-04-24 16:47:20,41.49,Online,Debit,Albuquerque,1.0,1,Segmen 1
+AC00434,2023-05-31 16:54:20,870.43,Branch,Debit,Los Angeles,1.0,1,Segmen 1
+AC00434,2023-07-20 18:26:11,29.5,Online,Debit,San Antonio,1.0,1,Segmen 1
+AC00434,2023-11-02 16:01:40,5.77,Online,Debit,Charlotte,1.0,1,Segmen 1
+AC00434,2023-11-21 17:05:17,617.36,Online,Debit,Kansas City,1.0,1,Segmen 1
+AC00435,2023-01-16 18:03:02,71.87,ATM,Debit,Nashville,1.0,2,Segmen 2
+AC00435,2023-08-07 17:29:48,357.72,ATM,Debit,Miami,1.0,2,Segmen 2
+AC00436,2023-08-28 16:41:57,213.33,ATM,Debit,Omaha,1.0,0,Segmen 0
+AC00436,2023-09-18 16:00:54,83.39,Branch,Debit,Omaha,1.0,0,Segmen 0
+AC00436,2023-10-06 18:59:06,308.62,Branch,Credit,Sacramento,1.0,0,Segmen 0
+AC00436,2023-12-11 16:40:52,100.13,Branch,Debit,Denver,1.0,0,Segmen 0
+AC00436,2023-12-25 16:30:09,329.4,Online,Debit,Denver,1.0,0,Segmen 0
+AC00437,2023-01-09 16:45:12,7.95,ATM,Debit,Phoenix,1.0,2,Segmen 2
+AC00437,2023-03-27 16:12:36,22.59,ATM,Debit,Seattle,1.0,2,Segmen 2
+AC00437,2023-11-20 16:28:09,392.96,Online,Debit,Kansas City,1.0,2,Segmen 2
+AC00437,2023-12-05 16:19:23,498.67,Online,Debit,Miami,1.0,2,Segmen 2
+AC00438,2023-06-22 18:37:29,9.61,Online,Credit,San Diego,1.0,1,Segmen 1
+AC00438,2023-07-06 17:53:38,145.4,Online,Debit,Tucson,1.0,1,Segmen 1
+AC00438,2023-07-14 16:06:06,166.06,ATM,Debit,Indianapolis,1.0,1,Segmen 1
+AC00438,2023-07-28 18:42:51,135.35,Branch,Debit,Houston,1.0,1,Segmen 1
+AC00438,2023-07-31 16:52:24,125.39,ATM,Debit,Los Angeles,1.0,1,Segmen 1
+AC00438,2023-10-06 18:44:37,568.52,ATM,Debit,Indianapolis,1.0,1,Segmen 1
+AC00438,2023-11-16 17:57:45,120.86,Online,Debit,Colorado Springs,4.0,1,Segmen 1
+AC00438,2023-12-25 18:03:33,54.34,ATM,Debit,Albuquerque,1.0,1,Segmen 1
+AC00439,2023-04-03 16:35:29,308.94,Online,Debit,Los Angeles,1.0,1,Segmen 1
+AC00439,2023-06-02 16:48:43,138.95,Online,Debit,Washington,1.0,1,Segmen 1
+AC00439,2023-07-06 17:52:32,903.19,Online,Debit,El Paso,1.0,1,Segmen 1
+AC00439,2023-08-22 16:31:34,858.88,Online,Debit,Jacksonville,1.0,1,Segmen 1
+AC00439,2023-08-28 17:07:08,154.99,Branch,Debit,Mesa,1.0,1,Segmen 1
+AC00439,2023-09-04 17:32:35,403.01,Online,Debit,Washington,3.0,1,Segmen 1
+AC00439,2023-09-26 17:27:17,538.17,Branch,Credit,Washington,1.0,1,Segmen 1
+AC00439,2023-10-09 16:29:40,510.24,Online,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00439,2023-11-20 17:11:02,369.44,Online,Debit,Detroit,1.0,1,Segmen 1
+AC00440,2023-01-03 16:46:36,201.69,ATM,Debit,Las Vegas,1.0,2,Segmen 2
+AC00441,2023-03-27 17:54:30,86.41,ATM,Debit,Fresno,1.0,1,Segmen 1
+AC00441,2023-04-17 16:37:01,246.93,ATM,Debit,Miami,5.0,1,Segmen 1
+AC00441,2023-04-24 17:01:08,231.71,Branch,Debit,Raleigh,1.0,1,Segmen 1
+AC00441,2023-06-05 16:08:37,491.1,Online,Credit,Houston,1.0,1,Segmen 1
+AC00441,2023-08-29 16:16:15,51.25,Branch,Credit,Austin,1.0,1,Segmen 1
+AC00441,2023-12-04 16:25:27,800.29,Branch,Credit,San Diego,1.0,1,Segmen 1
+AC00442,2023-04-20 18:50:39,12.18,Branch,Debit,New York,1.0,1,Segmen 1
+AC00442,2023-04-20 18:50:39,12.18,Branch,Debit,New York,1.0,1,Segmen 1
+AC00442,2023-07-03 18:56:03,302.86,Online,Debit,Los Angeles,1.0,1,Segmen 1
+AC00442,2023-07-10 17:25:41,100.27,Online,Debit,Miami,1.0,1,Segmen 1
+AC00442,2023-08-30 16:11:47,218.96,ATM,Debit,Seattle,1.0,1,Segmen 1
+AC00442,2023-09-20 17:25:26,26.55,ATM,Debit,Houston,1.0,1,Segmen 1
+AC00442,2023-10-16 16:55:44,53.81,ATM,Credit,Raleigh,2.0,1,Segmen 1
+AC00442,2023-11-03 16:45:52,496.03,Branch,Debit,San Francisco,1.0,1,Segmen 1
+AC00442,2023-11-27 17:19:31,258.21,Online,Debit,San Antonio,1.0,1,Segmen 1
+AC00442,2023-12-11 16:47:05,210.45,ATM,Debit,Las Vegas,1.0,1,Segmen 1
+AC00443,2023-01-16 16:14:45,299.09,Branch,Credit,Boston,1.0,2,Segmen 2
+AC00443,2023-07-31 18:52:14,684.5,Branch,Debit,Fort Worth,1.0,2,Segmen 2
+AC00443,2023-09-19 16:32:00,524.55,ATM,Debit,El Paso,1.0,2,Segmen 2
+AC00443,2023-12-20 18:12:25,1076.98,Branch,Debit,Detroit,1.0,2,Segmen 2
+AC00444,2023-03-09 17:37:08,29.34,Online,Debit,Louisville,1.0,0,Segmen 0
+AC00444,2023-08-25 16:40:17,82.67,Branch,Debit,Milwaukee,1.0,0,Segmen 0
+AC00444,2023-12-01 17:29:15,157.7,Branch,Credit,Omaha,1.0,0,Segmen 0
+AC00444,2023-12-27 18:55:13,226.66,Branch,Debit,Louisville,1.0,0,Segmen 0
+AC00445,2023-02-28 16:34:45,207.82,Online,Credit,Las Vegas,1.0,0,Segmen 0
+AC00445,2023-08-17 16:18:22,77.02,Online,Credit,Miami,1.0,0,Segmen 0
+AC00445,2023-10-16 16:15:54,671.73,Branch,Debit,Washington,1.0,0,Segmen 0
+AC00445,2023-12-08 16:47:48,485.54,Online,Debit,Louisville,1.0,0,Segmen 0
+AC00446,2023-01-23 16:50:55,79.77,ATM,Debit,San Francisco,1.0,1,Segmen 1
+AC00446,2023-02-02 16:52:26,662.11,Branch,Debit,Atlanta,1.0,1,Segmen 1
+AC00446,2023-07-19 17:16:18,29.72,ATM,Debit,San Antonio,1.0,1,Segmen 1
+AC00446,2023-11-10 16:50:35,72.82,Online,Debit,Houston,1.0,1,Segmen 1
+AC00446,2023-12-19 16:11:38,192.02,Online,Credit,Indianapolis,1.0,1,Segmen 1
+AC00447,2023-03-27 17:02:44,50.4,Branch,Debit,San Antonio,1.0,2,Segmen 2
+AC00447,2023-05-31 16:50:20,210.77,ATM,Debit,Mesa,1.0,2,Segmen 2
+AC00447,2023-08-08 17:06:41,160.24,ATM,Debit,Washington,1.0,2,Segmen 2
+AC00447,2023-10-20 16:02:07,211.69,Branch,Debit,Atlanta,1.0,2,Segmen 2
+AC00448,2023-03-10 16:28:07,27.61,ATM,Credit,Fort Worth,1.0,1,Segmen 1
+AC00448,2023-03-23 17:26:31,222.96,ATM,Credit,Fresno,1.0,1,Segmen 1
+AC00448,2023-04-10 17:48:18,72.5,ATM,Debit,Fort Worth,1.0,1,Segmen 1
+AC00448,2023-05-10 16:27:51,183.32,ATM,Debit,Raleigh,1.0,1,Segmen 1
+AC00448,2023-06-19 16:20:40,590.26,Branch,Credit,Austin,1.0,1,Segmen 1
+AC00448,2023-08-14 18:13:38,23.3,ATM,Debit,Los Angeles,1.0,1,Segmen 1
+AC00448,2023-11-28 16:45:08,57.91,Branch,Credit,Sacramento,1.0,1,Segmen 1
+AC00449,2023-03-06 16:25:52,80.38,Online,Debit,Kansas City,1.0,0,Segmen 0
+AC00449,2023-04-10 17:58:46,98.24,Online,Debit,Mesa,1.0,0,Segmen 0
+AC00449,2023-04-24 16:24:49,10.65,Online,Debit,Louisville,1.0,0,Segmen 0
+AC00449,2023-05-26 17:56:17,265.37,Branch,Debit,Washington,1.0,0,Segmen 0
+AC00449,2023-06-23 16:10:12,341.84,Branch,Credit,El Paso,1.0,0,Segmen 0
+AC00450,2023-02-13 18:27:34,57.38,Online,Debit,Kansas City,1.0,0,Segmen 0
+AC00450,2023-08-07 16:37:06,654.48,Branch,Debit,Columbus,1.0,0,Segmen 0
+AC00450,2023-10-09 18:20:39,209.03,Branch,Debit,Detroit,1.0,0,Segmen 0
+AC00451,2023-06-20 17:05:38,332.33,ATM,Debit,Kansas City,1.0,0,Segmen 0
+AC00451,2023-07-07 17:31:07,743.24,Online,Credit,Indianapolis,1.0,0,Segmen 0
+AC00451,2023-07-31 16:25:38,42.56,Online,Debit,Fresno,1.0,0,Segmen 0
+AC00451,2023-10-09 17:48:55,11.92,Online,Debit,San Diego,1.0,0,Segmen 0
+AC00452,2023-01-03 16:42:41,243.8,Branch,Debit,San Francisco,1.0,0,Segmen 0
+AC00452,2023-06-19 17:25:35,45.92,ATM,Debit,Nashville,1.0,0,Segmen 0
+AC00452,2023-07-03 16:48:21,778.49,Online,Credit,Omaha,1.0,0,Segmen 0
+AC00452,2023-07-12 16:50:42,30.87,ATM,Debit,Fresno,1.0,0,Segmen 0
+AC00452,2023-10-25 17:37:30,68.49,Online,Debit,Nashville,1.0,0,Segmen 0
+AC00453,2023-02-13 16:43:40,233.74,Online,Debit,Boston,1.0,1,Segmen 1
+AC00453,2023-02-17 16:57:32,270.56,Online,Debit,Philadelphia,1.0,1,Segmen 1
+AC00453,2023-02-17 18:16:05,521.15,ATM,Debit,Kansas City,1.0,1,Segmen 1
+AC00453,2023-02-27 17:06:36,472.48,Branch,Debit,New York,1.0,1,Segmen 1
+AC00453,2023-03-06 18:04:32,159.0,ATM,Debit,Las Vegas,1.0,1,Segmen 1
+AC00453,2023-05-01 16:23:22,109.91,Branch,Debit,Seattle,1.0,1,Segmen 1
+AC00453,2023-05-02 18:25:46,345.84,Online,Debit,Fort Worth,3.0,1,Segmen 1
+AC00453,2023-09-01 17:26:02,147.62,Branch,Debit,Charlotte,1.0,1,Segmen 1
+AC00453,2023-09-21 16:52:18,110.4,ATM,Credit,San Diego,1.0,1,Segmen 1
+AC00454,2023-06-14 17:07:08,253.47,Branch,Debit,Atlanta,1.0,1,Segmen 1
+AC00454,2023-09-22 17:44:42,124.84,Online,Debit,Louisville,1.0,1,Segmen 1
+AC00454,2023-11-17 17:31:06,422.14,Branch,Credit,Albuquerque,1.0,1,Segmen 1
+AC00454,2023-12-20 16:08:02,1176.28,ATM,Credit,Kansas City,5.0,1,Segmen 1
+AC00455,2023-01-16 16:01:34,199.84,ATM,Debit,Dallas,1.0,1,Segmen 1
+AC00455,2023-05-23 16:03:54,178.87,Online,Debit,Baltimore,1.0,1,Segmen 1
+AC00455,2023-06-19 16:22:28,787.41,Online,Debit,Memphis,1.0,1,Segmen 1
+AC00455,2023-06-27 16:44:19,376.24,ATM,Debit,Houston,1.0,1,Segmen 1
+AC00455,2023-10-16 18:15:48,372.5,ATM,Debit,Nashville,1.0,1,Segmen 1
+AC00455,2023-11-28 18:04:26,116.27,Online,Debit,Portland,1.0,1,Segmen 1
+AC00456,2023-01-02 16:00:06,68.1,ATM,Debit,Milwaukee,1.0,1,Segmen 1
+AC00456,2023-01-19 16:45:16,1022.75,Branch,Credit,San Jose,1.0,1,Segmen 1
+AC00456,2023-02-14 16:06:36,78.5,Branch,Credit,San Jose,1.0,1,Segmen 1
+AC00456,2023-03-03 17:37:41,292.56,Branch,Credit,Dallas,1.0,1,Segmen 1
+AC00456,2023-04-10 18:26:56,97.09,ATM,Debit,Fort Worth,4.0,1,Segmen 1
+AC00456,2023-04-17 16:27:27,3.85,ATM,Debit,San Jose,1.0,1,Segmen 1
+AC00456,2023-07-10 18:16:07,101.04,ATM,Debit,San Antonio,1.0,1,Segmen 1
+AC00456,2023-08-14 17:18:07,543.47,ATM,Debit,Los Angeles,1.0,1,Segmen 1
+AC00456,2023-12-05 16:01:44,53.79,ATM,Credit,Philadelphia,3.0,1,Segmen 1
+AC00457,2023-05-04 16:37:21,256.95,Branch,Debit,San Diego,1.0,2,Segmen 2
+AC00457,2023-08-03 17:32:39,406.12,ATM,Debit,Houston,1.0,2,Segmen 2
+AC00457,2023-09-05 17:02:23,121.71,ATM,Debit,Chicago,1.0,2,Segmen 2
+AC00458,2023-01-02 17:49:44,156.26,Branch,Credit,Virginia Beach,1.0,1,Segmen 1
+AC00458,2023-01-17 16:10:33,88.38,ATM,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00458,2023-06-05 17:28:06,46.12,Branch,Debit,Fresno,1.0,1,Segmen 1
+AC00458,2023-12-01 17:35:32,5.71,Branch,Debit,Tucson,1.0,1,Segmen 1
+AC00458,2023-12-08 16:06:14,633.87,Online,Debit,Kansas City,1.0,1,Segmen 1
+AC00458,2023-12-11 16:03:50,317.12,Branch,Debit,Fort Worth,1.0,1,Segmen 1
+AC00459,2023-02-06 17:30:00,190.02,Online,Debit,Memphis,1.0,0,Segmen 0
+AC00459,2023-02-13 16:03:33,414.49,Online,Credit,Phoenix,1.0,0,Segmen 0
+AC00459,2023-02-13 18:17:28,11.04,Online,Debit,Phoenix,1.0,0,Segmen 0
+AC00459,2023-06-19 16:38:13,126.04,Branch,Credit,Charlotte,1.0,0,Segmen 0
+AC00459,2023-07-24 16:45:31,374.5,Branch,Credit,San Francisco,1.0,0,Segmen 0
+AC00459,2023-12-06 18:15:42,285.69,ATM,Debit,Miami,1.0,0,Segmen 0
+AC00459,2023-12-26 17:40:23,111.79,Online,Debit,Jacksonville,1.0,0,Segmen 0
+AC00460,2023-01-03 17:14:14,379.54,Branch,Credit,Indianapolis,1.0,1,Segmen 1
+AC00460,2023-02-06 18:59:44,170.53,Branch,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00460,2023-02-08 16:42:59,26.5,Online,Debit,Indianapolis,1.0,1,Segmen 1
+AC00460,2023-04-18 18:40:47,521.06,Branch,Debit,Albuquerque,1.0,1,Segmen 1
+AC00460,2023-05-05 16:10:24,659.71,Branch,Credit,San Jose,1.0,1,Segmen 1
+AC00460,2023-05-22 17:45:50,999.28,Online,Debit,Boston,1.0,1,Segmen 1
+AC00460,2023-07-17 18:24:15,431.08,Branch,Debit,Albuquerque,1.0,1,Segmen 1
+AC00460,2023-09-07 16:27:03,1607.55,ATM,Debit,Phoenix,1.0,1,Segmen 1
+AC00460,2023-10-17 17:46:52,484.3,Online,Credit,Boston,3.0,1,Segmen 1
+AC00460,2023-10-23 16:19:39,242.85,Online,Debit,Albuquerque,1.0,1,Segmen 1
+AC00460,2024-01-01 16:45:56,0.84,ATM,Debit,Austin,1.0,1,Segmen 1
+AC00461,2023-02-09 16:34:53,117.28,Online,Credit,Austin,1.0,0,Segmen 0
+AC00461,2023-12-08 16:16:02,350.46,Branch,Debit,Nashville,1.0,0,Segmen 0
+AC00462,2023-02-20 16:47:23,47.48,Branch,Debit,El Paso,1.0,0,Segmen 0
+AC00462,2023-05-11 18:31:20,105.37,ATM,Debit,Sacramento,1.0,0,Segmen 0
+AC00462,2023-06-27 17:50:21,17.67,Online,Debit,San Diego,1.0,0,Segmen 0
+AC00462,2023-08-07 16:21:37,99.76,Branch,Debit,Sacramento,1.0,0,Segmen 0
+AC00462,2023-09-04 16:34:53,184.51,Online,Credit,Portland,1.0,0,Segmen 0
+AC00462,2023-11-27 16:27:56,39.41,Branch,Debit,Louisville,1.0,0,Segmen 0
+AC00463,2023-02-27 17:14:10,308.68,Online,Debit,Milwaukee,1.0,0,Segmen 0
+AC00463,2023-03-27 17:16:08,7.76,Online,Credit,Las Vegas,1.0,0,Segmen 0
+AC00463,2023-10-12 16:37:49,83.79,ATM,Debit,Nashville,1.0,0,Segmen 0
+AC00463,2023-12-06 16:10:00,79.33,Online,Credit,Las Vegas,1.0,0,Segmen 0
+AC00464,2023-02-24 16:29:23,196.16,Branch,Debit,Virginia Beach,1.0,1,Segmen 1
+AC00464,2023-03-28 17:23:54,35.84,Online,Credit,Colorado Springs,1.0,1,Segmen 1
+AC00464,2023-09-04 18:46:40,1431.3,ATM,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00464,2023-09-06 16:24:45,14.0,ATM,Debit,San Antonio,1.0,1,Segmen 1
+AC00464,2023-09-27 16:50:01,577.13,Branch,Credit,San Jose,1.0,1,Segmen 1
+AC00464,2023-12-18 18:46:27,120.29,Branch,Debit,Miami,1.0,1,Segmen 1
+AC00464,2023-12-20 16:41:44,243.85,Branch,Debit,Omaha,1.0,1,Segmen 1
+AC00464,2023-12-29 18:29:23,83.6,ATM,Debit,San Jose,1.0,1,Segmen 1
+AC00465,2023-03-20 17:45:22,737.34,Online,Debit,Miami,1.0,1,Segmen 1
+AC00465,2023-03-21 17:12:03,189.45,Branch,Credit,Boston,1.0,1,Segmen 1
+AC00465,2023-04-14 17:21:48,106.16,ATM,Debit,Phoenix,4.0,1,Segmen 1
+AC00465,2023-04-19 17:03:11,40.12,ATM,Credit,Dallas,1.0,1,Segmen 1
+AC00465,2023-08-07 16:02:55,105.94,Branch,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00465,2023-09-11 16:35:15,21.23,ATM,Debit,Virginia Beach,4.0,1,Segmen 1
+AC00465,2023-09-19 16:56:35,81.08,ATM,Debit,Omaha,1.0,1,Segmen 1
+AC00465,2023-10-18 18:17:05,221.33,ATM,Debit,Louisville,1.0,1,Segmen 1
+AC00466,2023-04-28 18:11:55,1342.25,Branch,Credit,Fort Worth,1.0,1,Segmen 1
+AC00466,2023-06-29 16:16:37,61.43,Online,Debit,Phoenix,1.0,1,Segmen 1
+AC00466,2023-08-14 16:01:02,335.5,ATM,Debit,Sacramento,1.0,1,Segmen 1
+AC00466,2023-11-06 16:35:59,896.79,Online,Debit,Dallas,1.0,1,Segmen 1
+AC00467,2023-05-25 16:52:57,457.09,Online,Credit,Nashville,1.0,0,Segmen 0
+AC00467,2023-06-16 16:36:20,105.53,Online,Debit,Colorado Springs,1.0,0,Segmen 0
+AC00467,2023-12-18 16:25:18,639.57,Branch,Debit,Philadelphia,1.0,0,Segmen 0
+AC00468,2023-01-11 16:56:58,253.55,ATM,Debit,Jacksonville,5.0,0,Segmen 0
+AC00468,2023-03-27 16:56:29,170.36,ATM,Debit,Indianapolis,1.0,0,Segmen 0
+AC00468,2023-07-21 16:43:11,2.5,Online,Debit,San Diego,1.0,0,Segmen 0
+AC00468,2023-09-18 16:31:03,19.11,Online,Credit,Colorado Springs,1.0,0,Segmen 0
+AC00469,2023-04-06 17:24:16,65.57,Online,Debit,Miami,1.0,0,Segmen 0
+AC00470,2023-01-30 16:09:08,273.08,Branch,Credit,Houston,1.0,0,Segmen 0
+AC00470,2023-03-10 16:22:05,470.96,Online,Credit,Indianapolis,2.0,0,Segmen 0
+AC00470,2023-05-01 17:04:30,170.97,Branch,Debit,Nashville,1.0,0,Segmen 0
+AC00470,2023-05-26 17:32:29,790.07,Online,Debit,Miami,1.0,0,Segmen 0
+AC00471,2023-01-04 17:00:17,346.11,Branch,Debit,Dallas,1.0,0,Segmen 0
+AC00471,2023-03-21 16:20:33,121.43,Branch,Credit,Sacramento,1.0,0,Segmen 0
+AC00471,2023-03-27 16:45:18,22.01,Online,Credit,Sacramento,1.0,0,Segmen 0
+AC00471,2023-06-20 17:07:05,421.74,Online,Debit,San Jose,1.0,0,Segmen 0
+AC00471,2023-08-15 17:35:08,421.52,Branch,Debit,San Jose,1.0,0,Segmen 0
+AC00471,2023-12-25 17:46:24,436.64,Branch,Debit,Los Angeles,1.0,0,Segmen 0
+AC00472,2023-01-05 17:48:29,588.37,Online,Debit,Dallas,1.0,0,Segmen 0
+AC00473,2023-06-15 18:45:38,57.16,ATM,Debit,Columbus,1.0,2,Segmen 2
+AC00474,2023-03-13 17:26:41,119.01,ATM,Debit,Philadelphia,1.0,2,Segmen 2
+AC00474,2023-03-20 16:58:12,777.88,Branch,Debit,Houston,1.0,2,Segmen 2
+AC00474,2023-05-01 16:23:40,230.08,Online,Debit,Austin,1.0,2,Segmen 2
+AC00475,2023-06-02 18:12:29,188.13,Online,Credit,Jacksonville,1.0,1,Segmen 1
+AC00475,2023-06-05 18:09:44,164.51,Branch,Debit,Louisville,1.0,1,Segmen 1
+AC00475,2023-06-16 18:47:34,19.59,Branch,Debit,Charlotte,1.0,1,Segmen 1
+AC00475,2023-07-03 16:46:20,7.48,ATM,Debit,San Antonio,1.0,1,Segmen 1
+AC00475,2023-07-05 16:08:25,85.35,ATM,Debit,Washington,1.0,1,Segmen 1
+AC00475,2023-08-03 17:25:57,135.85,Online,Debit,Fresno,1.0,1,Segmen 1
+AC00475,2023-11-22 17:01:08,70.68,Online,Debit,El Paso,1.0,1,Segmen 1
+AC00475,2023-12-14 17:31:18,295.64,Online,Debit,Jacksonville,1.0,1,Segmen 1
+AC00476,2023-12-20 16:17:24,506.81,ATM,Debit,Milwaukee,1.0,2,Segmen 2
+AC00477,2023-02-06 16:07:26,724.18,Branch,Debit,Fort Worth,1.0,2,Segmen 2
+AC00477,2023-05-29 16:31:37,199.02,ATM,Debit,Houston,1.0,2,Segmen 2
+AC00477,2023-12-01 16:01:26,95.83,Online,Debit,Washington,1.0,2,Segmen 2
+AC00478,2023-01-16 16:15:57,444.47,Online,Debit,San Jose,1.0,1,Segmen 1
+AC00478,2023-02-14 16:07:01,126.21,Branch,Debit,Baltimore,1.0,1,Segmen 1
+AC00478,2023-04-03 16:37:24,525.28,ATM,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00478,2023-06-30 16:57:37,701.7,Online,Credit,Seattle,1.0,1,Segmen 1
+AC00478,2023-09-01 17:51:34,236.57,ATM,Debit,Sacramento,1.0,1,Segmen 1
+AC00478,2023-10-12 17:07:40,795.31,ATM,Debit,Mesa,2.0,1,Segmen 1
+AC00478,2023-11-09 17:26:27,216.76,Online,Credit,Omaha,1.0,1,Segmen 1
+AC00479,2023-01-30 18:50:00,22.26,Branch,Debit,San Antonio,1.0,2,Segmen 2
+AC00479,2023-07-31 16:04:55,432.08,ATM,Debit,El Paso,1.0,2,Segmen 2
+AC00479,2023-08-01 17:18:04,859.3,Branch,Credit,Colorado Springs,1.0,2,Segmen 2
+AC00479,2023-09-13 18:49:55,56.12,ATM,Debit,El Paso,1.0,2,Segmen 2
+AC00480,2023-01-09 16:13:21,34.02,Online,Debit,Philadelphia,1.0,1,Segmen 1
+AC00480,2023-01-18 17:03:54,363.53,ATM,Debit,Kansas City,1.0,1,Segmen 1
+AC00480,2023-01-31 16:02:23,659.15,ATM,Debit,Boston,1.0,1,Segmen 1
+AC00480,2023-02-06 16:54:19,61.37,Branch,Debit,Columbus,1.0,1,Segmen 1
+AC00480,2023-02-16 16:23:11,292.95,Branch,Debit,Memphis,1.0,1,Segmen 1
+AC00480,2023-03-27 18:06:17,1087.9,ATM,Debit,Boston,1.0,1,Segmen 1
+AC00480,2023-03-31 17:36:57,153.4,ATM,Debit,Mesa,1.0,1,Segmen 1
+AC00480,2023-04-06 16:03:23,50.52,Branch,Debit,Los Angeles,1.0,1,Segmen 1
+AC00480,2023-05-17 16:30:05,354.76,Branch,Debit,Detroit,1.0,1,Segmen 1
+AC00480,2023-09-05 18:45:22,201.73,Online,Debit,Baltimore,1.0,1,Segmen 1
+AC00480,2023-09-18 16:57:44,50.17,ATM,Credit,Sacramento,1.0,1,Segmen 1
+AC00481,2023-03-13 18:24:20,5.29,Online,Credit,San Francisco,1.0,0,Segmen 0
+AC00481,2023-07-27 18:34:19,25.29,Online,Debit,Miami,1.0,0,Segmen 0
+AC00481,2023-11-20 16:05:05,249.56,Branch,Debit,New York,1.0,0,Segmen 0
+AC00481,2023-11-23 17:44:29,327.8,ATM,Debit,San Francisco,1.0,0,Segmen 0
+AC00482,2023-02-21 17:45:55,424.56,Online,Debit,Omaha,1.0,1,Segmen 1
+AC00482,2023-03-14 17:10:00,15.95,Branch,Debit,Raleigh,1.0,1,Segmen 1
+AC00482,2023-10-03 17:27:25,686.17,ATM,Debit,Denver,1.0,1,Segmen 1
+AC00482,2023-10-17 17:24:47,283.45,Branch,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00482,2023-10-30 17:54:19,29.58,Branch,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00482,2024-01-01 16:53:32,154.32,ATM,Credit,Tucson,1.0,1,Segmen 1
+AC00483,2023-08-07 17:25:53,150.3,Online,Debit,Las Vegas,1.0,2,Segmen 2
+AC00483,2023-08-08 18:39:24,604.5,ATM,Debit,Portland,1.0,2,Segmen 2
+AC00483,2023-09-25 16:40:00,615.58,ATM,Debit,Jacksonville,1.0,2,Segmen 2
+AC00483,2023-10-16 16:13:57,235.34,Branch,Debit,Washington,1.0,2,Segmen 2
+AC00485,2023-02-16 17:05:58,617.66,ATM,Debit,Boston,1.0,2,Segmen 2
+AC00485,2023-12-26 17:10:01,63.33,Branch,Credit,Louisville,1.0,2,Segmen 2
+AC00486,2023-06-26 16:55:17,282.26,Online,Debit,Memphis,1.0,0,Segmen 0
+AC00487,2023-06-16 16:41:13,107.1,Online,Credit,Philadelphia,1.0,2,Segmen 2
+AC00487,2023-07-24 17:04:17,9.83,ATM,Debit,Memphis,1.0,2,Segmen 2
+AC00487,2023-10-02 16:20:52,278.28,Branch,Debit,Jacksonville,1.0,2,Segmen 2
+AC00487,2023-12-11 16:06:04,85.31,ATM,Debit,Kansas City,1.0,2,Segmen 2
+AC00488,2023-04-17 16:46:31,4.24,Online,Debit,San Diego,1.0,0,Segmen 0
+AC00488,2023-07-10 16:34:43,307.89,Online,Credit,Nashville,1.0,0,Segmen 0
+AC00488,2023-07-31 16:35:59,744.41,Online,Credit,Houston,1.0,0,Segmen 0
+AC00488,2023-11-06 17:53:25,30.23,ATM,Debit,Austin,1.0,0,Segmen 0
+AC00489,2023-07-24 17:01:19,21.27,Online,Credit,Indianapolis,1.0,0,Segmen 0
+AC00489,2023-09-25 16:11:18,167.44,Branch,Debit,Mesa,1.0,0,Segmen 0
+AC00489,2023-11-07 18:44:46,209.09,ATM,Debit,Virginia Beach,1.0,0,Segmen 0
+AC00490,2023-02-27 16:07:57,304.75,Branch,Credit,Austin,1.0,0,Segmen 0
+AC00490,2023-05-18 17:34:20,48.05,Branch,Debit,New York,1.0,0,Segmen 0
+AC00490,2023-06-22 16:47:47,107.4,Online,Debit,Virginia Beach,1.0,0,Segmen 0
+AC00490,2023-11-28 16:55:41,635.91,Branch,Credit,Jacksonville,1.0,0,Segmen 0
+AC00491,2023-04-26 18:35:50,37.57,ATM,Debit,El Paso,1.0,2,Segmen 2
+AC00492,2023-05-30 16:12:10,180.36,Online,Credit,Oklahoma City,1.0,0,Segmen 0
+AC00492,2023-05-31 16:37:39,28.53,Online,Debit,Washington,1.0,0,Segmen 0
+AC00492,2023-08-28 16:31:48,129.35,ATM,Debit,Las Vegas,1.0,0,Segmen 0
+AC00492,2023-10-16 18:07:26,81.11,Online,Debit,Charlotte,1.0,0,Segmen 0
+AC00492,2023-10-18 16:44:36,369.89,ATM,Debit,San Antonio,1.0,0,Segmen 0
+AC00493,2023-02-28 16:28:25,14.29,ATM,Debit,Los Angeles,1.0,2,Segmen 2
+AC00493,2023-04-03 16:05:30,165.31,ATM,Debit,Boston,1.0,2,Segmen 2
+AC00493,2023-05-01 17:17:12,17.07,Branch,Debit,Los Angeles,1.0,2,Segmen 2
+AC00493,2023-08-15 18:22:03,178.39,Online,Debit,Tucson,1.0,2,Segmen 2
+AC00493,2023-11-06 18:42:53,218.07,Branch,Debit,Austin,1.0,2,Segmen 2
+AC00494,2023-02-10 17:45:34,8.45,ATM,Debit,Philadelphia,1.0,0,Segmen 0
+AC00494,2023-03-15 17:10:12,1142.76,Online,Credit,Houston,1.0,0,Segmen 0
+AC00494,2023-10-10 18:14:12,430.98,Branch,Debit,Baltimore,1.0,0,Segmen 0
+AC00494,2023-11-03 16:45:25,291.22,Online,Credit,Baltimore,1.0,0,Segmen 0
+AC00495,2023-03-06 16:46:57,689.54,Branch,Debit,Oklahoma City,1.0,1,Segmen 1
+AC00495,2023-05-09 16:47:42,197.18,Online,Debit,Tucson,1.0,1,Segmen 1
+AC00495,2023-05-15 18:47:35,83.5,Branch,Debit,Dallas,5.0,1,Segmen 1
+AC00495,2023-08-03 16:19:27,206.95,Branch,Debit,Seattle,1.0,1,Segmen 1
+AC00495,2023-08-03 17:42:02,745.03,Online,Debit,Fort Worth,1.0,1,Segmen 1
+AC00495,2023-09-12 16:32:09,94.09,Branch,Debit,Miami,1.0,1,Segmen 1
+AC00495,2023-11-29 17:15:02,24.34,Branch,Debit,Raleigh,1.0,1,Segmen 1
+AC00495,2023-12-01 18:46:28,365.14,Online,Debit,Dallas,1.0,1,Segmen 1
+AC00496,2023-02-03 17:10:00,342.57,Online,Debit,Boston,1.0,2,Segmen 2
+AC00496,2023-04-26 17:55:11,194.37,ATM,Debit,Milwaukee,1.0,2,Segmen 2
+AC00497,2023-01-12 16:21:27,8.37,ATM,Debit,Colorado Springs,1.0,2,Segmen 2
+AC00497,2023-06-12 18:51:29,237.74,ATM,Debit,Tucson,1.0,2,Segmen 2
+AC00497,2023-06-26 16:11:29,183.67,Online,Debit,San Diego,1.0,2,Segmen 2
+AC00497,2023-07-31 17:46:50,333.83,ATM,Debit,Fresno,1.0,2,Segmen 2
+AC00497,2023-11-01 17:23:46,239.41,Online,Credit,Colorado Springs,1.0,2,Segmen 2
+AC00498,2023-01-23 16:05:26,139.88,ATM,Debit,Colorado Springs,1.0,1,Segmen 1
+AC00498,2023-04-17 17:27:15,1095.09,ATM,Debit,San Francisco,1.0,1,Segmen 1
+AC00498,2023-05-22 16:33:16,841.5,Branch,Credit,Atlanta,1.0,1,Segmen 1
+AC00498,2023-09-20 16:59:45,659.95,Online,Debit,Detroit,1.0,1,Segmen 1
+AC00498,2023-11-17 17:27:07,5.77,Branch,Credit,Los Angeles,1.0,1,Segmen 1
+AC00498,2023-12-11 17:28:44,225.1,ATM,Debit,Boston,1.0,1,Segmen 1
+AC00498,2024-01-01 16:34:10,56.98,ATM,Credit,Oklahoma City,2.0,1,Segmen 1
+AC00499,2023-01-09 17:17:53,40.03,Branch,Debit,Omaha,1.0,1,Segmen 1
+AC00499,2023-01-30 17:47:18,376.79,Branch,Debit,Milwaukee,1.0,1,Segmen 1
+AC00499,2023-02-20 18:48:52,49.67,Online,Debit,Atlanta,1.0,1,Segmen 1
+AC00499,2023-05-15 16:40:24,461.52,Branch,Credit,Denver,1.0,1,Segmen 1
+AC00499,2023-06-08 16:28:29,242.17,ATM,Debit,Jacksonville,1.0,1,Segmen 1
+AC00499,2023-11-15 18:57:38,313.82,Branch,Debit,Tucson,1.0,1,Segmen 1
+AC00499,2023-11-27 16:14:25,837.29,Branch,Debit,Phoenix,1.0,1,Segmen 1
+AC00500,2023-01-30 16:37:53,156.86,ATM,Debit,Charlotte,1.0,0,Segmen 0
+AC00500,2023-03-13 17:57:47,225.93,Branch,Credit,Omaha,1.0,0,Segmen 0
+AC00500,2023-07-06 16:47:00,129.62,ATM,Credit,San Jose,1.0,0,Segmen 0
+AC00500,2023-10-09 16:44:50,134.55,Online,Debit,San Jose,1.0,0,Segmen 0

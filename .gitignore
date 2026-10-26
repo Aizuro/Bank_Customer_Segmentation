@@ -1,0 +1,19 @@
+# .gitignore
+
+# API Keys - WAJIB diabaikan!
+.env
+
+# Log files
+logs/
+
+# Python cache
+__pycache__/
+*.pyc
+*.pyo
+
+# Virtual environment
+venv/
+.venv/
+
+# Dokumen PDF (opsional, tergantung ukuran)
+data/documents/

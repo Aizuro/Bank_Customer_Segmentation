@@ -1,0 +1,32 @@
+{
+  "k": 3,
+  "cluster_features": [
+    "n_txn",
+    "avg_amount",
+    "avg_balance",
+    "avg_amount_to_balance",
+    "avg_duration",
+    "multi_login_rate",
+    "online_share",
+    "atm_share",
+    "debit_share",
+    "n_locations"
+  ],
+  "log_features": [
+    "n_txn",
+    "avg_amount",
+    "avg_balance",
+    "avg_amount_to_balance"
+  ],
+  "n_customers": 494,
+  "silhouette": 0.13702979842394705,
+  "silhouette_null_mean": 0.08808967242159957,
+  "stability_ari": 0.6579792500543391,
+  "classifier": "Logistic Regression",
+  "classifier_test_macro_f1": 0.9903206291591046,
+  "versions": {
+    "python": "3.13.16",
+    "sklearn": "1.6.1",
+    "pandas": "2.2.3"
+  }
+}
